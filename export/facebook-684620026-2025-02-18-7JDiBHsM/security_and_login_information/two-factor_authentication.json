@@ -1,0 +1,24 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "State",
+      "value": "Disabled"
+    },
+    {
+      "label": "Creation time",
+      "timestamp_value": 1667511887
+    },
+    {
+      "label": "Update time",
+      "timestamp_value": 1667511887
+    },
+    {
+      "label": "Enabled time",
+      "timestamp_value": 0
+    }
+  ],
+  "fbid": "808652323525171"
+}

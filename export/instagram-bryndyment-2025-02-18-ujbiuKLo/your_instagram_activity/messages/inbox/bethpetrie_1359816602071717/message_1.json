@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Beth Petrie"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Beth Petrie",
+      "timestamp_ms": 1726093036543,
+      "content": "Beth sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C7ccJpmJJYs/?id=3376697629061977644_57038804116",
+        "share_text": "HIGH PROTEIN AVOCADO BREAD \u00f0\u009f\u00a5\u0091\n\nThis is too good to put into words! It\u00e2\u0080\u0099s soft, fluffy and so flavorful! Definitely give it a try and let me know when you do! \n\nYou\u00e2\u0080\u0099ll need:\u00e2\u0080\u00a81 ripe avocado, peeled and pitted \n142 grams organic whole milk cottage cheese (one 5oz container)\u00e2\u0080\u00a81 egg \u00e2\u0080\u00a8everything season (optional) \u00e2\u0080\u00a8\u00e2\u0080\u00a81. Combine all ingredients in a bowl.\u00e2\u0080\u00a82. Transfer the mixture by the spoonful to a parchment lined baking sheet.\u00e2\u0080\u00a83. Bake at 400F for 20 minutes.\u00e2\u0080\u00a84. Assemble as a sandwich or any way you see fit and enjoy! \u00f0\u009f\u0092\u009a\u00e2\u0080\u00a8.\u00e2\u0080\u00a8.\u00e2\u0080\u00a8.\u00e2\u0080\u00a8.\u00e2\u0080\u00a8#avocadobread #avocadosandwich #cottagecheese #cottagecheeserecipes #avocadolove #highproteinbread",
+        "original_content_owner": "lindsay.keosayian"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Beth Petrie",
+  "is_still_participant": true,
+  "thread_path": "inbox/bethpetrie_1359816602071717",
+  "magic_words": [
+    
+  ]
+}

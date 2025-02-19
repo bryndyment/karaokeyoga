@@ -1,0 +1,349 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Friend suggestions",
+      "vec": [
+        {
+          "value": "Yui Shinoda"
+        },
+        {
+          "value": "Yuuka Miyazono"
+        },
+        {
+          "value": "Chie Ito"
+        },
+        {
+          "value": "Ai Yamada"
+        },
+        {
+          "value": "Lauren MacIntyre"
+        },
+        {
+          "value": "Mire\u00c3\u00af Goda"
+        },
+        {
+          "value": "Emi Eto"
+        },
+        {
+          "value": "Dorothy Hill Rogers"
+        },
+        {
+          "value": "Marjorie Hargreaves"
+        },
+        {
+          "value": "Yukiko Kobuchi"
+        },
+        {
+          "value": "Sezaki  Fumiyasu"
+        },
+        {
+          "value": "Kodo Nakano"
+        },
+        {
+          "value": "Yoann Douillet"
+        },
+        {
+          "value": "Takanori  Ito"
+        },
+        {
+          "value": "\u00e6\u009d\u008e\u00e6\u0088\u0090\u00e5\u009c\u00ad"
+        },
+        {
+          "value": "Nasreen Ismaily"
+        },
+        {
+          "value": "Ikuo Kawai"
+        },
+        {
+          "value": "Yuki Imaoka"
+        },
+        {
+          "value": "Changkun Jeong"
+        },
+        {
+          "value": "Kazuhiko Nishi"
+        },
+        {
+          "value": "George Reith"
+        },
+        {
+          "value": "Naomi Tomoda"
+        },
+        {
+          "value": "Reiko Chigira Fukumoto"
+        },
+        {
+          "value": "\u00e3\u0082\u0088\u00e3\u0081\u0097 \u00e3\u0081\u00bc\u00e3\u0083\u00bc"
+        },
+        {
+          "value": "Masayoshi Kurita"
+        },
+        {
+          "value": "Morimasa Kawamura"
+        },
+        {
+          "value": "Waitei Mico"
+        },
+        {
+          "value": "Patrick J. Devitt"
+        },
+        {
+          "value": "Maja Sten"
+        },
+        {
+          "value": "Ernest Oppetit"
+        },
+        {
+          "value": "Hirooka  Yuuki"
+        },
+        {
+          "value": "Eve Henshall"
+        },
+        {
+          "value": "Akan\u00c3\u00a9 Kawa\u00c3\u00af Olsson"
+        },
+        {
+          "value": "Toyomu Oshiro"
+        },
+        {
+          "value": "Yakura Atsushi"
+        },
+        {
+          "value": "Tomoyasu  Takeuchi"
+        },
+        {
+          "value": "Naoko Shinoda"
+        },
+        {
+          "value": "Sabine Michel"
+        },
+        {
+          "value": "Julie Thompson"
+        },
+        {
+          "value": "Minao Kukita"
+        },
+        {
+          "value": "Steve Walker"
+        },
+        {
+          "value": "Thomas Olsson"
+        },
+        {
+          "value": "David Shao"
+        },
+        {
+          "value": "Ivy Hirokawa"
+        },
+        {
+          "value": "Takeda Michinori"
+        },
+        {
+          "value": "Judy Monico"
+        },
+        {
+          "value": "Riku Dyment"
+        },
+        {
+          "value": "JS Mayrand"
+        },
+        {
+          "value": "Josh Lambell"
+        },
+        {
+          "value": "\u00e3\u0082\u00aa\u00e3\u0082\u00b7\u00e3\u0082\u00ab\u00e3\u0083\u00af \u00e3\u0083\u00a6\u00e3\u0082\u00ad\u00e3\u0083\u009e\u00e3\u0082\u00b5"
+        },
+        {
+          "value": "Marcela Spadaro"
+        },
+        {
+          "value": "Naohide  Tsuji"
+        },
+        {
+          "value": "Tomoko Yanagisawa"
+        },
+        {
+          "value": "Tsubasa Minagawa"
+        },
+        {
+          "value": "Midori Odani"
+        },
+        {
+          "value": "Katsufumi Matsui"
+        },
+        {
+          "value": "Alan Teppett"
+        },
+        {
+          "value": "Lisa Taylor"
+        },
+        {
+          "value": "\u00e3\u0083\u00a0\u00e3\u0082\u00ae\u00e3\u0083\u009e\u00e3\u0083\u00ab KYOTO"
+        },
+        {
+          "value": "Graeme Arkell"
+        },
+        {
+          "value": "Nana Lorraine"
+        },
+        {
+          "value": "Masao Sugiyama"
+        },
+        {
+          "value": "Eric Guajardo"
+        },
+        {
+          "value": "Rosemary Joseph"
+        },
+        {
+          "value": "Nicky Harker"
+        },
+        {
+          "value": "Wessel Kooyman"
+        },
+        {
+          "value": "Hiroyuki Matsuoka"
+        },
+        {
+          "value": "\u00e5\u00ae\u00ae\u00e5\u00b6\u008b\u00e6\u00b8\u0085\u00e4\u00ba\u00ba"
+        },
+        {
+          "value": "\u00e6\u009e\u0097\u00e7\u0094\u00b0\u00e5\u0085\u0083"
+        },
+        {
+          "value": "Yusuke Uda"
+        },
+        {
+          "value": "John Kunze"
+        },
+        {
+          "value": "Ryohei Miyazono"
+        },
+        {
+          "value": "Ray Thro"
+        },
+        {
+          "value": "Nancy Marrs"
+        },
+        {
+          "value": "Mathieu Gosselin"
+        },
+        {
+          "value": "Dean Peterson"
+        },
+        {
+          "value": "Edward Lee"
+        },
+        {
+          "value": "Eliya Selhub"
+        },
+        {
+          "value": "Herman Breitholtz"
+        },
+        {
+          "value": "Akinori  Shimodaira"
+        },
+        {
+          "value": "Shigeo  Imamura"
+        },
+        {
+          "value": "Mitsutaka Nakao"
+        },
+        {
+          "value": "Pascal Condamine"
+        },
+        {
+          "value": "\u00e5\u00b7\u009d\u00e7\u00ab\u00af\u00e9\u009a\u0086\u00e4\u00bb\u00a3"
+        },
+        {
+          "value": "Ivan Diaz Sancho"
+        },
+        {
+          "value": "Vagner Blaya Gomes"
+        },
+        {
+          "value": "James Wolf"
+        },
+        {
+          "value": "Michael Nadler"
+        },
+        {
+          "value": "Demircan Ta\u00c5\u009f"
+        },
+        {
+          "value": "Mari Futagami"
+        },
+        {
+          "value": "Amy Claxt"
+        },
+        {
+          "value": "Bryan Kilfoil"
+        },
+        {
+          "value": "\u00e8\u0088\u009f\u00e8\u00b6\u008a\u00e4\u00bf\u008a\u00e5\u00b9\u00b3"
+        },
+        {
+          "value": "Yuuta Yokoi"
+        },
+        {
+          "value": "Cedric Michel"
+        },
+        {
+          "value": "Desak Juliani"
+        },
+        {
+          "value": "Jonas Hou"
+        },
+        {
+          "value": "Kohei Nishihara"
+        },
+        {
+          "value": "Vincenzo Battistella"
+        },
+        {
+          "value": "Hiromi Osakada"
+        },
+        {
+          "value": "Samuel Ethan"
+        },
+        {
+          "value": "Faith Van Wart"
+        },
+        {
+          "value": "Fr\u00c3\u00a9d\u00c3\u00a9ric Leyre"
+        },
+        {
+          "value": "Syuuhei Takei"
+        },
+        {
+          "value": "Lucia Juli\u00c3\u00a1 Carrera"
+        },
+        {
+          "value": "Takumi Irie"
+        },
+        {
+          "value": "Ryota Kurokawa"
+        },
+        {
+          "value": "Ryoko  Matsuda"
+        },
+        {
+          "value": "Thioudellet Corinne"
+        },
+        {
+          "value": "Sandra Nyholm"
+        },
+        {
+          "value": "Dominic Santini"
+        },
+        {
+          "value": "Keiko Ideno"
+        }
+      ]
+    }
+  ],
+  "fbid": "135962885026"
+}

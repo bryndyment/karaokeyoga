@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": 1735242528,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action"
+      },
+      {
+        "label": "Title",
+        "value": "https://www.newyorker.com/humor/daily-shouts/your-personality-explained-by-your-annoying-household-habits?source=Paid_Soc_FBIG_CM_0_ASC_0_NYR_INT_Prospecting_C&utm_source=facebook&utm_medium=Paid_Soc_FBIG_CM&utm_brand=tny&utm_campaign=paid-ASC&utm_paidredirect=Paid_Soc_FBIG_CMASC_C"
+      }
+    ],
+    "fbid": "684620026:1735242528414558:120214513650800198:6:AdsHistoryData"
+  },
+  {
+    "timestamp": 1735259412,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action"
+      },
+      {
+        "label": "Title",
+        "value": "https://nordvpn.com/offer/social/"
+      }
+    ],
+    "fbid": "684620026:1735259412289606:120213385069790301:6:AdsHistoryData"
+  },
+  {
+    "timestamp": 1736718543,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action"
+      },
+      {
+        "label": "Title",
+        "value": "{{destination.name}} \u00e8\u00a1\u008c\u00e3\u0081\u008d\u00e3\u0081\u00ae\u00e7\u0089\u00b9\u00e5\u0088\u00a5\u00e6\u0096\u0099\u00e9\u0087\u0091"
+      }
+    ],
+    "fbid": "684620026:1736718543315226:120213311479880567:6:AdsHistoryData"
+  },
+  {
+    "timestamp": 1737383651,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action"
+      },
+      {
+        "label": "Title",
+        "value": "https://asia.nikkei.com/"
+      }
+    ],
+    "fbid": "684620026:1737383651215176:6625196157719:3:AdsHistoryData"
+  },
+  {
+    "timestamp": 1738392432,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action"
+      },
+      {
+        "label": "Title",
+        "value": "https://www.hero-wars.com/?delayedsignup=true"
+      }
+    ],
+    "fbid": "684620026:1738392432015902:120215275627320194:6:AdsHistoryData"
+  },
+  {
+    "timestamp": 1739410956,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Action"
+      },
+      {
+        "label": "Title",
+        "value": "\u00e3\u0083\u0097\u00e3\u0083\u00ad\u00e3\u0083\u00a2\u00e3\u0082\u00b3\u00e3\u0083\u00bc\u00e3\u0083\u0089: {{product.custom_label_1}}"
+      }
+    ],
+    "fbid": "684620026:1739410956627657:120216518263720100:6:AdsHistoryData"
+  }
+]

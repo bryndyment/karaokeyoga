@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "maria"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1595403333757,
+      "content": "",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1595403333415,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "maria",
+  "is_still_participant": true,
+  "thread_path": "inbox/maria_559986488727649",
+  "magic_words": [
+    
+  ]
+}

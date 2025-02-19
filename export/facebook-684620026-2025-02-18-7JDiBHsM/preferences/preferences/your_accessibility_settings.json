@@ -1,0 +1,22 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Custom keyboard commands and shortcuts",
+      "dict": [
+        
+      ]
+    },
+    {
+      "label": "Are single key shortcuts disabled?",
+      "value": "True"
+    },
+    {
+      "label": "Are shortcut modifications enabled?",
+      "value": "Unspecified"
+    }
+  ],
+  "fbid": "10159354629740027"
+}

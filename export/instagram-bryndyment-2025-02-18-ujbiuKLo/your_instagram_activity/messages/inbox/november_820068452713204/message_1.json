@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "NoVember."
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "NoVember.",
+      "timestamp_ms": 1657372172298,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "NoVember.",
+      "timestamp_ms": 1657372170826,
+      "content": "Kind of",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1657396704
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1657367558134,
+      "content": "are you really that good?!?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "NoVember.",
+  "is_still_participant": true,
+  "thread_path": "inbox/november_820068452713204",
+  "magic_words": [
+    
+  ]
+}

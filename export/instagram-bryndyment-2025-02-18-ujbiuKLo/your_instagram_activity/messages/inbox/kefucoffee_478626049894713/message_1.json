@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "K\u00c3\u00a9FU COFFEE"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "K\u00c3\u00a9FU COFFEE",
+      "timestamp_ms": 1623125005451,
+      "content": "Hello!\nOur cafe is located in the western part of Tokyo.\nIt is Higashimurayama city.\n\nhttps://goo.gl/maps/BjtTYk3wrPN65Ndx7\n\nIt will open on June 26th.\n\nThanks.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1623128018
+        }
+      ],
+      "share": {
+        "link": "https://goo.gl/maps/BjtTYk3wrPN65Ndx7"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1622769583885,
+      "content": "2. when does it open?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1622769578126,
+      "content": "1. where is your tokyo cafe?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1622769572075,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "K\u00c3\u00a9FU COFFEE",
+  "is_still_participant": true,
+  "thread_path": "inbox/kefucoffee_478626049894713",
+  "magic_words": [
+    
+  ]
+}

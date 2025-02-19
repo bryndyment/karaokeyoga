@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Chris Haas"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chris Haas",
+      "timestamp_ms": 1721094992537,
+      "content": "Good point! He got to live the life he wanted, something he probably could not have done in the 50s or 60s.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1721094827542,
+      "content": "He lived 10x the life in the time he had, so he's way ahead.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1721094801310,
+      "content": "He didn't live but he is living on.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Haas",
+      "timestamp_ms": 1721094779083,
+      "content": "Poor Richard didn't live as long as a fitness guru might.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Haas",
+      "timestamp_ms": 1721094731478,
+      "content": "I also remember that I wore some girl's pink track suit.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1721094724835,
+      "content": "You're probably still recovering from that performance.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1721094626882,
+      "content": "No small feat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1721094619509,
+      "content": "Somehow you managed to out-enthuse Mr Simmons himself.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Haas",
+      "timestamp_ms": 1721094424818,
+      "content": "Haha!  I was telling a friend of mine about it the other night, in light of Richard's death.  It was some school student comedy assembly right before Christmas holidays IIRC.  There was also the closing skit where male teachers dressed as female ballerinas and danced to Sugar Plum Fairies from Tchaikovsky's Nutcracker ballet.  All things you probably couldn't get away with today, but we died of laughter at the time. So glad somebody remembered it!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1721092300517,
+      "content": "Will never forget your Richard Simmons impression.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chris Haas",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/chrishaas_10153207764236854",
+  "magic_words": [
+    
+  ]
+}

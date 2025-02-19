@@ -1,0 +1,145 @@
+{
+  "participants": [
+    {
+      "name": "Eileen Kennedy"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eileen Kennedy",
+      "timestamp_ms": 1623204491891,
+      "content": "Because it\u00e2\u0080\u0099s deep.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eileen Kennedy",
+      "timestamp_ms": 1623204448765,
+      "content": "It\u00e2\u0080\u0099s a very interesting marketing idea.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008c",
+          "actor": "Bryn Dyment",
+          "timestamp": 1623222156
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eileen Kennedy",
+      "timestamp_ms": 1623203870671,
+      "content": "Thanks. I like to know what other woodworking businesses do. I like their lines. I know I probably told you at least a few times but on my first trip to Japan in 2002, I visited a couple woodshops in Kyoto. Very memorable. Thanks for sharing inspiration \u00f0\u009f\u008c\u00b1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623191659191,
+      "content": "this is their normal business account",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623191658331,
+      "share": {
+        "link": "https://www.instagram.com/_u/yukuido",
+        "profile_share_username": "yukuido",
+        "profile_share_name": "YUKUIDO"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623191037205,
+      "content": "i think it\u00e2\u0080\u0099s just a regular wood shop business mon-fri \u00e2\u0080\u00a6 this community service thing is just on saturdays",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eileen Kennedy",
+      "timestamp_ms": 1623161213329,
+      "content": "Free, wow, amazing! How is it funded or what is the mission?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eileen Kennedy",
+      "timestamp_ms": 1623161143185,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623160576554,
+      "content": "this facility is 100% free \u00e2\u0080\u00a6 tools, wood, expertise",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623160546892,
+      "content": "caught it!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Eileen Kennedy",
+          "timestamp": 1623161143
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eileen Kennedy",
+      "timestamp_ms": 1623160328997,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eileen Kennedy",
+      "timestamp_ms": 1623158829139,
+      "content": "\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bcLooks like a lot of fun, especially to build together. I like the simplicity. Was that enough or have you caught the making bug?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623154573053,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Eileen Kennedy",
+          "timestamp": 1623160328
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/CP2w2FHMG2i/?carousel_share_child_media_id=2591473458171899298_44474205154",
+        "share_text": "#\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3 #\u00e5\u00ae\u00b6\u00e3\u0081\u00a5\u00e3\u0081\u008f\u00e3\u0082\u008a #\u00e3\u0082\u00b0\u00e3\u0083\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u00b3\u00e3\u0081\u00ae\u00e3\u0081\u0082\u00e3\u0082\u008b\u00e6\u009a\u00ae\u00e3\u0082\u0089\u00e3\u0081\u0097 #\u00e7\u0084\u00a1\u00e5\u009e\u00a2\u00e6\u009d\u0090 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3 #\u00e5\u00ae\u00b6\u00e3\u0081\u00a5\u00e3\u0081\u008f\u00e3\u0082\u008a #\u00e3\u0082\u00b0\u00e3\u0083\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u00b3\u00e3\u0081\u00ae\u00e3\u0081\u0082\u00e3\u0082\u008b\u00e6\u009a\u00ae\u00e3\u0082\u0089\u00e3\u0081\u0097 #\u00e7\u0084\u00a1\u00e5\u009e\u00a2\u00e6\u009d\u0090 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099 #\u00e8\u00b1\u008a\u00e3\u0081\u008b\u00e3\u0081\u00aa\u00e6\u009a\u00ae\u00e3\u0082\u0089\u00e3\u0081\u0097 #\u00e5\u00bb\u0083\u00e6\u009d\u0090 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e4\u00bd\u008f\u00e5\u00ae\u0085  #\u00e5\u00b7\u00a5\u00e5\u008b\u0099\u00e5\u00ba\u0097\u00e3\u0081\u008c\u00e3\u0081\u00a4\u00e3\u0081\u008f\u00e3\u0082\u008b\u00e5\u00ae\u00b6 #\u00e3\u0082\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u0080\u00e3\u0083\u00bc\u00e3\u0083\u00a1\u00e3\u0082\u00a4\u00e3\u0083\u0089\u00e5\u00ae\u00b6\u00e5\u0085\u00b7 #\u00e6\u009d\u00b1\u00e4\u00b8\u008a\u00e9\u0087\u008e #routebooks #\u00e5\u008f\u00a4\u00e6\u009d\u0090\u00e5\u00ae\u00b6\u00e5\u0085\u00b7 #\u00e5\u00bb\u0083\u00e6\u009d\u0090\u00e5\u00ae\u00b6\u00e5\u0085\u00b7 #yukuido #\u00e3\u0082\u0086\u00e3\u0081\u008f\u00e3\u0081\u0084\u00e5\u00a0\u0082#\u00e3\u0083\u00af\u00e3\u0083\u00bc\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u0083\u00e3\u0083\u0097#\u00e3\u0083\u008f\u00e3\u0082\u00a4\u00e3\u0082\u00b3\u00e3\u0083\u00bc\u00e3\u0082\u00ad#diy#\u00e3\u0082\u00b9\u00e3\u0083\u0084\u00e3\u0083\u00bc\u00e3\u0083\u00ab",
+        "original_content_owner": "yukuido_workshop"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eileen Kennedy",
+      "timestamp_ms": 1484258164677,
+      "content": "Hi Bryn, thanks for your follow!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eileen Kennedy",
+  "is_still_participant": true,
+  "thread_path": "inbox/eileenkennedy_503931814326871",
+  "magic_words": [
+    
+  ]
+}

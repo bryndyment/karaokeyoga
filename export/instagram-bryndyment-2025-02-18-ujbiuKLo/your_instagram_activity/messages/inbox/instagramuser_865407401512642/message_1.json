@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1662506645361,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CiDCAvroCH7/",
+        "share_text": "Somewhere artificial, a businessman favoured tonkotsu ramen above all else.\n\u00e2\u0080\u00a2\nP.S. If you are not into this AI-art stuff and are worried that these are going to take over my feed completely, don't be. This is just a fun side project and I will be returning to my photographs soon enough.\n\u00e2\u0080\u00a2\nMade with MidJourney AI.\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n#generativeart #moody #midjourney #aiart #cinematic #midjourneyart #businessman #bar #smoky #cyberpunk #ramen #bladerunner",
+        "original_content_owner": "laserkola"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_865407401512642",
+  "magic_words": [
+    
+  ]
+}

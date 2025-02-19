@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Greg Yermakov"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1674613231792,
+      "content": "interested in this?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1674613230917,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CnzqOwgIpXV/?carousel_share_child_media_id=3022945507000620501_7661036057",
+        "share_text": "California! We're heading to the Bay Area this May to play the second ever Mill Valley Music Festival! Badges go on sale at 12pm,pick them up at www.millvalleymusicfest.com. We will see you there!",
+        "original_content_owner": "jerryharrisonofficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Greg Yermakov",
+  "is_still_participant": true,
+  "thread_path": "inbox/gregyermakov_1121545895911445",
+  "magic_words": [
+    
+  ]
+}

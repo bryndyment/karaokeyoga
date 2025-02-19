@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Bryan Curran"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryan Curran",
+      "timestamp_ms": 1716726353907,
+      "content": "Ha wow! That's great to hear you two have such a positive relationship you're still working together years later. \n\nActually I've been in touch with him! A bit back and forth and he's now asking for documents like \"Personal History\", \"Business purpose for articles of association\", etc. and no explanation for what those are so that's why I was curious to know who your advisor was so I could find someone to ask these questions to without bugging Hayashi san directly. But it sounds like he IS the person who helped you along, so perhaps I'll just inquire with him. \n\nThanks again for your reply!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0085",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryan Curran",
+      "timestamp_ms": 1716726088230,
+      "content": "\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0081\u00ab\u00e3\u0080\u008c\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00ef\u00bc\u0081\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1716722310460,
+      "content": "i just got back from kyoto an hour ago and had a meeting with him while i was there",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryan Curran",
+          "timestamp": 1716726088
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1716722290394,
+      "content": "http://www.gaikokujin-backup.com/",
+      "share": {
+        "link": "http://www.gaikokujin-backup.com/",
+        "share_text": "\u00e4\u00ba\u00ac\u00e9\u0083\u00bd\u00e3\u0081\u00ae\u00e6\u009e\u0097\u00e5\u009b\u00bd\u00e9\u009a\u009b\u00e8\u00a1\u008c\u00e6\u0094\u00bf\u00e6\u009b\u00b8\u00e5\u00a3\u00ab\u00e3\u0081\u00af\u00e5\u00a4\u0096\u00e5\u009b\u00bd\u00e4\u00ba\u00ba\u00e9\u009b\u0087\u00e7\u0094\u00a8\u00e3\u0083\u00bb\u00e5\u00b0\u00b1\u00e5\u008a\u00b4\u00e3\u0083\u0093\u00e3\u0082\u00b6\u00e3\u0083\u00bb\u00e5\u00b8\u00b0\u00e5\u008c\u0096\u00e3\u0083\u00bb\u00e5\u009b\u00bd\u00e9\u009a\u009b\u00e7\u00b5\u0090\u00e5\u00a9\u009a\u00e3\u0081\u008c\u00e5\u00be\u0097\u00e6\u0084\u008f"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1716722206748,
+      "content": "he's a \"he\" by the way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1716722196865,
+      "content": "google!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryan Curran",
+      "timestamp_ms": 1716548703773,
+      "content": "Hey Bryn, we have very similar names. Actually I'm sorry to bother you but I wanted to ask a couple quick questions about your experience you wrote about getting a business manager visa. I've read that article probably 20 times this year because after years of saving (and a collapsing yen) I finally have the 5M JPY to get started.  Basically my question is: where did you find your advisor?  S/he sounds like a total rockstar in your story and a great advocate.  I hope you don",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bryan Curran",
+  "is_still_participant": true,
+  "thread_path": "inbox/bryancurran_1385254516209754",
+  "magic_words": [
+    
+  ]
+}

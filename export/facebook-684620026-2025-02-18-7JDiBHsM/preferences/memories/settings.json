@@ -1,0 +1,28 @@
+{
+  "timestamp": 1564096497,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Notifications setting"
+    },
+    {
+      "label": "Blocklisted users",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Dates you do not want to see Memories for",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Update time",
+      "timestamp_value": 1564096497
+    }
+  ],
+  "fbid": "10157173248730027"
+}

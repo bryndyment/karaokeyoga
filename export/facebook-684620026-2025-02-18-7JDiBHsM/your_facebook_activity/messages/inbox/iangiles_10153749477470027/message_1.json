@@ -1,0 +1,143 @@
+{
+  "participants": [
+    {
+      "name": "Ian Giles"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ian Giles",
+      "timestamp_ms": 1714859390594,
+      "content": "Hi Bryn, Sorry that we didn't connect when you were here.  I hope we get another chance.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1714437124019,
+      "content": "i'm back in Tokyo but am still planning on having a coffee with you one day!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1714437105881,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1689645575823,
+      "content": "hey! when are you in vancouver?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ian Giles",
+      "timestamp_ms": 1684339990376,
+      "content": "Great Bryn, thanks for reaching out to connect!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1684336671402,
+      "content": "(yes, i\u00e2\u0080\u0099ll be busy hunting down old friends)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1684336646569,
+      "content": "i\u00e2\u0080\u0099d love to \u00e2\u0080\u00a6 i will make it happen!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ian Giles",
+      "timestamp_ms": 1684336610869,
+      "content": "Wow, Tokyo! It would be fun to see you when you are in Canada and have a coffee.  I imagine you'll be busy when you visit, but I'll give you my cell and if you have time, let's connect. 778-888-5121",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1684336415357,
+      "content": "tokyo, but my folks are in gibsons \u00e2\u0080\u00a6 and my son\u00e2\u0080\u0099s at SFU",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ian Giles",
+      "timestamp_ms": 1684336384543,
+      "content": "No kidding!  I rarely go on FB.  Where are you now?  We are on Lasqueti Island, but spend about half our time in Vancouver.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1684336306791,
+      "content": "i\u00e2\u0080\u0099ll be in BC in july",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1684336286324,
+      "content": "lol \u00e2\u0080\u00a6 kinda funny saying hi after 40+ years",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ian Giles",
+      "timestamp_ms": 1684336256270,
+      "content": "Hi Bryn, how are you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1684336171544,
+      "content": "hey \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1642388520151,
+      "content": "we are not so far from you \u00e2\u0080\u00a6 in roberts creek",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1642388485001,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1365324171285,
+      "content": "Long long long long long long time ...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ian Giles",
+  "is_still_participant": true,
+  "thread_path": "inbox/iangiles_10153749477470027",
+  "magic_words": [
+    
+  ]
+}

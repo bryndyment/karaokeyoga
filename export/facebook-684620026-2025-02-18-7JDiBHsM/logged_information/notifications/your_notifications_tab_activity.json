@@ -1,0 +1,68 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Last tab visit time",
+      "timestamp_value": 1739856373
+    },
+    {
+      "label": "Last time you clicked a push notification",
+      "timestamp_value": 1541829709
+    },
+    {
+      "label": "Last time you hid friend recommendation notifications",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time you hid a friend request notificaton",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time you hid suggested page notifications",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time you hid a friend-related notification",
+      "timestamp_value": 0
+    },
+    {
+      "label": "The last time you hid Messenger notifications",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time you hid a group recommendation notification",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time you hid a notification summarizing the messages you have received",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time you turned off notifications about the messages you have received",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time you closed the button to go back to your News Feed",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time you hid notifications about new friends",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Highest number of push notifications received in a day from friends",
+      "value": "0"
+    },
+    {
+      "label": "Last time we sent you a friend related push notification",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time you hid the Explore unit in your notifications tab",
+      "timestamp_value": 0
+    }
+  ],
+  "fbid": "10155491757415027"
+}

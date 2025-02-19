@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Share location",
+      "value": "Default"
+    },
+    {
+      "label": "Composer tour completed",
+      "value": "False"
+    },
+    {
+      "label": "The last time post composer settings were applied to your posts",
+      "timestamp_value": 1662505400
+    }
+  ],
+  "fbid": "9496149103792125"
+}

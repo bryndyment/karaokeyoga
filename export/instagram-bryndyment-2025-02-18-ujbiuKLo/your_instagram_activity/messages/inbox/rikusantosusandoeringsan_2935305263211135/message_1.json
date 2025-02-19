@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Riku"
+    },
+    {
+      "name": "Bryn Dyment"
+    },
+    {
+      "name": "Susan Doering"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1501985279438,
+      "content": "heh!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Riku",
+      "timestamp_ms": 1501913185653,
+      "content": "Ha!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Susan Doering",
+      "timestamp_ms": 1501908845771,
+      "content": "A huge poodle named Riku!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Susan Doering",
+      "timestamp_ms": 1501908845771,
+      "share": {
+        "link": "https://www.instagram.com/p/BXYsYtbBXpO/?carousel_share_child_media_id=1574203281851644494_2012878828",
+        "share_text": "Riku (poodle) + Mame @tamanegi.qoo.riku",
+        "original_content_owner": "chillwildlife"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Riku\u00e3\u0081\u0095\u00e3\u0082\u0093\u00e3\u0081\u00a8Susan Doering\u00e3\u0081\u0095\u00e3\u0082\u0093",
+  "is_still_participant": true,
+  "thread_path": "inbox/rikusantosusandoeringsan_2935305263211135",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

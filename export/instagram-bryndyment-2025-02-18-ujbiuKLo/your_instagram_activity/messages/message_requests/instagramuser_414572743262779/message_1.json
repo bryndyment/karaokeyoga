@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1605887707590,
+      "content": "Hello how are you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_414572743262779",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

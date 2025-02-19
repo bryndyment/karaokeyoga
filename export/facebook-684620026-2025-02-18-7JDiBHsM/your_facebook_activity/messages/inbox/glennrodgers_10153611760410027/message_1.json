@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Glenn Rodgers"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1394588384776,
+      "content": "thank you!  46 ... still alive ... technology is amazing!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glenn Rodgers",
+      "timestamp_ms": 1394503869474,
+      "content": "Happy birthday Bryn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Glenn Rodgers",
+  "is_still_participant": true,
+  "thread_path": "inbox/glennrodgers_10153611760410027",
+  "magic_words": [
+    
+  ]
+}

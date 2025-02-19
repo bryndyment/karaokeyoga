@@ -1,0 +1,100 @@
+[
+  {
+    "timestamp": 1663059226,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "value": "COMMUNITY_CHATS"
+          },
+          {
+            "value": "ROLES_CENTER"
+          },
+          {
+            "value": "ROLES_MANAGEMENT"
+          },
+          {
+            "value": "MEMBERS"
+          },
+          {
+            "value": "ADMIN_ACTIVITY_LOG"
+          },
+          {
+            "value": "SCHEDULED_POSTS"
+          },
+          {
+            "value": "GROUP_QUALITY"
+          }
+        ]
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Jumping Spiders (Salticidae)"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Group"
+      }
+    ],
+    "fbid": "5629759320401970"
+  },
+  {
+    "timestamp": 1656384131,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "value": "COMMUNITY_CHATS"
+          },
+          {
+            "value": "ROLES_CENTER"
+          },
+          {
+            "value": "ROLES_MANAGEMENT"
+          },
+          {
+            "value": "MEMBERS"
+          },
+          {
+            "value": "ADMIN_ACTIVITY_LOG"
+          },
+          {
+            "value": "SCHEDULED_POSTS"
+          },
+          {
+            "value": "GROUP_QUALITY"
+          }
+        ]
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "\u00e3\u0082\u00a4\u00e3\u0082\u00b7\u00e3\u0082\u00ba\u00e2\u0080\u0099\u00e6\u0096\u0099\u00e4\u00ba\u00ad\u00e3\u0081\u00ae\u00e5\u00ae\u00b6\u00e5\u00ba\u00ad\u00e6\u0096\u0099\u00e7\u0090\u0086\u00e6\u0095\u0099\u00e5\u00ae\u00a4"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Group"
+      }
+    ],
+    "fbid": "4550388335064781"
+  }
+]

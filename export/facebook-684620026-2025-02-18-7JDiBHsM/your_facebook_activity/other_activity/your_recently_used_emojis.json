@@ -1,0 +1,130 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Emoji usage statistics",
+      "dict": [
+        {
+          "label": "\u00f0\u009f\u0098\u008d",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "1"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1561417653
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u0091\u008d",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "9"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1616120948
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u0098\u0080",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "5"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1619611866
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u00a5\u00b0",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "1"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1580079894
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u0098\u0085",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "30"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1654321522
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u0091\u008b",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "8"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1658809378
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u0098\u0089",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "6"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1659488869
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u0092\u00af",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "1"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1613871046
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u0098\u008e",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "1"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1658875717
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fbid": "10157091267175027"
+}

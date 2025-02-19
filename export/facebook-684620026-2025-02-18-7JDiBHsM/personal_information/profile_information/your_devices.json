@@ -1,0 +1,1073 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device ID",
+        "value": "1CA01EAA-D56D-4302-8E9A-02191E4657FB"
+      },
+      {
+        "label": "Device ID at creation time",
+        "value": "88CF610C-1DC0-48B8-AA85-3E844BAC7337"
+      },
+      {
+        "label": "Device ID details",
+        "dict": [
+          {
+            "label": "first_seen_time",
+            "timestamp_value": 1733021382
+          },
+          {
+            "label": "last_seen_time",
+            "timestamp_value": 1739779214
+          }
+        ]
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "OS type",
+        "value": "iPhone OS"
+      },
+      {
+        "label": "OS version",
+        "value": "18.3.1"
+      },
+      {
+        "label": "Device type",
+        "value": "iPhone14,4"
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/494.0.0.52.98;FBBV/696628843;FBDV/iPhone14,4;FBMD/iPhone;FBSN/iOS;FBSV/18.3.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/0]"
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          {
+            "label": "38BD6058-22B1-4196-A960-D3A8B77D326C",
+            "dict": [
+              {
+                "label": "first_seen_time",
+                "timestamp_value": 1534815989
+              },
+              {
+                "label": "last_seen_time",
+                "timestamp_value": 1642221724
+              }
+            ]
+          },
+          {
+            "label": "52466240-44A7-439F-A990-78ADF678A4AF",
+            "dict": [
+              {
+                "label": "first_seen_time",
+                "timestamp_value": 1631905424
+              },
+              {
+                "label": "last_seen_time",
+                "timestamp_value": 1633510892
+              }
+            ]
+          },
+          {
+            "label": "9E34A859-60BE-4D75-A137-825D05B346E9",
+            "dict": [
+              {
+                "label": "first_seen_time",
+                "timestamp_value": 1633609155
+              },
+              {
+                "label": "last_seen_time",
+                "timestamp_value": 1678112454
+              }
+            ]
+          },
+          {
+            "label": "88CF610C-1DC0-48B8-AA85-3E844BAC7337",
+            "dict": [
+              {
+                "label": "first_seen_time",
+                "timestamp_value": 1633609155
+              },
+              {
+                "label": "last_seen_time",
+                "timestamp_value": 1678310165
+              }
+            ]
+          },
+          {
+            "label": "D050802E-7386-4764-AAA3-667E6BE4123A",
+            "dict": [
+              {
+                "label": "first_seen_time",
+                "timestamp_value": 1678312166
+              },
+              {
+                "label": "last_seen_time",
+                "timestamp_value": 1732953923
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Android ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "3"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Current connection status",
+        "value": ""
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS version",
+        "value": ""
+      },
+      {
+        "label": "Device type",
+        "value": ""
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS version",
+        "value": ""
+      },
+      {
+        "label": "Device type",
+        "value": ""
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      }
+    ],
+    "fbid": "5814010665362123"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device ID",
+        "value": "DB77E6A9-21ED-47E5-82E7-524D6E698C6C"
+      },
+      {
+        "label": "Device ID at creation time",
+        "value": "DB77E6A9-21ED-47E5-82E7-524D6E698C6C"
+      },
+      {
+        "label": "Device ID details",
+        "dict": [
+          {
+            "label": "first_seen_time",
+            "timestamp_value": 1656435205
+          },
+          {
+            "label": "last_seen_time",
+            "timestamp_value": 1739781531
+          }
+        ]
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "OS type",
+        "value": "iOS"
+      },
+      {
+        "label": "OS version",
+        "value": "18.1.1"
+      },
+      {
+        "label": "Device type",
+        "value": "iPhone14,4"
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/492.0.0.29.109;FBBV/690406516;FBDV/iPhone14,4;FBMD/iPhone;FBSN/iOS;FBSV/18.1.1;FBSS/3;FBCR/;FBID/phone;FBLC/ja_JP;FBOP/0]"
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          {
+            "label": "560BDDCA-9CE7-46F5-B7FE-C1B3BFA27A27",
+            "dict": [
+              {
+                "label": "first_seen_time",
+                "timestamp_value": 1534836002
+              },
+              {
+                "label": "last_seen_time",
+                "timestamp_value": 1708393413
+              }
+            ]
+          },
+          {
+            "label": "37662CCA-593C-4DDE-8620-25BBB441B431",
+            "dict": [
+              {
+                "label": "first_seen_time",
+                "timestamp_value": 1656435205
+              },
+              {
+                "label": "last_seen_time",
+                "timestamp_value": 1656435205
+              }
+            ]
+          },
+          {
+            "label": "4DC67F40-BBF3-4BAF-9A5F-9016C6361956",
+            "dict": [
+              {
+                "label": "first_seen_time",
+                "timestamp_value": 1656435205
+              },
+              {
+                "label": "last_seen_time",
+                "timestamp_value": 1728465926
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Android ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "3"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Current connection status",
+        "value": ""
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS version",
+        "value": ""
+      },
+      {
+        "label": "Device type",
+        "value": ""
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS version",
+        "value": ""
+      },
+      {
+        "label": "Device type",
+        "value": ""
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      }
+    ],
+    "fbid": "27125701993711920"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device ID",
+        "value": "874F81B3-DCD1-40EA-9A2A-164CCCB73840"
+      },
+      {
+        "label": "Device ID at creation time",
+        "value": ""
+      },
+      {
+        "label": "Device ID details",
+        "dict": [
+          {
+            "label": "first_seen_time",
+            "timestamp_value": 1534840704
+          },
+          {
+            "label": "last_seen_time",
+            "timestamp_value": 1595760922
+          }
+        ]
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "OS type",
+        "value": "Android"
+      },
+      {
+        "label": "OS version",
+        "value": "7.1.1"
+      },
+      {
+        "label": "Device type",
+        "value": "ASUS_X00DDA"
+      },
+      {
+        "label": "Installer",
+        "value": "com.facebook.system"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": ""
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          {
+            "label": "874F81B3-DCD1-40EA-9A2A-164CCCB73840",
+            "dict": [
+              {
+                "label": "first_seen_time",
+                "timestamp_value": 1534840704
+              },
+              {
+                "label": "last_seen_time",
+                "timestamp_value": 1535710986
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Android ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          {
+            "value": "1920"
+          },
+          {
+            "value": "1080"
+          }
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "3"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": "2014"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "1"
+      },
+      {
+        "label": "Current connection status",
+        "value": ""
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS version",
+        "value": ""
+      },
+      {
+        "label": "Device type",
+        "value": ""
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS version",
+        "value": ""
+      },
+      {
+        "label": "Device type",
+        "value": ""
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      }
+    ],
+    "fbid": "521337664959455"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device ID",
+        "value": "1FFEA460-F42F-478C-9ECA-3A3D5EC73B2C"
+      },
+      {
+        "label": "Device ID at creation time",
+        "value": ""
+      },
+      {
+        "label": "Device ID details",
+        "dict": [
+          {
+            "label": "first_seen_time",
+            "timestamp_value": 1728567134
+          },
+          {
+            "label": "last_seen_time",
+            "timestamp_value": 1736640899
+          }
+        ]
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "OS type",
+        "value": "iPhone OS"
+      },
+      {
+        "label": "OS version",
+        "value": "18.1.1"
+      },
+      {
+        "label": "Device type",
+        "value": "iPhone13,3"
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/488.0.0.46.102;FBBV/674915696;FBDV/iPhone13,3;FBMD/iPhone;FBSN/iOS;FBSV/18.1.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_GB;FBOP/0]"
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          {
+            "label": "1FFEA460-F42F-478C-9ECA-3A3D5EC73B2C",
+            "dict": [
+              {
+                "label": "first_seen_time",
+                "timestamp_value": 1728567134
+              },
+              {
+                "label": "last_seen_time",
+                "timestamp_value": 1728567134
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Android ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "3"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Current connection status",
+        "value": "49.104.16.90"
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS version",
+        "value": ""
+      },
+      {
+        "label": "Device type",
+        "value": ""
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS version",
+        "value": ""
+      },
+      {
+        "label": "Device type",
+        "value": ""
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Installer",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      }
+    ],
+    "fbid": "259338194708405"
+  }
+]

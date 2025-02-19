@@ -1,0 +1,312 @@
+{
+  "participants": [
+    {
+      "name": "Jonathan Hagard"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696465804822,
+      "content": "I will be a bit late still in shinjuku",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696461492327,
+      "content": "perfect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696461475769,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/jonathanhagard_10157908163160027/photos/382247764_673808264699568_7287848489535396447_n_673808261366235.jpg",
+          "creation_timestamp": 1696461475
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696461467850,
+      "content": "2500 yen for a dormitory just for me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696461347133,
+      "content": "you are getting too cool for me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696461334689,
+      "content": "I stay in koenji\u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696461316327,
+      "content": "maybe i'll see you on the train \u00e2\u0080\u00a6 you are in tabata?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696461293724,
+      "content": "Sure 9:30 is good to me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696461267055,
+      "content": "meet there at 9:30?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696461250681,
+      "content": "i've been to that cafe many times \u00f0\u009f\u0098\u0087",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jonathan Hagard"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696461215037,
+      "content": "hey! i have a meeting from 8:30 - 9am \u00e2\u0080\u00a6 i am free after that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696460389968,
+      "content": "https://maps.app.goo.gl/zGgetxgk8gvx6rkR7?g_st=ic",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696460354356,
+      "content": "I know a cool cafe there \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696460331152,
+      "content": "Do you mind if we meet at ikebukuro?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696460280248,
+      "content": "Just woke up!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696460269419,
+      "content": "Morning!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696255383523,
+      "content": "Ok for thursday breakfast!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696244940847,
+      "content": "mirei is now in her own apartment \u00e2\u0080\u00a6 so her room is empty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696244915668,
+      "content": "let's do thursday breakfast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696237775562,
+      "content": "My flight arrive on wednesday at 8:00 in Narita",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696237741560,
+      "content": "Or late breakfast on wednsday?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696237728547,
+      "content": "How about breakfast on thursday?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696237710240,
+      "content": "I think i will stay at the hotel, i will be in tokyo for work so will be quite busy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696237675818,
+      "content": "Oh, still in the same house? How come you have guest room?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696234176173,
+      "content": "her view (rainbow bridge)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696234159888,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/jonathanhagard_10157908163160027/photos/384495569_865740185266430_4858071848410006954_n_865740178599764.jpg",
+          "creation_timestamp": 1696234156
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696234155095,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696233747666,
+      "content": "mire\u00c3\u00af is in her own place now, in \u00e6\u00b8\u00af\u00e5\u008c\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696233712164,
+      "content": "there is a guest bedroom now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1696207867900,
+      "content": "I will be in Tokyo during a few days from wednesday!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696207756175,
+      "content": "rampant bullshit International organic vegan food for the herds of enlighted neo-colonial Yogi androids",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1688121950016,
+      "content": "Let\u00e2\u0080\u0099s meet in august then",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1688121940735,
+      "content": "I see, family?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1688121928608,
+      "content": "I will go to tokyo on monday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonathan Hagard",
+      "timestamp_ms": 1688121922282,
+      "content": "Still in kyoto",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1688117646745,
+      "content": "i\u00e2\u0080\u0099m going to BC tomorrow, for one month",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1688117610284,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1688117609847,
+      "content": "tokyo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jonathan Hagard",
+  "is_still_participant": true,
+  "thread_path": "inbox/jonathanhagard_10157908163160027",
+  "magic_words": [
+    
+  ]
+}

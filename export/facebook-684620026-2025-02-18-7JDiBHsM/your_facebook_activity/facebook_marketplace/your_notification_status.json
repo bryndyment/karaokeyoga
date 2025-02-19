@@ -1,0 +1,16 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Last notified time",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Notifications turned off",
+      "value": "False"
+    }
+  ],
+  "fbid": "520593694788009"
+}

@@ -1,0 +1,16 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "The last time you saw this notification",
+      "value": "Never"
+    },
+    {
+      "label": "The last time you changed your content audience in response to this notification",
+      "timestamp_value": 1454526645
+    }
+  ],
+  "fbid": "10153338021275027"
+}

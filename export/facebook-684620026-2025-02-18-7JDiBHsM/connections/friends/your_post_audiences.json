@@ -1,0 +1,297 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Disabled",
+        "value": "False"
+      },
+      {
+        "label": "Name",
+        "value": "Restricted"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Swati Raju"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Declined suggested members"
+      },
+      {
+        "dict": [
+          
+        ],
+        "title": "Members"
+      }
+    ],
+    "fbid": "10151216139175027"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Disabled",
+        "value": "False"
+      },
+      {
+        "label": "Name",
+        "value": "Acquaintances"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Renaud Visage"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Brent Williams"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Sean Coady"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Gina Privitere"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Swati Raju"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Declined suggested members"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Swati Raju"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Tomoko Kobuchi"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Members"
+      }
+    ],
+    "fbid": "10151216139170027"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Disabled",
+        "value": "False"
+      },
+      {
+        "label": "Name",
+        "value": "Close friends"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Akane Goda"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Kazuya Fujikawa"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Lynne Rodgers Dyment"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "\u00e3\u0081\u00ac\u00e3\u0081\u0093 \u00e3\u0081\u00be\u00e3\u0081\u0084"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Renaud Visage"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Mari Miyashita"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Kevin Ellis"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Garry Peterson"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Gina Privitere"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Swati Raju"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Kelly Dyment"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Declined suggested members"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Minako Terao"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Barnaby Gunning"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Brent Williams"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Sean Coady"
+              }
+            ],
+            "title": ""
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Doug Dyment"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Members"
+      }
+    ],
+    "fbid": "10151216002155027"
+  }
+]

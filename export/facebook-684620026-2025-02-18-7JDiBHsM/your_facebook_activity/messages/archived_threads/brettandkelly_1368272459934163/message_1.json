@@ -1,0 +1,378 @@
+{
+  "participants": [
+    {
+      "name": "Brett Peary"
+    },
+    {
+      "name": "Kelly Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1557740637503,
+      "content": "You left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1499520898773,
+      "content": "No worries at all!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1499517266939,
+      "content": "Sorry for the bad timing! ;)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1499516715014,
+      "content": "Thanks so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1499516472798,
+      "content": "I got it Brett. Sorry but you sent in the last few days of school and then we were away camping on holiday. Been a busy week for me upon our return as Friday was the last day we're allowed in our school. Will start the forwarding tomorrow.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1499498384380,
+      "content": "kelly@kellybeans.com , right?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1499498373174,
+      "content": "I sent you an email a while back. Could you see if you got it?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1499498354307,
+      "content": "Hey Kelly!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1498002943424,
+      "content": "Yes!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1498002933913,
+      "content": "Great to chat!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1498002919032,
+      "content": "The call ended.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1498001617247,
+      "content": "Kelly joined the audio call.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1498001609175,
+      "content": "Oh sure. Didn't m ow you could call on messenger!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1498001600068,
+      "content": "Brett joined the audio call.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1498001599416,
+      "content": "Brett started a call.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1498001587150,
+      "content": "Let's me just call you with this so we don't have to exchange any info. its quick.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1498001545556,
+      "content": "Sure.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1498001505171,
+      "content": "Totally fine. I will just have my dinner ready is less than 10. But could talk after that too if that's better.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1498001471766,
+      "content": "Sorry to keep you waiting.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1498001449183,
+      "content": "If you're iPhone could we voice FaceTime?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1498001141191,
+      "content": "One sec",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1498001116527,
+      "content": "Back now.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497999146599,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1497999131416,
+      "content": "Half an hour later?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1497999126131,
+      "content": "Stuck out running an errand. 8:30?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497837321669,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1497837309243,
+      "content": "Perfect.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497837282821,
+      "content": "We can do it through this.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1497836358986,
+      "content": "How are we connecting?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497836265780,
+      "content": "See you then!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497836236025,
+      "content": "Ok! Sounds good. :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1497836143159,
+      "content": "How about 8am your time on Wednesday (Tuesday night is the only night this week that I don't have plans).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497836010582,
+      "content": "The week is fine too, if that works for you better",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1497836006572,
+      "content": "or, you guys could speak during the week if that works",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1497835991627,
+      "content": "10:30am here now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1497835976607,
+      "content": "What's our time difference?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497835632272,
+      "content": "Hi Kelly, I\u00e2\u0080\u0099m sorry I didn\u00e2\u0080\u0099t have time to speak with you this weekend. Could we make a time for your Saturday? Let me know when. Cheers.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497317511423,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1497317499061,
+      "content": "Nice to meet you too. Will be in touch!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497316819521,
+      "content": "Yeah, sure anytime!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497316807956,
+      "content": "Nice to meet you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497316801671,
+      "content": "Hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1497316797504,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1497315823274,
+      "content": "Swamped this week with report cards. Free this weekend though - does that work?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1497315268285,
+      "content": "we're trying to do everything for FREE \u00e2\u0080\u00a6 just issues like twitter vs facebook, where to find teachers at their most charitable/receptive, etc.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1497315224922,
+      "content": "i'm hoping he'd be able to chat with you for a bit, to get some ideas on how to reach teachers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1497315203004,
+      "content": "kelly, my friend brett is helping (more than helping) me to market tiny math",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1497315135700,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brett and Kelly",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/brettandkelly_1368272459934163",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1548448893076,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1548448890804,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://jh1g.takeyourbaby.com/11",
+        "share_text": "\u00d0\u0090\u00e1\u00b9\u009b\u00d0\u00b5 \u00d1\u0083\u00d0\u00beu \u00e1\u00b9\u009b\u00d0\u00b5\u00d0\u00b0d\u00d1\u0083?"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_559988648731570",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

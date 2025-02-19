@@ -1,0 +1,112 @@
+{
+  "organic_insights_interactions": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Date Range": {
+          "href": "",
+          "value": "Nov 19 - Feb 16",
+          "timestamp": 0
+        },
+        "Content Interactions": {
+          "href": "",
+          "value": "251",
+          "timestamp": 0
+        },
+        "Content Interactions Delta": {
+          "href": "",
+          "value": "-- vs Aug 21 - Nov 18",
+          "timestamp": 0
+        },
+        "Post Interactions": {
+          "href": "",
+          "value": "251",
+          "timestamp": 0
+        },
+        "Post Interactions Delta": {
+          "href": "",
+          "value": "-- vs Aug 21 - Nov 18",
+          "timestamp": 0
+        },
+        "Post Likes": {
+          "href": "",
+          "value": "239",
+          "timestamp": 0
+        },
+        "Post Comments": {
+          "href": "",
+          "value": "10",
+          "timestamp": 0
+        },
+        "Post Saves": {
+          "href": "",
+          "value": "2",
+          "timestamp": 0
+        },
+        "Story Interactions": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Story Interactions Delta": {
+          "href": "",
+          "value": "0% vs Aug 21 - Nov 18",
+          "timestamp": 0
+        },
+        "Video Interactions": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Video Interactions Delta": {
+          "href": "",
+          "value": "0% vs Aug 21 - Nov 18",
+          "timestamp": 0
+        },
+        "Reels Interactions": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Reels Interactions Delta": {
+          "href": "",
+          "value": "0% vs Aug 21 - Nov 18",
+          "timestamp": 0
+        },
+        "Live Video Interactions": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Live Video Interactions Delta": {
+          "href": "",
+          "value": "0% vs Aug 21 - Nov 18",
+          "timestamp": 0
+        },
+        "Accounts engaged": {
+          "href": "",
+          "value": "89",
+          "timestamp": 0
+        },
+        "Accounts Engaged Delta": {
+          "href": "",
+          "value": "-- vs Aug 21 - Nov 18",
+          "timestamp": 0
+        },
+        "Engaged Account By Follow Type": {
+          "href": "",
+          "value": "Followers: 68.9%, Non-followers: 31%",
+          "timestamp": 0
+        },
+        "You engaged delta% more accounts that weren\u00e2\u0080\u0099t following you compared to previous period": {
+          "href": "",
+          "value": "-- vs Aug 21 - Nov 18",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

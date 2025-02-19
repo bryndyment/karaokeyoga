@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Zuiou Shinozuka\u00e3\u0080\u0080\u00e7\u00af\u00a0\u00e5\u00a1\u009a\u00e7\u0091\u009e\u00e6\u00a1\u009c"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Zuiou Shinozuka\u00e3\u0080\u0080\u00e7\u00af\u00a0\u00e5\u00a1\u009a\u00e7\u0091\u009e\u00e6\u00a1\u009c",
+      "timestamp_ms": 1690849351741,
+      "content": "Zuiou sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CvWh44mLDfb/?carousel_share_child_media_id=3158861229232891062_55007446641",
+        "share_text": "",
+        "original_content_owner": "zuiou_shinozuka"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuiou Shinozuka\u00e3\u0080\u0080\u00e7\u00af\u00a0\u00e5\u00a1\u009a\u00e7\u0091\u009e\u00e6\u00a1\u009c",
+      "timestamp_ms": 1552092786934,
+      "content": "Oh yes, I'll try!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1552092762547,
+      "content": "i hope she has a good lesson \u00f0\u009f\u0098\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1552092748050,
+      "content": "that way, she can go to bed earlier, for example (teens like to sleep \u00f0\u009f\u0092\u00a4)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1552092712327,
+      "content": "mirei likes to know plans a bit earlier, if that is possible",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuiou Shinozuka\u00e3\u0080\u0080\u00e7\u00af\u00a0\u00e5\u00a1\u009a\u00e7\u0091\u009e\u00e6\u00a1\u009c",
+      "timestamp_ms": 1552092692954,
+      "content": "\u00ef\u00bc\u00bc(^^)\u00ef\u00bc\u008f\u00ef\u00bc\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1552092667853,
+      "content": "hey! i am pretty sure she is going \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Zuiou Shinozuka\u00e3\u0080\u0080\u00e7\u00af\u00a0\u00e5\u00a1\u009a\u00e7\u0091\u009e\u00e6\u00a1\u009c",
+      "timestamp_ms": 1552091540099,
+      "content": "Hi good morning\u00e2\u0098\u00ba\u00ef\u00b8\u008f \nToday from 10:30\u00e3\u0080\u0080till  12:30 dance class is open.\nI messaged to Mirei already\u00e2\u0099\u00aa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Zuiou Shinozuka\u00e3\u0080\u0080\u00e7\u00af\u00a0\u00e5\u00a1\u009a\u00e7\u0091\u009e\u00e6\u00a1\u009c",
+  "is_still_participant": true,
+  "thread_path": "inbox/zuioushinozukaxiaozhongruiying_547685839967078",
+  "magic_words": [
+    
+  ]
+}

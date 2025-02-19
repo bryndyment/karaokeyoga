@@ -1,0 +1,853 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Session start log",
+      "vec": [
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1692081445
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "5edd312d-20d9-4b1c-a49b-49377e729c01"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1705549893
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "272694d0-30b4-4eb8-973c-4925b717ba89"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1706708865
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "62d21197-c666-43b7-83b9-fb82c9aeb6fd"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1708350316
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "612a3889-b36a-40a9-8a02-558bcb3e34fa"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1708350421
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "d4635ee3-c3b5-4f70-8bbe-0cf120ca1c7d"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1710369875
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "ef5a9089-9949-4a1e-b9af-a156a3fbddca"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1710370398
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "6cdb16d3-438f-4896-983e-fb6a803f9b03"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1710388276
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "20753543-8868-4dda-9ea0-02c720eb6526"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1711116007
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3854b93f-fb67-4500-a2a9-a935d9d24c59"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1711362703
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "9d07d62f-8892-47e0-96a8-1bbe16a1fe4d"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1716889450
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "25aaca06-414f-4171-abf0-098e03a41298"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1716889457
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "25aaca06-414f-4171-abf0-098e03a41298"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1716889498
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "25aaca06-414f-4171-abf0-098e03a41298"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1716889510
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "25aaca06-414f-4171-abf0-098e03a41298"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1716889553
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "25aaca06-414f-4171-abf0-098e03a41298"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1716889630
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "25aaca06-414f-4171-abf0-098e03a41298"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1716889652
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "25aaca06-414f-4171-abf0-098e03a41298"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1716889665
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "25aaca06-414f-4171-abf0-098e03a41298"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1716889684
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "25aaca06-414f-4171-abf0-098e03a41298"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1716889715
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "25aaca06-414f-4171-abf0-098e03a41298"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717157407
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "46c53079-31fd-4980-a6d7-d3c0cc46e40e"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717321490
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "9db3b677-d9b6-45de-8a32-6250bd091e87"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717321801
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "9469a2c4-5482-4f02-98f7-217595be7187"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717321829
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "9469a2c4-5482-4f02-98f7-217595be7187"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717321838
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "9469a2c4-5482-4f02-98f7-217595be7187"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717563723
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "254d0eca-f555-4fdd-ab29-02fddc4f72a6"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717563816
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "254d0eca-f555-4fdd-ab29-02fddc4f72a6"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717563818
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "254d0eca-f555-4fdd-ab29-02fddc4f72a6"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717564462
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "31b836e8-c884-4d0c-881c-1bfcc26ee0c2"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717565502
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "cbd97012-b427-4393-9834-c6eddf82b262"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717568632
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3bc30841-b135-4fb1-996c-9bfce17de63b"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717568635
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3bc30841-b135-4fb1-996c-9bfce17de63b"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717568637
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3bc30841-b135-4fb1-996c-9bfce17de63b"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717568639
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3bc30841-b135-4fb1-996c-9bfce17de63b"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717568643
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3bc30841-b135-4fb1-996c-9bfce17de63b"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717568646
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3bc30841-b135-4fb1-996c-9bfce17de63b"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717568651
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3bc30841-b135-4fb1-996c-9bfce17de63b"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717568689
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3bc30841-b135-4fb1-996c-9bfce17de63b"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717568692
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3bc30841-b135-4fb1-996c-9bfce17de63b"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1717568696
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "3bc30841-b135-4fb1-996c-9bfce17de63b"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1718093907
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "74822359-8c32-419f-9cfb-6ea6d7516fe9"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1718095447
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "8a97e1c7-3dc1-43a6-88f1-a2afa77da391"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1718186740
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "da89f99b-3e17-4c77-9882-d17e05a658d7"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1718186750
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "da89f99b-3e17-4c77-9882-d17e05a658d7"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1718186753
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "da89f99b-3e17-4c77-9882-d17e05a658d7"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1718187443
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "76b58dc2-fbb4-4afc-a7aa-50826b0567ff"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1728567780
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "ff11adba-559a-458a-9794-d63ba28d1c8d"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1728567814
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "ff11adba-559a-458a-9794-d63ba28d1c8d"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1728567837
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "ff11adba-559a-458a-9794-d63ba28d1c8d"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1728567853
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "ff11adba-559a-458a-9794-d63ba28d1c8d"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1728567896
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "ff11adba-559a-458a-9794-d63ba28d1c8d"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "session_start_time",
+              "timestamp_value": 1730798836
+            },
+            {
+              "label": "session_source",
+              "value": "facebook~gaming_video~live_video"
+            },
+            {
+              "label": "session_token",
+              "value": "ecdd030e-136f-47d1-b6d3-3c4dbb4f98a0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "The latest session token from a game session",
+      "value": "ecdd030e-136f-47d1-b6d3-3c4dbb4f98a0"
+    },
+    {
+      "label": "Game name",
+      "value": "Reels Linked Video CTA"
+    }
+  ],
+  "fbid": "10160775122075027"
+}

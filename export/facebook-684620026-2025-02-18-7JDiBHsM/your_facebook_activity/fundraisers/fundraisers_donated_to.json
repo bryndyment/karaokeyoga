@@ -1,0 +1,19 @@
+{
+  "fundraisers_donated_to_v2": [
+    {
+      "timestamp": 1646107005,
+      "attachments": [
+        {
+          "data": [
+            {
+              "fundraiser": {
+                "title": "Humanitarian Aid to Ukraine ",
+                "donated_amount": "$70.27"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

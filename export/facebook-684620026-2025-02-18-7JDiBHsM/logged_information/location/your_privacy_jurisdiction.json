@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Privacy jurisdictions",
+      "vec": [
+        {
+          "value": "JP"
+        }
+      ]
+    },
+    {
+      "label": "Region privacy jurisdiction",
+      "value": ""
+    }
+  ],
+  "fbid": "684620026"
+}

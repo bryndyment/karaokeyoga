@@ -1,0 +1,30 @@
+{
+  "controls": [
+    {
+      "name": "Show more",
+      "description": "Actions you've taken to customize what content you see more of on Facebook",
+      "entries": [
+        {
+          "timestamp": 1735602218,
+          "data": {
+            "name": "You chose to see more videos like one from Botez Live",
+            "uri": "https://www.facebook.com/botezlivereal/videos/2292162021165625/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Show less",
+      "description": "Actions you've taken to customize what content you see less of on Facebook",
+      "entries": [
+        {
+          "timestamp": 1735602218,
+          "data": {
+            "name": "You chose to see less videos like one from Botez Live",
+            "uri": "https://www.facebook.com/botezlivereal/videos/2292162021165625/"
+          }
+        }
+      ]
+    }
+  ]
+}

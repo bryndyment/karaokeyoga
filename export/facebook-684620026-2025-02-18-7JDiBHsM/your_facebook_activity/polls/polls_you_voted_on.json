@@ -1,0 +1,64 @@
+{
+  "poll_votes_v2": [
+    {
+      "timestamp": 1715309129,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Asia",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Bryn Dyment voted on Dylan Napier's poll."
+    },
+    {
+      "timestamp": 1622284674,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Sunday, 5/30 at 1pm in Hamamatsucho",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Bryn Dyment voted on Jeremy Wilgus's poll."
+    },
+    {
+      "timestamp": 1616473585,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "NOON, Sunday, March 28th, HAMAMATSUCHO",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Bryn Dyment voted on Jeremy Wilgus's poll."
+    }
+  ]
+}

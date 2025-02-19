@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Hamish Forsythe"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hamish Forsythe",
+      "timestamp_ms": 1739815952283,
+      "content": "https://www.facebook.com/snl/videos/wicked-auditions/1033055508623387/",
+      "share": {
+        "link": "https://www.facebook.com/snl/videos/1033055508623387/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hamish Forsythe",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/hamishforsythe_10153617823825027",
+  "magic_words": [
+    
+  ]
+}

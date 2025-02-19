@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Mike Mansell"
+    },
+    {
+      "name": "Bryn Dyment"
+    },
+    {
+      "name": "Kazuya Fujikawa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mike Mansell",
+      "timestamp_ms": 1693433904183,
+      "content": "I'm so sorry to hear about your business problems, i hope you are able to rectify them so you may continue your business. Terrible news. We can resume conversations whenever it is best for you, of course.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1693414493308,
+      "content": "Hello mike\n\nSorry for not being able to reply today\u00f0\u009f\u0099\u008f.\nI actually had a very big problem at work yesterday.\n\nThe craftsman who has been working with me since the brand's launch has decided to go out of business.\nIt's a matter of life and death for me and my business is in shambles.\n\nTherefore, I would like to take a short break from English conversation with you.\n\nI would like to continue talking with you, so I will definitely resume when things calm down.\n\nKazuya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mike Mansell",
+      "timestamp_ms": 1692276376862,
+      "content": "Yeah, let's discuss it closer to that date, so i know when i will be awake or asleep.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1692272122334,
+      "content": "Hello Mike,\nThank you very much!\nHow about a restart on August 30?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mike Mansell",
+      "timestamp_ms": 1692265155787,
+      "content": "Hello Kazuya, good to hear from you. That's great news that you have an exhibit in a department store, i hope it brings you lots of new interested customers and business. We can restart when have the time, just let me know!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1692119419050,
+      "content": "Hello Mike,\nI am sorry I have not been in touch with you for so long. My apologies \u00f0\u009f\u0099\u0087.\nI have been busy this month with a POPUPSHOP exhibit at a department store in parallel with my store and it is still ongoing!\nHow about restarting on the 30th of this month with one every two weeks from now on, if you do not mind, since that event will end on the 22nd and things will calm down a bit?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1690386432263,
+      "content": "Hi Mike, Thank you so much! Let's start again next month. Looking forward to talking with you \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mike Mansell",
+      "timestamp_ms": 1690380600549,
+      "content": "Hello Kazuya, i am glad to hear you made a good deal with your collector. That is great news. So sorry to hear about not feeling well, climate change has done this to us all. Next month works for me, just let me know!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1690337036612,
+      "content": "Hello Mike,\n\nSorry for not being able to contact you this month\u00f0\u009f\u0099\u008f\n\nAfter returning from London, I was not feeling very well due to jet lag and climate change, and I had a lot of work to do. \n\nIn London I ended up with a good deal with a collector. \nThank you for all your support \u00f0\u009f\u0098\u008a \nI hope we can start again at the right time!\n\nmaybe next month?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mike and Kazuya",
+  "is_still_participant": true,
+  "thread_path": "inbox/mikeandkazuya_6872779949405171",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

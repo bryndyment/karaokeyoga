@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Doug Dyment"
+    },
+    {
+      "name": "Bryn Dyment"
+    },
+    {
+      "name": "Kelly Dyment"
+    },
+    {
+      "name": "Lynne Rodgers Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1702861671930,
+      "content": "https://www.nytimes.com/interactive/2023/12/10/magazine/david-byrne-interview.html?unlocked_article_code=1.G00.tmVo.BKhzlx1i4f1H&smid=url-share",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.nytimes.com/interactive/2023/12/10/magazine/david-byrne-interview.html?unlocked_article_code=1.G00.tmVo.BKhzlx1i4f1H&smid=url-share",
+        "share_text": "\u00e2\u0080\u009cIt\u00e2\u0080\u0099s all about me, me, me. That\u00e2\u0080\u0099s what you think, but everything you\u00e2\u0080\u0099re saying is coming from people around you,\u00e2\u0080\u009d says the musician."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lynne Rodgers Dyment",
+      "timestamp_ms": 1702421019989,
+      "content": "This is brilliant! Totally agree with it all... she's amazing!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kelly Dyment",
+          "timestamp": 1702425151
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1702407755614,
+      "content": "Doug sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kelly Dyment",
+          "timestamp": 1702415685
+        }
+      ],
+      "share": {
+        "link": "https://www.facebook.com/reel/1599244443940994/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Doug, Kelly and Lynne",
+  "is_still_participant": true,
+  "thread_path": "inbox/dougkellyandlynne_1882368565219654",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Craig Roberts"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Craig Roberts",
+      "timestamp_ms": 1704422605156,
+      "content": "https://fineartamerica.com/pdfartworkmenu.php?artworkid=25693590&showbuyerprices=true",
+      "share": {
+        "link": "https://fineartamerica.com/pdfartworkmenu.php?artworkid=25693590&showbuyerprices=true",
+        "share_text": "https://fineartamerica.com/pdfartworkmenu.php?artworkid=25693590&showbuyerprices=true"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Craig Roberts",
+      "timestamp_ms": 1704422534544,
+      "content": "https://fineartamerica.com/pdfartworkmenu.php?artworkid=25693590",
+      "share": {
+        "link": "https://fineartamerica.com/pdfartworkmenu.php?artworkid=25693590",
+        "share_text": "https://fineartamerica.com/pdfartworkmenu.php?artworkid=25693590"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Craig Roberts",
+      "timestamp_ms": 1704422481168,
+      "content": "If you visit my profile and click on a couple of the images you can see what the approximate costs would be \u00e2\u0080\u00a6 \nhttps://fineartamerica.com/profiles/craig-roberts?tab=artwork",
+      "share": {
+        "link": "https://fineartamerica.com/profiles/craig-roberts?tab=artwork",
+        "share_text": "If you visit my profile and click on a couple of the images you can see what the approximate costs would be \u00e2\u0080\u00a6 \nhttps://fineartamerica.com/profiles/craig-roberts?tab=artwork"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1704421726510,
+      "content": "No problem about the late reply. What are the general prices for sizes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Craig Roberts",
+      "timestamp_ms": 1704421617241,
+      "content": "Hi sorry for the late reply \u00e2\u0080\u00a6 I can make prints available through Fine Art America, do you know what size you\u00e2\u0080\u0099d be looking for?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1702023306758,
+      "content": "i bought this piece in the late 90s in SF \u00e2\u0080\u00a6 that's when i first met him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1702023287273,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/craigroberts_1283664083029304/photos/385540782_668561888805526_8828619673668288657_n_668561882138860.png",
+          "creation_timestamp": 1702023285
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1702023246675,
+      "content": "I specifically love this.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1702023240076,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/craigroberts_1283664083029304/photos/376355343_371307242050016_5024460292916081708_n_371307235383350.png",
+          "creation_timestamp": 1702023237
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1702023231055,
+      "content": "I'm wondering if you have any photos of his stuff for sale?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1702023207786,
+      "content": "Hey! I have a few of Ken Gerberick's pieces and was just talking to a new friend about him. I was doing some web searches for that massive art car project he did, and found your site through that.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Craig Roberts",
+  "is_still_participant": true,
+  "thread_path": "inbox/craigroberts_1283664083029304",
+  "magic_words": [
+    
+  ]
+}

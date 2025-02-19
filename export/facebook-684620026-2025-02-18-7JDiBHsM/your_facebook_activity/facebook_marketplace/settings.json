@@ -1,0 +1,21 @@
+{
+  "timestamp": 1506058679,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Onboarded to partnership",
+      "value": "False"
+    },
+    {
+      "label": "Partnership onboarding time",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Update time",
+      "timestamp_value": 1706068222
+    }
+  ],
+  "fbid": "10155490958385027"
+}

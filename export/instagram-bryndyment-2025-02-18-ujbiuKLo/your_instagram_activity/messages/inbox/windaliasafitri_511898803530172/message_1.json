@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Winda Lia Safitri"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Winda Lia Safitri",
+      "timestamp_ms": 1607738135303,
+      "content": "Winda sent an attachment.",
+      "share": {
+        "link": "https://api.whatsapp.com/send?phone=+6282138062984"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Winda Lia Safitri",
+      "timestamp_ms": 1607702009858,
+      "content": "Winda sent an attachment.",
+      "share": {
+        "link": "https://api.whatsapp.com/send?phone=+6282138062984"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Winda Lia Safitri",
+  "is_still_participant": true,
+  "thread_path": "inbox/windaliasafitri_511898803530172",
+  "magic_words": [
+    
+  ]
+}

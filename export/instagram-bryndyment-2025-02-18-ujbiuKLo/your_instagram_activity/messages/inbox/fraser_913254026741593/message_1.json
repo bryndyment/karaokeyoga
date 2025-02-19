@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Fraser"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1657006547659,
+      "content": "japan!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fraser",
+      "timestamp_ms": 1656982177568,
+      "content": "You\u00e2\u0080\u0099re not still around Gibsons this week are you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fraser",
+  "is_still_participant": true,
+  "thread_path": "inbox/fraser_913254026741593",
+  "magic_words": [
+    
+  ]
+}

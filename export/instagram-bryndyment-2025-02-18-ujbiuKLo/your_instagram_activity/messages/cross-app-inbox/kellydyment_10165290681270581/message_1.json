@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Kelly Dyment"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1629120581615,
+      "sticker": {
+        "uri": "your_instagram_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1629083920336,
+      "content": "https://psmag.com/social-justice/toast-story-latest-artisanal-food-craze-72676",
+      "share": {
+        "link": "https://psmag.com/social-justice/toast-story-latest-artisanal-food-craze-72676",
+        "share_text": "https://psmag.com/social-justice/toast-story-latest-artisanal-food-craze-72676"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1621255691526,
+      "content": "Awesome job! Coming along!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621252013759,
+      "content": "my student!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621252013472,
+      "content": "You shared a story.",
+      "share": {
+        "original_content_owner": "koyann"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kelly Dyment",
+  "is_still_participant": true,
+  "thread_path": "cross-app-inbox/kellydyment_10165290681270581",
+  "magic_words": [
+    
+  ]
+}

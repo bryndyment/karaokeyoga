@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1647906698848,
+      "content": "Please I need your help\u00f0\u009f\u00a5\u00ba\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1644587913822,
+      "content": "You should definitely check this out \u00f0\u009f\u0092\u00af",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1557289944794,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2038856515485546080"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_552045329522500",
+  "magic_words": [
+    
+  ]
+}

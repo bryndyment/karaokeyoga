@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "\u00e3\u0081\u008a\u00e3\u0081\u008c\u00e3\u0082\u008f\u00e3\u0081\u0095\u00e3\u0081\u00a8\u00e3\u0081\u0097"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1739783340240,
+      "content": "https://en.m.wikipedia.org/wiki/Crumb_(film)",
+      "share": {
+        "link": "https://en.m.wikipedia.org/wiki/Crumb_(film)",
+        "share_text": "https://en.m.wikipedia.org/wiki/Crumb_(film)"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1739783265955,
+      "content": "https://ja.m.wikipedia.org/wiki/%E3%83%86%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%84%E3%83%AF%E3%82%A4%E3%82%B4%E3%83%95",
+      "share": {
+        "link": "https://ja.m.wikipedia.org/wiki/%E3%83%86%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%84%E3%83%AF%E3%82%A4%E3%82%B4%E3%83%95",
+        "share_text": "https://ja.m.wikipedia.org/wiki/%E3%83%86%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%84%E3%83%AF%E3%82%A4%E3%82%B4%E3%83%95"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e3\u0081\u008a\u00e3\u0081\u008c\u00e3\u0082\u008f\u00e3\u0081\u0095\u00e3\u0081\u00a8\u00e3\u0081\u0097",
+  "is_still_participant": true,
+  "thread_path": "inbox/ogawasatoshi_1479872323399477",
+  "magic_words": [
+    
+  ]
+}

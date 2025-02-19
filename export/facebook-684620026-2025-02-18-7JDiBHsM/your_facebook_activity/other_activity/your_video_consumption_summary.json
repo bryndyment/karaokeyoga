@@ -1,0 +1,48 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Total time you spent watching live streamed content in the last 24 hours"
+    },
+    {
+      "label": "Total time you spent watching previously live-streamed content in the last 24 hours"
+    },
+    {
+      "label": "Total time you spent watching live streamed content in the last week"
+    },
+    {
+      "label": "Total time you spent watching previously live-streamed content in the last week"
+    },
+    {
+      "label": "Total time you spent watching live streamed content in the last 2 weeks"
+    },
+    {
+      "label": "Total time you spent watching previously live-streamed content in the last 2 weeks"
+    },
+    {
+      "label": "Total time you spent watching live streamed content in the last 28 days"
+    },
+    {
+      "label": "Total time you spent watching previously live-streamed content in the last 28 days"
+    },
+    {
+      "label": "Total time you spent watching non-advertisement content in the last 24 hours",
+      "value": "7 Minutes, 34 Seconds"
+    },
+    {
+      "label": "Total time you spent watching non-advertisement content in the last week",
+      "value": "138 Minutes, 35 Seconds"
+    },
+    {
+      "label": "Total time you spent watching non-advertisement content in the last 2 weeks",
+      "value": "284 Minutes, 23 Seconds"
+    },
+    {
+      "label": "Total time you spent watching non-advertisement content in the last month",
+      "value": "340 Minutes, 03 Seconds"
+    }
+  ],
+  "fbid": "684620026"
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Meika"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meika",
+      "timestamp_ms": 1557655513964,
+      "content": "Mister Donut!!!! \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f@gofishtarot our old hangout! \u00f0\u009f\u008d\u00a9 \u00e2\u0098\u0095\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2041786813076637551"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meika",
+  "is_still_participant": true,
+  "thread_path": "inbox/meika_577465606980568",
+  "magic_words": [
+    
+  ]
+}

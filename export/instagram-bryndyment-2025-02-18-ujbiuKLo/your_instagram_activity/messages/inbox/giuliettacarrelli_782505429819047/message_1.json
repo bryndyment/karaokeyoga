@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Giulietta Carrelli"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Giulietta Carrelli",
+      "timestamp_ms": 1644818766872,
+      "content": "Yes",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1644854563
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Giulietta Carrelli",
+      "timestamp_ms": 1644818766689,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Giulietta Carrelli",
+  "is_still_participant": true,
+  "thread_path": "inbox/giuliettacarrelli_782505429819047",
+  "magic_words": [
+    
+  ]
+}

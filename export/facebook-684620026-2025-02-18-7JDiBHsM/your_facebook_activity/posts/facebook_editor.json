@@ -1,0 +1,936 @@
+{
+  "facebook_editor": {
+    "responses": [
+      {
+        "title": "You answered a question about HOO LOGIC \u00e6\u00a0\u00aa\u00e5\u00bc\u008f\u00e4\u00bc\u009a\u00e7\u00a4\u00be",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1545893238
+      },
+      {
+        "title": "You answered a question about HOO LOGIC \u00e6\u00a0\u00aa\u00e5\u00bc\u008f\u00e4\u00bc\u009a\u00e7\u00a4\u00be",
+        "question_type": "Facebook Editor question type: Phone number",
+        "timestamp": 1545893238
+      },
+      {
+        "title": "You answered a question about HOO LOGIC \u00e6\u00a0\u00aa\u00e5\u00bc\u008f\u00e4\u00bc\u009a\u00e7\u00a4\u00be",
+        "question_type": "Facebook Editor question type: Phone number",
+        "timestamp": 1545892179
+      },
+      {
+        "title": "You answered a question about HOO LOGIC \u00e6\u00a0\u00aa\u00e5\u00bc\u008f\u00e4\u00bc\u009a\u00e7\u00a4\u00be",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1545892179
+      },
+      {
+        "title": "You answered a question about HOO LOGIC \u00e6\u00a0\u00aa\u00e5\u00bc\u008f\u00e4\u00bc\u009a\u00e7\u00a4\u00be",
+        "question_type": "Facebook Editor question type: Phone number",
+        "timestamp": 1545892160
+      },
+      {
+        "title": "You answered a question about Y\u00c5\u008dkai SOHO",
+        "question_type": "Facebook Editor question type: Reservations",
+        "timestamp": 1499385470
+      },
+      {
+        "title": "You answered a question about Paris A\u00c3\u00a9roport - Charles de Gaulle (CDG)",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1490699242
+      },
+      {
+        "title": "You answered a question about Paris A\u00c3\u00a9roport - Charles de Gaulle (CDG)",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1490699239
+      },
+      {
+        "title": "You answered a question about Lirenval - Salon du Livre de la Haute Vall\u00c3\u00a9e de Chevreuse",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1490462739
+      },
+      {
+        "title": "You answered a question about Lirenval - Salon du Livre de la Haute Vall\u00c3\u00a9e de Chevreuse",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1490462729
+      },
+      {
+        "title": "You answered a question about The Mall Tavern",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1490113601
+      },
+      {
+        "title": "You answered a question about Le Pure Caf\u00c3\u00a9",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1486121098
+      },
+      {
+        "title": "You answered a question about Institut Culturel Franco Japonais",
+        "question_type": "Facebook Editor question type: Hours",
+        "timestamp": 1480325498
+      },
+      {
+        "title": "You answered a question about Institut Culturel Franco Japonais",
+        "question_type": "Facebook Editor question type: Hours",
+        "timestamp": 1480325498
+      },
+      {
+        "title": "You answered a question about Institut Culturel Franco Japonais",
+        "question_type": "Facebook Editor question type: Hours",
+        "timestamp": 1480325498
+      },
+      {
+        "title": "You answered a question about Institut Culturel Franco Japonais",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1480325493
+      },
+      {
+        "title": "You answered a question about Institut Culturel Franco Japonais",
+        "question_type": "Facebook Editor question type: Reservations",
+        "timestamp": 1480325488
+      },
+      {
+        "title": "You answered a question about The M-Line",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1480076722
+      },
+      {
+        "title": "You answered a question about Book &amp; Comic Exchange Nothing Hill London",
+        "question_type": "Facebook Editor question type: Price range",
+        "timestamp": 1480076720
+      },
+      {
+        "title": "You answered a question about LEZ cycles",
+        "question_type": "Facebook Editor question type: Price range",
+        "timestamp": 1480076705
+      },
+      {
+        "title": "You answered a question about Falafel Cafe",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1480074471
+      },
+      {
+        "title": "You answered a question about Falafel Cafe",
+        "question_type": "Facebook Editor question type: Place duplicate",
+        "timestamp": 1480074468
+      },
+      {
+        "title": "You answered a question about Falafel Cafe",
+        "question_type": "Facebook Editor question type: Phone number",
+        "timestamp": 1480074458
+      },
+      {
+        "title": "You answered a question about Falafel Cafe",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1480074443
+      },
+      {
+        "title": "You answered a question about Linden Gardens",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1463821153
+      },
+      {
+        "title": "You answered a question about Linden Gardens",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1463821153
+      },
+      {
+        "title": "You answered a question about Royal Academy of Arts",
+        "question_type": "Facebook Editor question type: PAGE_TAG",
+        "timestamp": 1454506990
+      },
+      {
+        "title": "You answered a question about Virgin train from London Euston",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1453724190
+      },
+      {
+        "title": "You answered a question about Stanhope Gardens",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1453634621
+      },
+      {
+        "title": "You answered a question about Lyc\u00c3\u00a9e fran\u00c3\u00a7ais Charles-de-Gaulle",
+        "question_type": "Facebook Editor question type: Place&#039;s neighborhood",
+        "timestamp": 1453634603
+      },
+      {
+        "title": "You answered a question about Golden Pavilion Kyoto",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450959199
+      },
+      {
+        "title": "You answered a question about \u00e8\u00ad\u00b7\u00e7\u008e\u008b\u00e7\u00a5\u009e\u00e7\u00a4\u00be",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450959195
+      },
+      {
+        "title": "You answered a question about \u00e5\u008c\u0097\u00e5\u00a4\u00a7\u00e8\u00b7\u00af\u00e3\u0083\u0093\u00e3\u0083\u0096\u00e3\u0083\u00ac",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450959182
+      },
+      {
+        "title": "You answered a question about \u00e3\u0083\u00ac\u00e3\u0083\u00bb\u00e3\u0083\u0089\u00e3\u0082\u00a5\u00e3\u0083\u00bb\u00e3\u0082\u00ae\u00e3\u0083\u00a3\u00e3\u0083\u00ab\u00e3\u0082\u00bd\u00e3\u0083\u00b3",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450959155
+      },
+      {
+        "title": "You answered a question about Cafe Bibliotic Hello!",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450959136
+      },
+      {
+        "title": "You answered a question about \u00e4\u00ba\u00ac\u00e9\u0083\u00bd\u00e5\u00ba\u009c\u00e7\u00ab\u008b\u00e5\u00a4\u00a7\u00e5\u00ad\u00a6",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450911723
+      },
+      {
+        "title": "You answered a question about \u00e5\u00a4\u00a7\u00e8\u00b0\u00b7\u00e5\u00a4\u00a7\u00e5\u00ad\u00a6",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450911715
+      },
+      {
+        "title": "You answered a question about \u00e4\u00ba\u00ac\u00e9\u0083\u00bd\u00e5\u00b8\u0082\u00e5\u008b\u0095\u00e7\u0089\u00a9\u00e5\u009c\u0092",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450911711
+      },
+      {
+        "title": "You answered a question about \u00e5\u00b9\u00b3\u00e9\u0087\u008e\u00e7\u00a5\u009e\u00e7\u00a4\u00be",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450872693
+      },
+      {
+        "title": "You answered a question about \u00e5\u008c\u0097\u00e5\u00b1\u00b1\u00e9\u00a7\u0085 (\u00e4\u00ba\u00ac\u00e9\u0083\u00bd\u00e5\u00ba\u009c)",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450872687
+      },
+      {
+        "title": "You answered a question about KBS \u00e4\u00ba\u00ac\u00e9\u0083\u00bd",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450872636
+      },
+      {
+        "title": "You answered a question about \u00e4\u00bd\u009b\u00e6\u0095\u0099\u00e5\u00a4\u00a7\u00e5\u00ad\u00a6",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450872618
+      },
+      {
+        "title": "You answered a question about Hyde Park, Round Pond",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1450872607
+      },
+      {
+        "title": "You answered a question about Hyde Park, Round Pond",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1450872607
+      },
+      {
+        "title": "You answered a question about Hyde Park, Round Pond",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1450872584
+      },
+      {
+        "title": "You answered a question about Hyde Park, Round Pond",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1450872584
+      },
+      {
+        "title": "You answered a question about \u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e5\u0096\u00ab\u00e8\u008c\u00b6",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1450868884
+      },
+      {
+        "title": "You answered a question about \u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e5\u0096\u00ab\u00e8\u008c\u00b6",
+        "question_type": "Facebook Editor question type: Phone number",
+        "timestamp": 1450867702
+      },
+      {
+        "title": "You answered a question about \u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e5\u0096\u00ab\u00e8\u008c\u00b6",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1450867702
+      },
+      {
+        "title": "You answered a question about \u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e5\u0096\u00ab\u00e8\u008c\u00b6",
+        "question_type": "Facebook Editor question type: Email address",
+        "timestamp": 1450867702
+      },
+      {
+        "title": "You answered a question about \u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e5\u0096\u00ab\u00e8\u008c\u00b6",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1450867632
+      },
+      {
+        "title": "You answered a question about Notting Hill Gate",
+        "question_type": "Facebook Editor question type: Place duplicate",
+        "timestamp": 1450541317
+      },
+      {
+        "title": "You answered a question about Notting Hill Gate",
+        "question_type": "Facebook Editor question type: Place&#039;s neighborhood",
+        "timestamp": 1450541310
+      },
+      {
+        "title": "You answered a question about Abbey Road, London",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450469851
+      },
+      {
+        "title": "You answered a question about Abbey Road, London",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450469849
+      },
+      {
+        "title": "You answered a question about Abbey Road, London",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1450469846
+      },
+      {
+        "title": "You answered a question about Abbey Road, London",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1450469842
+      },
+      {
+        "title": "You answered a question about Abbey Road, London",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1450469839
+      },
+      {
+        "title": "You answered a question about Corner Terrace",
+        "question_type": "Facebook Editor question type: Place&#039;s neighborhood",
+        "timestamp": 1449913573
+      },
+      {
+        "title": "You answered a question about Chiswick Pier",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1449250578
+      },
+      {
+        "title": "You answered a question about U.S. Embassy,, Grosvenor Square London Greater London W1K United Kingdom",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1449250573
+      },
+      {
+        "title": "You answered a question about French Embassy, South Kensington",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1449250565
+      },
+      {
+        "title": "You answered a question about Nordstrom Rideau Center",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1449250538
+      },
+      {
+        "title": "You answered a question about Kings College Hospital NHS Foundation Trust",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1449162315
+      },
+      {
+        "title": "You answered a question about London International Airport",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1449162306
+      },
+      {
+        "title": "You answered a question about Secret Beach, Gibsons",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448565314
+      },
+      {
+        "title": "You answered a question about \u00e6\u009c\u00a8\u00e6\u0098\u00a5",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448565311
+      },
+      {
+        "title": "You answered a question about Soames Hill",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448565305
+      },
+      {
+        "title": "You answered a question about Victora &amp; Albert Museum",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448565286
+      },
+      {
+        "title": "You answered a question about Broadview station",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448565283
+      },
+      {
+        "title": "You answered a question about Cliff Gilker Park",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448565279
+      },
+      {
+        "title": "You answered a question about \u00e3\u0083\u00aa\u00e3\u0083\u0089\u00e9\u00a3\u00b2\u00e9\u00a3\u009f\u00e8\u00a1\u0097",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448565274
+      },
+      {
+        "title": "You answered a question about Notting Hill, Portobello Road Market",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1448565252
+      },
+      {
+        "title": "You answered a question about Portobello Market, Nothing Hill Gate",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448565235
+      },
+      {
+        "title": "You answered a question about Hyde Park, London",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448209148
+      },
+      {
+        "title": "You answered a question about Hyde Park, London",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448209145
+      },
+      {
+        "title": "You answered a question about Hyde Park, London",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448209141
+      },
+      {
+        "title": "You answered a question about Arts Et M\u00c3\u00a9tiers, Paris 3\u00c3\u00a8me",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448142526
+      },
+      {
+        "title": "You answered a question about Tsukiji fish market",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448142518
+      },
+      {
+        "title": "You answered a question about Portobello Road Antiques Market",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448142510
+      },
+      {
+        "title": "You answered a question about Portobello Road Antiques Market",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1448142504
+      },
+      {
+        "title": "You answered a question about Notting Hill",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448142489
+      },
+      {
+        "title": "You answered a question about Earls Court",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448142485
+      },
+      {
+        "title": "You answered a question about The Mall Tavern",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1448142160
+      },
+      {
+        "title": "You answered a question about The Mall Tavern",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1448142157
+      },
+      {
+        "title": "You answered a question about The Mall Tavern",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1448142157
+      },
+      {
+        "title": "You answered a question about The Mall Tavern",
+        "question_type": "Facebook Editor question type: Place&#039;s neighborhood",
+        "timestamp": 1448142145
+      },
+      {
+        "title": "You answered a question about Holland Park Avenue",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1447826895
+      },
+      {
+        "title": "You answered a question about Holland Park Avenue",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1447826891
+      },
+      {
+        "title": "You answered a question about Portobello Road - Notting Hill Gate",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1447826874
+      },
+      {
+        "title": "You answered a question about Kensington High Street",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1447826851
+      },
+      {
+        "title": "You answered a question about Kensington High Street",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1447826845
+      },
+      {
+        "title": "You answered a question about Queensway, London",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1447826830
+      },
+      {
+        "title": "You answered a question about The Castle on Portobello Road",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1447436269
+      },
+      {
+        "title": "You answered a question about The Castle on Portobello Road",
+        "question_type": "Facebook Editor question type: Place&#039;s neighborhood",
+        "timestamp": 1447436265
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e3\u0083\u00a0\u00e3\u0083\u00a9\u00e3\u0082\u00a4\u00e3\u0083\u00b3",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1436307421
+      },
+      {
+        "title": "You answered a question about Hyde Park, Round Pond",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1428176445
+      },
+      {
+        "title": "You answered a question about Hyde Park, Round Pond",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1428176445
+      },
+      {
+        "title": "You answered a question about Hyde Park, Round Pond",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1428176405
+      },
+      {
+        "title": "You answered a question about Hyde Park, Round Pond",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1428176405
+      },
+      {
+        "title": "You answered a question about Book &amp; Comic Exchange Nothing Hill London",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1427692903
+      },
+      {
+        "title": "You answered a question about Book &amp; Comic Exchange Nothing Hill London",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1427692903
+      },
+      {
+        "title": "You answered a question about \u00e5\u0085\u00ab\u00e9\u0087\u008d\u00e5\u008b\u009d",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1424393575
+      },
+      {
+        "title": "You answered a question about Caf\u00c3\u00a9 Yamash\u00c5\u008d",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1423279149
+      },
+      {
+        "title": "You answered a question about Caf\u00c3\u00a9 Yamash\u00c5\u008d",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1423279149
+      },
+      {
+        "title": "You answered a question about Truffles",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1420166244
+      },
+      {
+        "title": "You answered a question about Sharkey&#039;s Fish Locker",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1419471555
+      },
+      {
+        "title": "You answered a question about Sharkey&#039;s Fish Locker",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1419471554
+      },
+      {
+        "title": "You answered a question about Indigo",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1419135680
+      },
+      {
+        "title": "You answered a question about Indigo",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1419135680
+      },
+      {
+        "title": "You answered a question about Indigo",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1419135680
+      },
+      {
+        "title": "You answered a question about Montparnasse Cafe&#039;",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1418899372
+      },
+      {
+        "title": "You answered a question about Montparnasse Cafe&#039;",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1418899372
+      },
+      {
+        "title": "You answered a question about Montparnasse Cafe&#039;",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1418899371
+      },
+      {
+        "title": "You answered a question about Japanese School",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1418720310
+      },
+      {
+        "title": "You answered a question about Japanese School",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1418720310
+      },
+      {
+        "title": "You answered a question about Japanese School",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1418720310
+      },
+      {
+        "title": "You answered a question about \u00e5\u00a6\u0083\u00e5\u00b1\u008b",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1418439720
+      },
+      {
+        "title": "You answered a question about \u00e5\u00a6\u0083\u00e5\u00b1\u008b",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1418439720
+      },
+      {
+        "title": "You answered a question about \u00e5\u00a6\u0083\u00e5\u00b1\u008b",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1418439720
+      },
+      {
+        "title": "You answered a question about \u00e5\u00a6\u0083\u00e5\u00b1\u008b",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1418439720
+      },
+      {
+        "title": "You answered a question about Dalva",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1417064737
+      },
+      {
+        "title": "You answered a question about \u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e3\u0083\u0081\u00e3\u0082\u00bf\u00e5\u0096\u00ab\u00e8\u008c\u00b6",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1411979849
+      },
+      {
+        "title": "You answered a question about Bistrot Les Deux Garcons",
+        "question_type": "Facebook Editor question type: Map location",
+        "timestamp": 1411876333
+      },
+      {
+        "title": "You answered a question about Bistrot Les Deux Garcons",
+        "question_type": "Facebook Editor question type: Map location",
+        "timestamp": 1411876333
+      },
+      {
+        "title": "You answered a question about \u00e3\u0081\u008d\u00e3\u0082\u0083\u00e3\u0081\u0095(\u00e5\u0082\u0098)",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1411862557
+      },
+      {
+        "title": "You answered a question about \u00e3\u0081\u008d\u00e3\u0082\u0083\u00e3\u0081\u0095(\u00e5\u0082\u0098)",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1411862557
+      },
+      {
+        "title": "You answered a question about \u00e3\u0081\u008d\u00e3\u0082\u0083\u00e3\u0081\u0095(\u00e5\u0082\u0098)",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1411862557
+      },
+      {
+        "title": "You answered a question about \u00e7\u008f\u0088\u00e7\u0090\u00b2\u00e9\u00a4\u00a8 \u00e3\u0083\u008a\u00e3\u0083\u0080",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1411703733
+      },
+      {
+        "title": "You answered a question about \u00e3\u0081\u008b\u00e3\u0082\u0082donut",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1410681515
+      },
+      {
+        "title": "You answered a question about Restaurante Figueira Rubayat",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1409399875
+      },
+      {
+        "title": "You answered a question about Restaurante Figueira Rubayat",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1409399875
+      },
+      {
+        "title": "You answered a question about Restaurante Figueira Rubayat",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1409399875
+      },
+      {
+        "title": "You answered a question about La Trotinette",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1407092705
+      },
+      {
+        "title": "You answered a question about La Trotinette",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1407092705
+      },
+      {
+        "title": "You answered a question about La Trotinette",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1406882830
+      },
+      {
+        "title": "You answered a question about La Trotinette",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1406882830
+      },
+      {
+        "title": "You answered a question about La Trotinette",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1406882818
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e3\u0083\u00a0\u00e3\u0083\u00a9\u00e3\u0082\u00a4\u00e3\u0083\u00b3",
+        "question_type": "Facebook Editor question type: Place duplicate",
+        "timestamp": 1405379428
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e3\u0083\u00a0\u00e3\u0083\u00a9\u00e3\u0082\u00a4\u00e3\u0083\u00b3",
+        "question_type": "Facebook Editor question type: Place duplicate",
+        "timestamp": 1405125279
+      },
+      {
+        "title": "You answered a question about Art Space Niji",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1401605412
+      },
+      {
+        "title": "You answered a question about Art Space Niji",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1401605412
+      },
+      {
+        "title": "You answered a question about Art Space Niji",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1401605412
+      },
+      {
+        "title": "You answered a question about Art Space Niji",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1401605412
+      },
+      {
+        "title": "You answered a question about Art Space Niji",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1401605412
+      },
+      {
+        "title": "You answered a question about Art Space Niji",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1401605277
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00a2\u00e3\u0083\u00bc\u00e3\u0083\u0088\u00e3\u0082\u00b9\u00e3\u0083\u009a\u00e3\u0083\u00bc\u00e3\u0082\u00b9\u00e8\u0099\u00b9",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1399969393
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00a2\u00e3\u0083\u00bc\u00e3\u0083\u0088\u00e3\u0082\u00b9\u00e3\u0083\u009a\u00e3\u0083\u00bc\u00e3\u0082\u00b9\u00e8\u0099\u00b9",
+        "question_type": "Facebook Editor question type: Phone number",
+        "timestamp": 1399969393
+      },
+      {
+        "title": "You answered a question about \u00e7\u009c\u009f\u00e5\u00a4\u009c\u00e4\u00b8\u00ad\u00e3\u0082\u00ab\u00e3\u0083\u00ac\u00e3\u0083\u00bc\u00e3\u0081\u0086\u00e3\u0081\u00a9\u00e3\u0082\u0093",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1398312752
+      },
+      {
+        "title": "You answered a question about \u00e3\u0081\u00bb\u00e3\u0082\u0093\u00e3\u0082\u0084\u00e3\u0082\u0089\u00e6\u00b4\u009e",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1397896914
+      },
+      {
+        "title": "You answered a question about \u00e3\u0081\u00bb\u00e3\u0082\u0093\u00e3\u0082\u0084\u00e3\u0082\u0089\u00e6\u00b4\u009e",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1397896901
+      },
+      {
+        "title": "You answered a question about \u00e3\u0081\u00bb\u00e3\u0082\u0093\u00e3\u0082\u0084\u00e3\u0082\u0089\u00e6\u00b4\u009e \u00e8\u00a5\u00bf\u00e9\u0099\u00a3",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1397437212
+      },
+      {
+        "title": "You answered a question about \u00e3\u0081\u00bb\u00e3\u0082\u0093\u00e3\u0082\u0084\u00e3\u0082\u0089\u00e6\u00b4\u009e \u00e8\u00a5\u00bf\u00e9\u0099\u00a3",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1397437180
+      },
+      {
+        "title": "You answered a question about \u00e3\u0081\u00b3\u00e3\u0082\u008f\u00e6\u00b9\u0096\u00e3\u0083\u0090\u00e3\u0083\u00ac\u00e3\u0082\u00a4\u00ef\u00bc\u008f\u00e3\u0081\u00b3\u00e3\u0082\u008f\u00e6\u00b9\u0096\u00e3\u0083\u0086\u00e3\u0083\u00a9\u00e3\u0082\u00b9",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1395546313
+      },
+      {
+        "title": "You answered a question about \u00c3\u0089cole fran\u00c3\u00a7aise d&#039;Extr\u00c3\u00aame-Orient - EFEO Kyoto",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1393671361
+      },
+      {
+        "title": "You answered a question about \u00c3\u0089cole fran\u00c3\u00a7aise d&#039;Extr\u00c3\u00aame-Orient - EFEO Kyoto",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1393671292
+      },
+      {
+        "title": "You answered a question about \u00c3\u0089cole fran\u00c3\u00a7aise d&#039;Extr\u00c3\u00aame-Orient - EFEO Kyoto",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1393671292
+      },
+      {
+        "title": "You answered a question about \u00e5\u0096\u00ab\u00e8\u008c\u00b6\u00e3\u0083\u009d\u00e3\u0082\u00b3",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1391387535
+      },
+      {
+        "title": "You answered a question about SanJalisco Mexican Resturant",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1378576922
+      },
+      {
+        "title": "You answered a question about SanJalisco Mexican Resturant",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1378576922
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00b3\u00e3\u0083\u00af\u00e3\u0083\u00bc\u00e3\u0082\u00ad\u00e3\u0083\u00b3\u00e3\u0082\u00b0\u00e3\u0082\u00b9\u00e3\u0083\u009a\u00e3\u0083\u00bc\u00e3\u0082\u00b9\u00e3\u0080\u008c\u00e5\u00b0\u008f\u00e8\u0084\u0087\u00e3\u0080\u008d",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1377765510
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00b3\u00e3\u0083\u00af\u00e3\u0083\u00bc\u00e3\u0082\u00ad\u00e3\u0083\u00b3\u00e3\u0082\u00b0\u00e3\u0082\u00b9\u00e3\u0083\u009a\u00e3\u0083\u00bc\u00e3\u0082\u00b9\u00e3\u0080\u008c\u00e5\u00b0\u008f\u00e8\u0084\u0087\u00e3\u0080\u008d",
+        "question_type": "Facebook Editor question type: PLACE_OPEN_STATUS",
+        "timestamp": 1377765430
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00b3\u00e3\u0083\u00af\u00e3\u0083\u00bc\u00e3\u0082\u00ad\u00e3\u0083\u00b3\u00e3\u0082\u00b0\u00e3\u0082\u00b9\u00e3\u0083\u009a\u00e3\u0083\u00bc\u00e3\u0082\u00b9\u00e3\u0080\u008c\u00e5\u00b0\u008f\u00e8\u0084\u0087\u00e3\u0080\u008d",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1377765395
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00b3\u00e3\u0083\u00af\u00e3\u0083\u00bc\u00e3\u0082\u00ad\u00e3\u0083\u00b3\u00e3\u0082\u00b0\u00e3\u0082\u00b9\u00e3\u0083\u009a\u00e3\u0083\u00bc\u00e3\u0082\u00b9\u00e3\u0080\u008c\u00e5\u00b0\u008f\u00e8\u0084\u0087\u00e3\u0080\u008d",
+        "question_type": "Facebook Editor question type: Phone number",
+        "timestamp": 1377765394
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00b3\u00e3\u0083\u00af\u00e3\u0083\u00bc\u00e3\u0082\u00ad\u00e3\u0083\u00b3\u00e3\u0082\u00b0\u00e3\u0082\u00b9\u00e3\u0083\u009a\u00e3\u0083\u00bc\u00e3\u0082\u00b9\u00e3\u0080\u008c\u00e5\u00b0\u008f\u00e8\u0084\u0087\u00e3\u0080\u008d",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1377765393
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00b3\u00e3\u0083\u00af\u00e3\u0083\u00bc\u00e3\u0082\u00ad\u00e3\u0083\u00b3\u00e3\u0082\u00b0\u00e3\u0082\u00b9\u00e3\u0083\u009a\u00e3\u0083\u00bc\u00e3\u0082\u00b9\u00e3\u0080\u008c\u00e5\u00b0\u008f\u00e8\u0084\u0087\u00e3\u0080\u008d",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1377765392
+      },
+      {
+        "title": "You answered a question about \u00e3\u0083\u0088\u00e3\u0083\u00aa\u00e3\u0082\u00a4",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1374708592
+      },
+      {
+        "title": "You answered a question about \u00e3\u0083\u0088\u00e3\u0083\u00aa\u00e3\u0082\u00a4",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1374708550
+      },
+      {
+        "title": "You answered a question about Flotation",
+        "question_type": "Facebook Editor question type: Page profile photo",
+        "timestamp": 1372897318
+      },
+      {
+        "title": "You answered a question about Flotation",
+        "question_type": "Facebook Editor question type: Email address",
+        "timestamp": 1372897144
+      },
+      {
+        "title": "You answered a question about Flotation",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1372897143
+      },
+      {
+        "title": "You answered a question about Flotation",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1372897142
+      },
+      {
+        "title": "You answered a question about Flotation",
+        "question_type": "Facebook Editor question type: Phone number",
+        "timestamp": 1372897142
+      },
+      {
+        "title": "You answered a question about Flotation",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1372897142
+      },
+      {
+        "title": "You answered a question about Flotation",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1372897141
+      },
+      {
+        "title": "You answered a question about Flotation",
+        "question_type": "Facebook Editor question type: PAGE_NAME",
+        "timestamp": 1372897141
+      },
+      {
+        "title": "You answered a question about The Star Cafe",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1360924683
+      },
+      {
+        "title": "You answered a question about The Star Cafe",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1360924682
+      },
+      {
+        "title": "You answered a question about The Star Cafe",
+        "question_type": "Facebook Editor question type: Phone number",
+        "timestamp": 1360924682
+      },
+      {
+        "title": "You answered a question about The Star Cafe",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1360924681
+      },
+      {
+        "title": "You answered a question about The Star Cafe",
+        "question_type": "Facebook Editor question type: Page category",
+        "timestamp": 1360924681
+      },
+      {
+        "title": "You answered a question about Barnaby Gunning Architects",
+        "question_type": "Facebook Editor question type: Website",
+        "timestamp": 1360847193
+      },
+      {
+        "title": "You answered a question about Barnaby Gunning Architects",
+        "question_type": "Facebook Editor question type: Phone number",
+        "timestamp": 1360847192
+      },
+      {
+        "title": "You answered a question about Barnaby Gunning Architects",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1360847191
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e3\u0083\u00a0\u00e3\u0083\u00a9\u00e3\u0082\u00a4\u00e3\u0083\u00b3",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1353648789
+      },
+      {
+        "title": "You answered a question about \u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e3\u0083\u00a0\u00e3\u0083\u00a9\u00e3\u0082\u00a4\u00e3\u0083\u00b3",
+        "question_type": "Facebook Editor question type: Address/city/ZIP",
+        "timestamp": 1353648789
+      }
+    ]
+  }
+}

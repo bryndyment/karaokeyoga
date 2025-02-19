@@ -1,0 +1,101 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Option",
+        "value": "Asia"
+      },
+      {
+        "label": "Image URL"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Dylan Napier"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Poll creator"
+      },
+      {
+        "label": "Poll text",
+        "value": "I've seen a lot of posts from Australia over the time since I've joined, and this has got me thinking about what the demographic of this group is.\n\nI've entered the different continents, but feel free to let everyone know which country you're from."
+      }
+    ],
+    "fbid": "1693608397846261"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Option",
+        "value": "Sunday, 5/30 at 1pm in Hamamatsucho"
+      },
+      {
+        "label": "Image URL"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Jeremy Wilgus"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Poll creator"
+      },
+      {
+        "label": "Poll text",
+        "value": "Pick up this weekend! Let me know which day/place works for you."
+      }
+    ],
+    "fbid": "886594421898001"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Option",
+        "value": "NOON, Sunday, March 28th, HAMAMATSUCHO"
+      },
+      {
+        "label": "Image URL"
+      },
+      {
+        "dict": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Jeremy Wilgus"
+              }
+            ],
+            "title": ""
+          }
+        ],
+        "title": "Poll creator"
+      },
+      {
+        "label": "Poll text",
+        "value": "Hey folks, I know most of you posted in the announcement thread about your pickup, but it\u00e2\u0080\u0099s a lot easier for me to figure out numbers with a poll, so please let me know what day you can make it. Also, a touch earlier this time. See you this weekend!"
+      }
+    ],
+    "fbid": "495893615101669"
+  }
+]

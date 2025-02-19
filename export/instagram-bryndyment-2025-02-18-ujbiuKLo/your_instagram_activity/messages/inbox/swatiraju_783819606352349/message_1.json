@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Swati Raju"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1705802379434,
+      "content": "Swati!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1652371389284,
+      "content": "Hello Swati!\n\nLong time \u00e2\u0080\u00a6\n\nI would like to ask a favor of you. I am applying for a new job in the Bay Area, and have successfully completed four rounds of interviews.\n\nThe final step is two professional references, and they have asked specifically for my managers at both Groupon and Unity.\n\nHow would you feel about this?\n\nThe company itself is https://www.tryklarity.com/",
+      "share": {
+        "link": "https://www.tryklarity.com/",
+        "share_text": "Automated document management for finance and accounting - Review, Reporting, and Audit Trail."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1637820686558,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Swati Raju",
+  "is_still_participant": true,
+  "thread_path": "inbox/swatiraju_783819606352349",
+  "magic_words": [
+    
+  ]
+}

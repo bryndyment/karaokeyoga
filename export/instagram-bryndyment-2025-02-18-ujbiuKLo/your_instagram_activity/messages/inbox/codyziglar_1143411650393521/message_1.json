@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Cody Ziglar"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1690214807941,
+      "content": "we did good!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cody Ziglar",
+      "timestamp_ms": 1689903097827,
+      "content": "Hey there! Sorry just seeing thisbut so glad they\u00e2\u0080\u0099re in town visiting! I\u00e2\u0080\u0099m not avail this weekend but hopefully next time y\u00e2\u0080\u0099all are in town!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1689801341017,
+      "content": "\u00e2\u0086\u0091 or lunch here, friday? this is where seinfeld and miranda sings ate together nine years ago",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1689801291014,
+      "content": "https://maps.app.goo.gl/kU9cQdxEMSErtZ9D7?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/kU9cQdxEMSErtZ9D7?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/kU9cQdxEMSErtZ9D7?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1689800969342,
+      "content": "\u00e2\u0086\u0091 this punk-ette",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1689800950541,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/codyziglar_1143411650393521/photos/362011795_1000074511347583_1370797780689705308_n_1000074508014250.jpg",
+          "creation_timestamp": 1689800949
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1689800929526,
+      "content": "hey! mirei (and her older brother, and i) are going to be in LA this weekend \u00e2\u0080\u00a6 is there any possibility we could meet for coffee? my kids would think i\u00e2\u0080\u0099m a GOD if you can make it happen! \u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u0087\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f\u00f0\u009f\u0087\u00af\u00f0\u009f\u0087\u00b5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cody Ziglar",
+      "timestamp_ms": 1680693679210,
+      "content": "That\u00e2\u0080\u0099s great! Glad your daughter enjoyed it. And yes, Andrea is great too.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cody Ziglar",
+      "timestamp_ms": 1680693653942,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680688759940,
+      "content": "i see @andreajin follows you \u00e2\u0080\u00a6 she\u00e2\u0080\u0099s pretty awesome",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680688713891,
+      "content": "hey \u00e2\u0080\u00a6 my daughter loved your talk at her school yesterday",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Cody Ziglar",
+          "timestamp": 1680693653
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cody Ziglar",
+  "is_still_participant": true,
+  "thread_path": "inbox/codyziglar_1143411650393521",
+  "magic_words": [
+    
+  ]
+}

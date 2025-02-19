@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Stuart Mclachlan"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stuart Mclachlan",
+      "timestamp_ms": 1717140413256,
+      "content": "Thanks fellow clown. I got your typed letter, it was like opening something from a 1930\u00e2\u0080\u0099s movie. I will write back appropriately , but not using a typewriter. I may send mine all in Morse code or Brail to make it interesting.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1717022570366,
+      "content": "happy birthday, clown!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stuart Mclachlan",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/stuartmclachlan_10153424601600027",
+  "magic_words": [
+    
+  ]
+}

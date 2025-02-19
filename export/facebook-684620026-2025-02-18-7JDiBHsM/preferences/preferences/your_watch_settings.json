@@ -1,0 +1,44 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Have you opted opt out of videos from business pages",
+      "value": "True"
+    },
+    {
+      "label": "Have you opted out of videos from all the pages",
+      "value": "False"
+    },
+    {
+      "label": "Preferred languages",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Have you interacted with the page language picker",
+      "value": "False"
+    },
+    {
+      "label": "The surface on which you used the language picker"
+    },
+    {
+      "label": "Your time of interaction",
+      "timestamp_value": 1710111476
+    },
+    {
+      "label": "Have you interacted with the page language picker",
+      "value": "False"
+    },
+    {
+      "label": "The surface on which you used the language picker"
+    },
+    {
+      "label": "Your time of interaction",
+      "timestamp_value": 1703221096
+    }
+  ],
+  "fbid": "10156606100730027"
+}

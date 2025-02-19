@@ -1,0 +1,19 @@
+{
+  "contact_verifications_v2": [
+    {
+      "contact": "bryn@iffy.studio",
+      "contact_type": 2,
+      "verification_time": 1447168150
+    },
+    {
+      "contact": "bryndyment@gmail.com",
+      "contact_type": 2,
+      "verification_time": 1423294943
+    },
+    {
+      "contact": "+817044714022",
+      "contact_type": 1,
+      "verification_time": 1545891415
+    }
+  ]
+}

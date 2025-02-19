@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Yui Yamaguchi"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1562381726943,
+      "content": "thanks for the sammie!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1562381708339,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/yuiyamaguchi_574854000577893/photos/66281331_458237918071419_4299786335984405167_n_816200395821705.jpg",
+          "creation_timestamp": 1602648213
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yui Yamaguchi",
+  "is_still_participant": true,
+  "thread_path": "inbox/yuiyamaguchi_574854000577893",
+  "magic_words": [
+    
+  ]
+}

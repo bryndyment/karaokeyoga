@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Dave Sarkany"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1641361228588,
+      "content": "ah ok \u00e2\u0080\u00a6 sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave Sarkany",
+      "timestamp_ms": 1641351873751,
+      "content": "Today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave Sarkany",
+      "timestamp_ms": 1641351862269,
+      "content": "But don't come for a few days cause I'm symptomatic and tested covid positive",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave Sarkany",
+      "timestamp_ms": 1641279289950,
+      "content": "That would be great. If you want I can offer a room. With bunkbed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1641256176652,
+      "content": "we just might come up to whistler :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave Sarkany",
+      "timestamp_ms": 1641249907500,
+      "content": "Yes maybe near the end of January?\nWinter is stupidly busy for me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1641006791296,
+      "content": "let\u00e2\u0080\u0099s connect soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave Sarkany",
+      "timestamp_ms": 1641000866155,
+      "content": "HNY!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1641006782
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave Sarkany",
+      "timestamp_ms": 1640471092790,
+      "content": "Merry Christmas to you and your family!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1640467567280,
+      "content": "MC2021!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dave Sarkany",
+  "is_still_participant": true,
+  "thread_path": "inbox/davesarkany_787747362622834",
+  "magic_words": [
+    
+  ]
+}

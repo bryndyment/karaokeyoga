@@ -1,0 +1,40 @@
+{
+  "instant_games_played_v2": [
+    {
+      "name": "Galaga",
+      "added_timestamp": 1490627847,
+      "user_app_scoped_id": 1502929666415995,
+      "category": "inactive"
+    },
+    {
+      "name": "Daily Sudoku",
+      "added_timestamp": 1489696738,
+      "user_app_scoped_id": 1292268940857088,
+      "category": "inactive"
+    },
+    {
+      "name": "Basketball Against Friends",
+      "added_timestamp": 1489695183,
+      "user_app_scoped_id": 1011468808954448,
+      "category": "inactive"
+    },
+    {
+      "name": "Space Invaders",
+      "added_timestamp": 1489664395,
+      "user_app_scoped_id": 1336961676386961,
+      "category": "inactive"
+    },
+    {
+      "name": "PAC-MAN",
+      "added_timestamp": 1489210745,
+      "user_app_scoped_id": 1362190563841682,
+      "category": "inactive"
+    },
+    {
+      "name": "Super Dash",
+      "added_timestamp": 1488898330,
+      "user_app_scoped_id": 1042198359219936,
+      "category": "inactive"
+    }
+  ]
+}

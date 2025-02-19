@@ -1,0 +1,121 @@
+{
+  "participants": [
+    {
+      "name": "Doug Dyment"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1716867679589,
+      "content": "No, I don't have it as a torrent anymore.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1716865168199,
+      "content": "thx! looks like you're not sharing it at the moment?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1716860556702,
+      "content": "https://limetor.com/Without-Getting-Killed-Or-Caught-2021-1080p-WEB-h264-ARCTiCBOX-mkv-torrent-18214362.html",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1716860118330,
+      "content": "have a torrent link?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1716592198211,
+      "content": "After three years of trying, I finally was able to download a (hi-res) copy of \"Without Getting Killed or Caught\", the excellent biopic of Guy & Susanna Clark. Mom & I are watching it now.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1716160296987,
+      "content": "Doug sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1697847021618,
+      "content": "No, it's legit ... got it from a friend of mine. Thought you might be interested.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1697846695297,
+      "content": "is that really from you? it's over 50 minutes long and the first minute makes me suspicious",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1697840257090,
+      "content": "https://www.youtube.com/watch?v=RdAKXJlMIZM",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1696043432220,
+      "content": "Reacted \u00e2\u009d\u00a4 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1696041985518,
+      "content": "https://www.facebook.com/plumetingheights/posts/pfbid0YUMAme5hVXdKggk7MsS1Vwi98ucgZa5xBY29RJWketZh4RiqhRnDwo7FTsziPSH1l",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Doug Dyment",
+          "timestamp": 1696043432
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1689725855840,
+      "content": "https://www.facebook.com/groups/153440611357167/search/?q=insurance",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Doug Dyment",
+  "is_still_participant": true,
+  "thread_path": "inbox/dougdyment_10153556049605941",
+  "magic_words": [
+    
+  ]
+}

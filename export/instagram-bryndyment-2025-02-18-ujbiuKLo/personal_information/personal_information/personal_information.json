@@ -1,0 +1,85 @@
+{
+  "profile_user": [
+    {
+      "title": "User Information",
+      "media_map_data": {
+        "Profile Photo": {
+          "uri": "media/profile/202203/277240216_1120119145430412_1464591436791954909_n_17924774363236871.jpg",
+          "creation_timestamp": 1648320212,
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "backup_uri": "https://interncache-ldc.fbcdn.net/v/t51.2885-15/277240216_1120119145430412_1464591436791954909_n.jpg?stp=dst-jpg_e35_tt6&ccb=1-7&_nc_sid=18de74&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9tZXRhX3VuaXZlcnNlL2VudGl0eS9pbnN0YWdyYW0vYmVzdF9pbWFnZSJ9&_nc_zt=23&oh=00_AYDNXTRLah9xZNH1sRXVWqjAGv3SZSZ-rQRwjKCMp48STw&oe=67BA0080"
+        }
+      },
+      "string_map_data": {
+        "Email": {
+          "href": "",
+          "value": "bryndyment@gmail.com",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "+817044714022",
+          "timestamp": 0
+        },
+        "Phone Confirmed": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        },
+        "Phone Confirmation Method": {
+          "href": "",
+          "value": "Auto",
+          "timestamp": 0
+        },
+        "Username": {
+          "href": "",
+          "value": "bryndyment",
+          "timestamp": 0
+        },
+        "Name": {
+          "href": "",
+          "value": "Bryn Dyment",
+          "timestamp": 0
+        },
+        "Bio": {
+          "href": "",
+          "value": "Clean living.",
+          "timestamp": 0
+        },
+        "Gender": {
+          "href": "",
+          "value": "male",
+          "timestamp": 0
+        },
+        "Date of birth": {
+          "href": "",
+          "value": "1968-03-11",
+          "timestamp": 0
+        },
+        "Website": {
+          "href": "",
+          "value": "https://hoologic.io/",
+          "timestamp": 0
+        },
+        "Private Account": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "Emoji Pong High Score": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

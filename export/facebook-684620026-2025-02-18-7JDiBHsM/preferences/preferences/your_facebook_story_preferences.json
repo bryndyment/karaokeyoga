@@ -1,0 +1,32 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Who can see your story",
+      "value": "Friends"
+    },
+    {
+      "label": "Save stories to archive",
+      "value": "Disabled"
+    },
+    {
+      "label": "Enable new stories notifications on Messenger",
+      "value": "False"
+    },
+    {
+      "label": "Allow anyone you tag to share your story to their story for an additional 24 hours",
+      "value": "None"
+    },
+    {
+      "label": "Story commenting settings",
+      "value": "Unset"
+    },
+    {
+      "label": "Time until stories for memories are snoozed",
+      "timestamp_value": 0
+    }
+  ],
+  "fbid": "10155598500585027"
+}

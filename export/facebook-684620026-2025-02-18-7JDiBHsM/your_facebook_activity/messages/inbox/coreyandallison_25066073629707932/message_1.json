@@ -1,0 +1,121 @@
+{
+  "participants": [
+    {
+      "name": "Corey Ma"
+    },
+    {
+      "name": "Allison Maxted"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1711679854282,
+      "content": "1. fairly central\n2. fairly working class (no yuppies)\n3. not suburban \u00e2\u0080\u00a6 want to walk to shops, restaurants\n4. not too crazy noisy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1711679788401,
+      "content": "recommendations requested",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1711679754448,
+      "content": "lololol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Allison Maxted",
+      "timestamp_ms": 1711677642115,
+      "content": "Do*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Allison Maxted",
+      "timestamp_ms": 1711677639428,
+      "content": "Also you know where in Mexico City you are moving to?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Corey Ma",
+      "timestamp_ms": 1711677603874,
+      "content": "That's awesome!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Corey Ma",
+      "timestamp_ms": 1711677572382,
+      "content": "Corey reacted \u00e2\u009d\u00a4 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Allison Maxted",
+      "timestamp_ms": 1711677556724,
+      "content": "Cool!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Allison Maxted",
+      "timestamp_ms": 1711677552246,
+      "content": "Allison reacted \u00e2\u009d\u00a4 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1711675369056,
+      "content": "We'll return to Japan eventually but should be there for at least a few years!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1711675350313,
+      "content": "Guess what? We are planning on moving to Mexico City this fall \u00e2\u0080\u00a6 with luck, in time for Day of the Dead.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Corey Ma",
+          "timestamp": 1711677572
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Allison Maxted",
+          "timestamp": 1711677552
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1711675310340,
+      "content": "Hey, cousins!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Corey and Allison",
+  "is_still_participant": true,
+  "thread_path": "inbox/coreyandallison_25066073629707932",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

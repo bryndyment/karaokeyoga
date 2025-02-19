@@ -1,0 +1,48 @@
+{
+  "devices_v2": [
+    {
+      "type": "iPhone14,4",
+      "os": "iPhone OS 18.3.1",
+      "update_time": 1739828352,
+      "redact_tokens": [
+        "f954********************",
+        "6a5a********************",
+        "c6e1********************"
+      ],
+      "push_tokens": [
+        {
+          "disabled": false,
+          "client_update_time": 1739828034,
+          "creation_time": 1731160297,
+          "app_version": "494.0.0.52.98",
+          "locale": "en_US",
+          "os_version": "18.3.1",
+          "token": "f954********************",
+          "device_id": "88CF610C-1DC0-48B8-AA85-3E844BAC7337"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1739828034,
+          "creation_time": 1705062956,
+          "app_version": "494.0.0.52.98",
+          "locale": "en_US",
+          "os_version": "18.3.1",
+          "token": "6a5a********************",
+          "device_id": "88CF610C-1DC0-48B8-AA85-3E844BAC7337"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1724511202,
+          "creation_time": 1721313061,
+          "app_version": "478.0.0.39.102",
+          "locale": "en_GB",
+          "os_version": "17.5.1",
+          "token": "c6e1********************",
+          "device_id": "88CF610C-1DC0-48B8-AA85-3E844BAC7337"
+        }
+      ],
+      "family_device_id": "1CA01EAA****************************",
+      "device_locale": "en_US"
+    }
+  ]
+}

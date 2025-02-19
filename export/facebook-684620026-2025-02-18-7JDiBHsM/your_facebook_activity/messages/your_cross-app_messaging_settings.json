@@ -1,0 +1,16 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Has cross-app messaging enabled",
+      "value": "False"
+    },
+    {
+      "label": "Has cross-app messaging enabled for groups",
+      "value": "False"
+    }
+  ],
+  "fbid": "10161016856370027"
+}

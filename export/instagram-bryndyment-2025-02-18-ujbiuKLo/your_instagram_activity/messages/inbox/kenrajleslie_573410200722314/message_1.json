@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Ken Raj Leslie"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1615158529654,
+      "content": "the film is excellent \u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1615158484112,
+      "content": "\u00e2\u0086\u0091 you likely know this guy \u00e2\u0080\u00a6 but just in case you don't",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1615158472054,
+      "content": "https://www.tokyoweekender.com/2019/05/how-fuyuki-shimazu-upcycles-cardboard-boxes-to-create-designer-wallets/",
+      "share": {
+        "link": "https://www.tokyoweekender.com/2019/05/how-fuyuki-shimazu-upcycles-cardboard-boxes-to-create-designer-wallets/",
+        "share_text": "TW interviews the innovative owner of Carton, Fuyuki Shimazu, who breathes new life into cardboard boxes, turning them into unique wallets."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1615158468244,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ken Raj Leslie",
+  "is_still_participant": true,
+  "thread_path": "inbox/kenrajleslie_573410200722314",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "participants": [
+    {
+      "name": "Hiro Umetani"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685758143123,
+      "content": "how should she contact you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685758121228,
+      "content": "i have a potential student for you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685758096780,
+      "content": "hello!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hiro Umetani",
+      "timestamp_ms": 1680355198081,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680337425933,
+      "content": "\u00e3\u0081\u00a9\u00e3\u0081\u0086\u00ef\u00bc\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680337417062,
+      "content": "Cafe Pastet\n03-6709-8133\nhttps://maps.app.goo.gl/yzN5XjYvJKdKJ1Mh9?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/yzN5XjYvJKdKJ1Mh9?g_st=ic",
+        "share_text": "Cafe Pastet\n03-6709-8133\nhttps://maps.app.goo.gl/yzN5XjYvJKdKJ1Mh9?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hiro Umetani",
+      "timestamp_ms": 1680196180765,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680184089984,
+      "content": "yes!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Hiro Umetani",
+          "timestamp": 1680196180
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hiro Umetani",
+      "timestamp_ms": 1680181952763,
+      "content": "So sorry to ask change \u00f0\u009f\u0092\u00a6\nCan we meet at Shinjuku around13:15on Sunday?\nI should be 14:45 at the temple for class with contemporary dancer\u00f0\u009f\u0099\u0087\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hiro Umetani",
+      "timestamp_ms": 1679458943629,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1679439297261,
+      "content": "ok! \u00e6\u00a5\u00bd\u00e3\u0081\u0097\u00e3\u0081\u00bf\u00ef\u00bc\u0081",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Hiro Umetani",
+          "timestamp": 1679458943
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hiro Umetani",
+      "timestamp_ms": 1679324331853,
+      "content": "Hi \u00f0\u009f\u0098\u0084oh yes \u00f0\u009f\u0099\u008c Next month 1st afternoon-2nd afternoon of April I\u00e2\u0080\u0099ll be in Tokyo. How about 2nd of April around 14 :00 at Sinjyuku or Tokyo station?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1679285173160,
+      "content": "Hello! Next time you are in Tokyo, want to get a coffee or some sweets? I'd like to introduce you to Minako (the wife)!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hiro Umetani",
+  "is_still_participant": true,
+  "thread_path": "inbox/hiroumetani_510559040330815",
+  "magic_words": [
+    
+  ]
+}

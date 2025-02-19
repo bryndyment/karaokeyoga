@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Bryn Dyment"
+    },
+    {
+      "name": "826 Valencia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "826 Valencia",
+      "timestamp_ms": 1311878830000,
+      "content": "On Friday, August 26, from noon until 8:26 PM, we\u00e2\u0080\u0099re going to write until our pencils break, our pens run out of ink, our fingers fall off, and our computers crash. And you? You should join us.\n\nRemember, you don't have to be at 826 Valencia to participate! You can join us and raise funds from wherever you like, whether that means another part of the Bay Area or Timbuktu. We'd love to have your support!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "826 Valencia",
+      "timestamp_ms": 1310072997000,
+      "content": "On Friday, August 26, from noon until 8:26 PM, we\u00e2\u0080\u0099re going to write until our pencils break, our pens run out of ink, our fingers fall off, and our computers crash.And you? You should join us.\n\nhttp://826valencia.org/826-news/second-ever-826-day-write-a-thon/\n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "826 Valencia",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/826valencia_1244684685543441",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

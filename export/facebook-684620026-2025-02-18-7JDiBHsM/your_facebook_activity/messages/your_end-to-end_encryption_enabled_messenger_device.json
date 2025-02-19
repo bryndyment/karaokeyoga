@@ -1,0 +1,369 @@
+[
+  {
+    "timestamp": 1693085313,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Registration ID associated with this mobile device",
+        "value": "pwmcYjOR"
+      },
+      {
+        "label": "Unique ID",
+        "value": "AUKUWJD7WZEILNN254Q5Y3YIIVBJWYMPKQSV7ASIWYFHXKFY6GGA4"
+      },
+      {
+        "label": "The name you have given this device",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/423.0.0.29.108;FBBV/508124234;FBDV/iPhone14,4;FBMD/iPhone;FBSN/iOS;FBSV/16.6;FBSS/3;FBCR/;FBID/phone;FBLC/en;FBOP/0]"
+      },
+      {
+        "label": "Last time device was enabled or disabled",
+        "timestamp_value": 1698275535
+      },
+      {
+        "label": "Last time device used",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Status",
+        "value": "Not enabled"
+      },
+      {
+        "label": "Name",
+        "value": "iPhone 13 mini"
+      }
+    ],
+    "fbid": "10160797878760027"
+  },
+  {
+    "timestamp": 1691354954,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Registration ID associated with this mobile device",
+        "value": "t1cmntOK"
+      },
+      {
+        "label": "Unique ID",
+        "value": "AUMDBCT37VEJG33RURFKZMPERRRKULHLGDKYM6U4B2ZYDDTIKAJSQ"
+      },
+      {
+        "label": "The name you have given this device",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/420.0.0.29.53;FBBV/500447831;FBDV/iPhone14,4;FBMD/iPhone;FBSN/iOS;FBSV/16.5.1;FBSS/3;FBCR/;FBID/phone;FBLC/en;FBOP/0]"
+      },
+      {
+        "label": "Last time device was enabled or disabled",
+        "timestamp_value": 1693085312
+      },
+      {
+        "label": "Last time device used",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Status",
+        "value": "Not enabled"
+      },
+      {
+        "label": "Name",
+        "value": "iPhone 13 mini"
+      }
+    ],
+    "fbid": "10160757717000027"
+  },
+  {
+    "timestamp": 1687098945,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Registration ID associated with this mobile device",
+        "value": "X3s7rBfQ"
+      },
+      {
+        "label": "Unique ID",
+        "value": "AX6KH4AVX3FQ76E4TM2FI22F7NAUPIP2E7ZATQ3MNVW2MKDDP2TCA"
+      },
+      {
+        "label": "The name you have given this device",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/413.0.0.29.71;FBBV/484141376;FBDV/iPhone14,4;FBMD/iPhone;FBSN/iOS;FBSV/16.5;FBSS/3;FBCR/;FBID/phone;FBLC/en;FBOP/0]"
+      },
+      {
+        "label": "Last time device was enabled or disabled",
+        "timestamp_value": 1691354953
+      },
+      {
+        "label": "Last time device used",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Status",
+        "value": "Not enabled"
+      },
+      {
+        "label": "Name",
+        "value": "iPhone 13 mini"
+      }
+    ],
+    "fbid": "10160654721630027"
+  },
+  {
+    "timestamp": 1678166550,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Registration ID associated with this mobile device",
+        "value": "9ZqkMMNp"
+      },
+      {
+        "label": "Unique ID",
+        "value": "AV5HL2BJEYFJJK5DTWAKR2WDDHTVUQSIW6JKF3XPQQKKNSKMJCMRM"
+      },
+      {
+        "label": "The name you have given this device",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/398.0.0.27.69;FBBV/450825020;FBDV/iPhone14,4;FBMD/iPhone;FBSN/iOS;FBSV/16.3.1;FBSS/3;FBCR/;FBID/phone;FBLC/en;FBOP/0]"
+      },
+      {
+        "label": "Last time device was enabled or disabled",
+        "timestamp_value": 1695689876
+      },
+      {
+        "label": "Last time device used",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Status",
+        "value": "Not enabled"
+      },
+      {
+        "label": "Name",
+        "value": "iPhone 13 mini"
+      }
+    ],
+    "fbid": "10160440556380027"
+  },
+  {
+    "timestamp": 1668917127,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Registration ID associated with this mobile device",
+        "value": "0SQr1dMs"
+      },
+      {
+        "label": "Unique ID",
+        "value": "AWJXYWCXDZEBDCCBLDM3DPWE6FOHUVKLWFYUT5ZDLYVJ5ZFBYHBDA"
+      },
+      {
+        "label": "The name you have given this device",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/386.1.0.37.106;FBBV/417556003;FBDV/iPhone10,1;FBMD/iPhone;FBSN/iOS;FBSV/15.6.1;FBSS/2;FBCR/;FBID/phone;FBLC/ja;FBOP/0]"
+      },
+      {
+        "label": "Last time device was enabled or disabled",
+        "timestamp_value": 1674158558
+      },
+      {
+        "label": "Last time device used",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Status",
+        "value": "Not enabled"
+      },
+      {
+        "label": "Name",
+        "value": "iPhone 8"
+      }
+    ],
+    "fbid": "10160216943725027"
+  },
+  {
+    "timestamp": 1637340699,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Registration ID associated with this mobile device",
+        "value": "RpIdb9Rj"
+      },
+      {
+        "label": "Unique ID",
+        "value": "AXBZ2UOT656T3NGNHZPEHYE36NLK7WTVXV6YJ4PLORTVUQOMU6HVC"
+      },
+      {
+        "label": "The name you have given this device",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/339.0.0.18.118;FBBV/332337725;FBDV/iPhone12,3;FBMD/iPhone;FBSN/iOS;FBSV/15.1;FBSS/3;FBCR/;FBID/phone;FBLC/en;FBOP/0]"
+      },
+      {
+        "label": "Last time device was enabled or disabled",
+        "timestamp_value": 1683330132
+      },
+      {
+        "label": "Last time device used",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Status",
+        "value": "Not enabled"
+      },
+      {
+        "label": "Name",
+        "value": "iPhone 11 Pro"
+      }
+    ],
+    "fbid": "10159487881000027"
+  },
+  {
+    "timestamp": 1590758161,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Registration ID associated with this mobile device",
+        "value": "3sIYONRZ"
+      },
+      {
+        "label": "Unique ID",
+        "value": "AVK5UOD5426WJ5PFZRPP2VK4SUJMVNGCZF4JDS4DIMHOLAF7YU5CI"
+      },
+      {
+        "label": "The name you have given this device",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/285.0.0.38.116;FBBV/248940267;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/12.4.8;FBSS/2;FBCR/;FBID/phone;FBLC/en-GB;FBOP/0]"
+      },
+      {
+        "label": "Last time device was enabled or disabled",
+        "timestamp_value": 1620499527
+      },
+      {
+        "label": "Last time device used",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Status",
+        "value": "Not enabled"
+      },
+      {
+        "label": "Name",
+        "value": "iPhone 6"
+      }
+    ],
+    "fbid": "10158147892590027"
+  },
+  {
+    "timestamp": 1583910438,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Registration ID associated with this mobile device",
+        "value": ""
+      },
+      {
+        "label": "Unique ID",
+        "value": "AWREDYMEEO5IRPCNLJVJRAOMGHN56WA5SPY4RQ5O7SGQS6OIXR6XM"
+      },
+      {
+        "label": "The name you have given this device",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/264.0.0.63.117;FBBV/214112208;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/12.4.6;FBSS/2;FBCR/;FBID/phone;FBLC/en_GB;FBOP/0]"
+      },
+      {
+        "label": "Last time device was enabled or disabled",
+        "timestamp_value": 1590758161
+      },
+      {
+        "label": "Last time device used",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Status"
+      },
+      {
+        "label": "Name",
+        "value": "iPhone 6"
+      }
+    ],
+    "fbid": "10157844409480027"
+  },
+  {
+    "timestamp": 1467944058,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Registration ID associated with this mobile device",
+        "value": ""
+      },
+      {
+        "label": "Unique ID",
+        "value": "AXXXLSWGRM7X2ISVMCYOIVBGG6OP2Y5DBJCZWALZ7PCE753H3XUVG"
+      },
+      {
+        "label": "The name you have given this device",
+        "value": ""
+      },
+      {
+        "label": "User agent",
+        "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/MessengerForiOS;FBAV/253.1.0.43.116;FBBV/200174216;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/12.4.5;FBSS/2;FBID/phone;FBLC/en_GB;FBOP/5]"
+      },
+      {
+        "label": "Last time device was enabled or disabled",
+        "timestamp_value": 1590770889
+      },
+      {
+        "label": "Last time device used",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Status"
+      },
+      {
+        "label": "Name",
+        "value": "iPhone 6"
+      }
+    ],
+    "fbid": "10154130533020027"
+  }
+]

@@ -1,0 +1,244 @@
+{
+  "participants": [
+    {
+      "name": "andreas_sautter"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1680662303937,
+      "content": "Noice!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u00a3",
+          "actor": "Bryn Dyment",
+          "timestamp": 1680663734
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680660636022,
+      "content": "\u00e2\u0086\u0091 us!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680660628347,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/andreas_sautter_861706317754008/photos/339718913_211147641533600_5161628076509228657_n_211147638200267.jpg",
+          "creation_timestamp": 1680660626
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1680660407165,
+      "content": "We are in a renovated 50s building here in LA. Pls come visit",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1680660503
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1680660364393,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680657164749,
+      "content": "https://en.wikipedia.org/wiki/Vancouver_Special",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680657089780,
+      "content": "reminds me of vancouver, although the vancouver ones are 10x uglier \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680657069196,
+      "content": "https://en.wikipedia.org/wiki/Dingbat_(building)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680657014293,
+      "content": "yep \u00e2\u0080\u00a6 but i'm working for an SF startup",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "andreas_sautter",
+          "timestamp": 1680660364
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1680656981776,
+      "content": "Looks amazing. U in Tokyo full time?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680656937526,
+      "content": "https://en.wikipedia.org/wiki/Yanaka,_Tokyo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680656936586,
+      "content": "oh \u00e2\u0080\u00a6 sounds cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1680656891579,
+      "content": "We are on the Westside in mar vista, above Venice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680656877492,
+      "content": "(us: yanaka)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680656866340,
+      "content": "what neighborhood are you guys in?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1680654072923,
+      "content": "If you come for a visit, we\u00e2\u0080\u0099d be happy to host and show you around",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1680654044558,
+      "content": "I am supportive ;\u00e2\u0080\u0099)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1680656851
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680653425139,
+      "content": "we ***might*** move to LA in a year and a bit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1680651469680,
+      "content": "Glad to hear it. Miss it very much.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680651032220,
+      "content": "good! tokyo is lovely this time of year",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1680647636692,
+      "content": "Very cool, thanks for letting me know. How are things on your end?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680645929151,
+      "content": "she\u00e2\u0080\u0099s brilliant!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680645928899,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1623162719769,
+      "content": "Hope you are al well!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1623164152
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "andreas_sautter",
+      "timestamp_ms": 1623162707803,
+      "content": "So beautiful",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623154574401,
+      "share": {
+        "link": "https://www.instagram.com/p/CP2w2FHMG2i/?carousel_share_child_media_id=2591473458171899298_44474205154",
+        "share_text": "#\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3 #\u00e5\u00ae\u00b6\u00e3\u0081\u00a5\u00e3\u0081\u008f\u00e3\u0082\u008a #\u00e3\u0082\u00b0\u00e3\u0083\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u00b3\u00e3\u0081\u00ae\u00e3\u0081\u0082\u00e3\u0082\u008b\u00e6\u009a\u00ae\u00e3\u0082\u0089\u00e3\u0081\u0097 #\u00e7\u0084\u00a1\u00e5\u009e\u00a2\u00e6\u009d\u0090 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3 #\u00e5\u00ae\u00b6\u00e3\u0081\u00a5\u00e3\u0081\u008f\u00e3\u0082\u008a #\u00e3\u0082\u00b0\u00e3\u0083\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u00b3\u00e3\u0081\u00ae\u00e3\u0081\u0082\u00e3\u0082\u008b\u00e6\u009a\u00ae\u00e3\u0082\u0089\u00e3\u0081\u0097 #\u00e7\u0084\u00a1\u00e5\u009e\u00a2\u00e6\u009d\u0090 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099 #\u00e8\u00b1\u008a\u00e3\u0081\u008b\u00e3\u0081\u00aa\u00e6\u009a\u00ae\u00e3\u0082\u0089\u00e3\u0081\u0097 #\u00e5\u00bb\u0083\u00e6\u009d\u0090 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e4\u00bd\u008f\u00e5\u00ae\u0085  #\u00e5\u00b7\u00a5\u00e5\u008b\u0099\u00e5\u00ba\u0097\u00e3\u0081\u008c\u00e3\u0081\u00a4\u00e3\u0081\u008f\u00e3\u0082\u008b\u00e5\u00ae\u00b6 #\u00e3\u0082\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u0080\u00e3\u0083\u00bc\u00e3\u0083\u00a1\u00e3\u0082\u00a4\u00e3\u0083\u0089\u00e5\u00ae\u00b6\u00e5\u0085\u00b7 #\u00e6\u009d\u00b1\u00e4\u00b8\u008a\u00e9\u0087\u008e #routebooks #\u00e5\u008f\u00a4\u00e6\u009d\u0090\u00e5\u00ae\u00b6\u00e5\u0085\u00b7 #\u00e5\u00bb\u0083\u00e6\u009d\u0090\u00e5\u00ae\u00b6\u00e5\u0085\u00b7 #yukuido #\u00e3\u0082\u0086\u00e3\u0081\u008f\u00e3\u0081\u0084\u00e5\u00a0\u0082#\u00e3\u0083\u00af\u00e3\u0083\u00bc\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u0083\u00e3\u0083\u0097#\u00e3\u0083\u008f\u00e3\u0082\u00a4\u00e3\u0082\u00b3\u00e3\u0083\u00bc\u00e3\u0082\u00ad#diy#\u00e3\u0082\u00b9\u00e3\u0083\u0084\u00e3\u0083\u00bc\u00e3\u0083\u00ab",
+        "original_content_owner": "yukuido_workshop"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "andreas_sautter",
+  "is_still_participant": true,
+  "thread_path": "inbox/andreas_sautter_861706317754008",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "timestamp": 1710504437,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Account association state",
+      "value": "Account association enabled"
+    },
+    {
+      "label": "Latest last activity time",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Combined number of times you've used these privacy settings",
+      "value": "0"
+    },
+    {
+      "label": "Number of times you used clear history settings",
+      "value": "0"
+    },
+    {
+      "label": "Number of times you used disabling account association settings",
+      "value": "0"
+    },
+    {
+      "label": "Number of times you used enabling account association settings",
+      "value": "0"
+    },
+    {
+      "label": "Your latest and upcoming account association states",
+      "dict": [
+        
+      ]
+    },
+    {
+      "label": "When and what you've blocked",
+      "dict": [
+        
+      ]
+    }
+  ],
+  "fbid": "10161153643110027"
+}

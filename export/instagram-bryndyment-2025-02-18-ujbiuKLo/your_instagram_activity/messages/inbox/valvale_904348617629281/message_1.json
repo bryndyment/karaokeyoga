@@ -1,0 +1,86 @@
+{
+  "participants": [
+    {
+      "name": "Val Vale"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1655880857020,
+      "content": "we head back sunday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Val Vale",
+      "timestamp_ms": 1655878163638,
+      "content": "I\u00e2\u0080\u0099m tabling tomorrow and Thursday 12-3pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Val Vale",
+      "timestamp_ms": 1655796606638,
+      "content": "How long are you in town?!?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Val Vale",
+      "timestamp_ms": 1655796590659,
+      "content": "I don\u00e2\u0080\u0099t know who to ask!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1655789456544,
+      "content": "maybe that will change in a month or two?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Val Vale",
+      "timestamp_ms": 1655788501527,
+      "content": "I wonder if it\u00e2\u0080\u0099s worth going to?!? I read that you have to be on a tour** to be let into Japan !?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1655732921107,
+      "content": "tokyo art book fair is oct 27\u00e2\u0080\u009330 this year",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1655732045070,
+      "content": "pleasure!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1655732028715,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/valvale_904348617629281/photos/289097084_546593183781047_4789623228462888660_n_366396768895438.jpg",
+          "creation_timestamp": 1655732030
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Val Vale",
+  "is_still_participant": true,
+  "thread_path": "inbox/valvale_904348617629281",
+  "magic_words": [
+    
+  ]
+}

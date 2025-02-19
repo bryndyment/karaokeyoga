@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Emmett Satoshi"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emmett Satoshi",
+      "timestamp_ms": 1592528529816,
+      "content": "Emmett sent an attachment.",
+      "share": {
+        "link": "https://www.leladymoon.com/leladymoon/mercury-retrograde-february-2020-horoscope-and-mantra-for-your-zodiac-sign"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emmett Satoshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/emmettsatoshi_281076630191983",
+  "magic_words": [
+    
+  ]
+}

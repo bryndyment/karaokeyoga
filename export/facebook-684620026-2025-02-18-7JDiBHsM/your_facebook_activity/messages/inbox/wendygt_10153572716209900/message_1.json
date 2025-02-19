@@ -1,0 +1,86 @@
+{
+  "participants": [
+    {
+      "name": "Wendy GT"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1697846587113,
+      "content": "it's refreshingly low-key \u00e2\u0080\u00a6 we saw \"Killer's Kiss\" there",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wendy GT",
+      "timestamp_ms": 1697795756686,
+      "content": "Would love to go!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1697764168084,
+      "content": "yes, new beverly \u00e2\u0080\u00a6 fulfilled a recent dream and actually went!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wendy GT",
+      "timestamp_ms": 1697758521543,
+      "content": "Yeah, we have to get some old Princess calendars permanently mounted and on display.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wendy GT",
+      "timestamp_ms": 1697758457949,
+      "content": "Hey Bryn!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wendy GT",
+      "timestamp_ms": 1697758449416,
+      "content": "Is this the New Beverly?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1697681615941,
+      "content": "is john moonlighting?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1697681585837,
+      "content": "reminds me so much of the old princess calendars \u00e2\u0080\u00a6 eh?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1697681572103,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/wendygt_10153572716209900/photos/393846390_341394535076303_2632385415354065021_n_341394531742970.png",
+          "creation_timestamp": 1697681569
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wendy GT",
+  "is_still_participant": true,
+  "thread_path": "inbox/wendygt_10153572716209900",
+  "magic_words": [
+    
+  ]
+}

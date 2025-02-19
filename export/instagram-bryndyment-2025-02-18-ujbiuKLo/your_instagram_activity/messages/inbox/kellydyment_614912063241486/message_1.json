@@ -1,0 +1,2424 @@
+{
+  "participants": [
+    {
+      "name": "Kelly Dyment"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1738541131209,
+      "content": "https://www.instagram.com/corkandbean?igsh=MWx3MDAxYTY0M2VrcQ==",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1738541130974,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/corkandbean",
+        "profile_share_username": "corkandbean",
+        "profile_share_name": "Cork & Bean"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1738204301775,
+      "content": "Shall I call you Mr. Nostalgia now?! Trying to wean myself off social media\u00e2\u0080\u00a6",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment",
+          "timestamp": 1738205027
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738190131639,
+      "content": "i like this account",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738190131377,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DFa0RhXslrT/?carousel_share_child_media_id=3556384750491963148_47600306417",
+        "share_text": "",
+        "original_content_owner": "kingsqueensofcool"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1735187595807,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0091\u008d\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1735171305528,
+      "content": "great account",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kelly Dyment",
+          "timestamp": 1735187595
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1735171305339,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DEA2pNfTEB_/?carousel_share_child_media_id=3531062420091787327_900399528",
+        "share_text": "",
+        "original_content_owner": "jonny_question"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1733194358646,
+      "content": "And there\u00e2\u0080\u0099s my first girl crush Jacklyn Smith \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment",
+          "timestamp": 1733194918
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1733194335339,
+      "content": "\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0081\u00ab\u00e3\u0080\u008c\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00ef\u00bc\u0081\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1733194332624,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u0082\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733181964904,
+      "content": "haven\u00e2\u0080\u0099t heard that music in eons",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Kelly Dyment",
+          "timestamp": 1733194332
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733181964615,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kelly Dyment",
+          "timestamp": 1733194335
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DDD_3DhRPqW/?carousel_share_child_media_id=3513932983763763208_900399528",
+        "share_text": "",
+        "original_content_owner": "jonny_question"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1727496176625,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DAckaTVtzc3qoof2PbUmNyRO8XM6IYuY-TpVMY0/?carousel_share_child_media_id=3466805950314657591_146315020",
+        "share_text": "I can\u00e2\u0080\u0099t believe my baby is 30! So amazed to be on this journey of growth and change over three decades. This has been a transformative year for you, and this next stage after your return from teaching English in South Korea is going to be even more so. Hope you\u00e2\u0080\u0099re having a blast with your Uncle Bryn in Tokyo this weekend! I love you with all my heart sweetheart. Happy 30th! \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+        "original_content_owner": "simplegearle"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1727428315811,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DAWHGxXto0q/?id=3464988214961802538_325585052",
+        "share_text": "Monday night at the United Nations General Assembly, Meryl Streep spoke on behalf of women and girls in Afghanistan, sharing \u00e2\u0080\u009cA squirrel has more rights than a girl in Afghanistan today because the public parks have been closed to women and girls by the Taliban.\u00e2\u0080\u009d Since the Taliban took control in August 2021, in just three years, women and girls have seen their rights and freedoms systematically stripped away. The actress implored international communities to take a stand for these women\u00e2\u0080\u0099s basic freedoms. \n\nIn Afghanistan, women are not allowed to look at men who they aren\u00e2\u0080\u0099t related to by blood or marriage, their faces, and bodies must be completely covered before they leave their homes, and they\u00e2\u0080\u0099re prohibited from going to schools, gyms, parks, or sports clubs. They are barred from most forms of paid employment.\n\nWomen\u00e2\u0080\u0099s full participation and equality in society is a fundamental human right that is essential for a peaceful, prosperous, and sustainable world.",
+        "original_content_owner": "femalequotient"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1726479386831,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C_9n2pfplJw/?id=3458095368110494320_20715440",
+        "share_text": "slay",
+        "original_content_owner": "feministabulous"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1726346842577,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u00ae\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1726316426180,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/kellydyment_614912063241486/photos/457378581_860096309520531_7759302599394655288_n_860096306187198.jpg",
+          "creation_timestamp": 1726316424
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Kelly Dyment",
+          "timestamp": 1726346842
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1726316418897,
+      "content": "nope!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1726312912375,
+      "content": "Interesting that it served something up to you that\u00e2\u0080\u0099s relatively small. I would probably get it eventually because you liked it so does someone that you follow follow it?\u00ef\u00bf\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1726312656203,
+      "content": "\u00e2\u0080\u009cthe algorithm\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1726312352482,
+      "content": "How did you come across it?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1726312344944,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0091\u008d\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1726282976426,
+      "content": "no followers yet but seems like a decent account and idea",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kelly Dyment",
+          "timestamp": 1726312344
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1726277680792,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u00ae\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1726232635357,
+      "content": "https://www.instagram.com/normalpersonpod?igsh=MXRsczZtNmk1cTdjMA==",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Kelly Dyment",
+          "timestamp": 1726277680
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1726232634926,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/normalpersonpod",
+        "profile_share_username": "normalpersonpod",
+        "profile_share_name": "Normal Person Podcast"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1726132984496,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment",
+          "timestamp": 1726136069
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/C_xefK6t5lH/?carousel_share_child_media_id=3454676457416360482_5420296887",
+        "share_text": "",
+        "original_content_owner": "art_dailydose"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1726132736921,
+      "content": "\u00f0\u009f\u0098\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1726019312150,
+      "content": "the brutality here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1726019311267,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C_soGL4oA6G/?carousel_share_child_media_id=3453311361224806022_59195408566",
+        "share_text": "documenting Shibuya\u00e2\u0080\u0099s sleeping meltdown with @shibuyameltdown\n\nFor over 10 years, the instagram page @shibuyameltdown has been posting a rarely documented side of Japan.\n\nThe scenes of tired & drunk salaryman passing out in the streets of Shibuya present a stark contrast.\u00e2\u0080\u00a8\u00e2\u0080\u00a8On one side, they highlight the safety of Tokyo\u00e2\u0080\u0099s streets, where you\u00e2\u0080\u0099d probably wake up with most of your belongings neatly beside you, even a water bottle or two from a kind stranger.\u00e2\u0080\u00a8\u00e2\u0080\u00a8On the other hand it highlights Japan\u00e2\u0080\u0099s toxic corporate work culture, showing how weekly nomikai sessions leave exhausted salarymen passed out on the streets of Shibuya instead of their beds at home.",
+        "original_content_owner": "yokogao.mag"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1725844079415,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u0082\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1725843329203,
+      "content": "if you're not first, you're last",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Kelly Dyment",
+          "timestamp": 1725844079
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1725842680428,
+      "content": "The way he drove his head into the wall \u00f0\u009f\u00a4\u00af",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1725842658056,
+      "content": "\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0081\u00ab\u00e3\u0080\u008c\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00ef\u00bc\u0081\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1725839712581,
+      "content": "we went swimming yesterday \u00e2\u0080\u00a6 mentioned this to minako (probably saw it more-or-less the same time you did)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kelly Dyment",
+          "timestamp": 1725842658
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1725796160855,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C_l7y2iPejT/?id=3451427668723886291_1965813366",
+        "share_text": "Is Guo Jincheng the greatest freestyle kicker in history?",
+        "original_content_owner": "kylesockwell"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1725618566439,
+      "content": "\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0081\u00ab\u00e3\u0080\u008c\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00ef\u00bc\u0081\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1725599249719,
+      "content": "John Goodman",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kelly Dyment",
+          "timestamp": 1725618566
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1725599249353,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C_jO9SzSXaE/?id=3450667524222973572_46513553813",
+        "share_text": "John Goodman",
+        "original_content_owner": "spawnranch"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1725157231056,
+      "content": "https://www.instagram.com/irongatewineguy?igsh=bXN4Z2M0cmp2cXg0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1725157230722,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/irongatewineguy",
+        "profile_share_username": "irongatewineguy",
+        "profile_share_name": "Warren Porter"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1725156963545,
+      "content": "https://www.instagram.com/remniza?igsh=a3l3NWFzODhrdWdz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1725156963376,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/remniza",
+        "profile_share_username": "remniza",
+        "profile_share_name": "Rem Porter Niza"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1722874746626,
+      "content": "Kelly sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1721012267553,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0091\u008d\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1721010355823,
+      "content": "with some volleyball",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kelly Dyment",
+          "timestamp": 1721012267
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1721006829710,
+      "content": "Ping-pong with a soccer ball",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1721006829369,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C6YOBgIsIh0/?id=3357495198080862324_61171737037",
+        "share_text": "#masatenisi #futbol #masafutbolu #spor #sosyalfelsefe",
+        "original_content_owner": "sosyal_felsefe"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1720618730480,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bryn Dyment",
+          "timestamp": 1720658306
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C9IYkNDPx3b/?id=3407081159136320987_1600803427",
+        "share_text": "*Screams in Canadian \u00f0\u009f\u0098\u00a9\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6\n\nvia amydrew821 (tik tok)\n\n-\n#canada #canadian #explore",
+        "original_content_owner": "oh.canaduh"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1720205631607,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C88CR25MZTa/?id=3403605441650988250_44300908727",
+        "share_text": "The Macintosh was the first successful mouse-driven computer with a graphical user interface and was based on the Motorola 68000 microprocessor. Its price was $2,500. It weighed 16.5 lbs.\n.\n.\n.\n.\n.\n#apple #mac #macintosh #computer #computers #80s #1980s #80saesthetic #80svintage #80svibes #80skid #80skids #80scommercials #80sfashion #80sstyle #desktop #huge",
+        "original_content_owner": "irememberthatshit"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1719281582749,
+      "content": "This is the question \u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1719281549783,
+      "content": "but does it taste good \u00f0\u009f\u00a4\u0094",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1719281361150,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C71fd-Aibfw/?id=3383749093926483952_5420296887",
+        "share_text": "Konel Bread, run by a talented Tokyo-based baker, has gained significant attention on Instagram for their unique and artistic approach to bread making. From the outside, their loaves appear ordinary, but once sliced open, they reveal intricate and colorful designs. These edible illustrations range from adorable characters and animals to nature-inspired patterns, often taking inspiration from the baker\u00e2\u0080\u0099s children's drawings.\n\nThe process involves using natural colors derived from ingredients like cocoa, beetroot, and spinach. The technique is akin to making deco-sushi, where colored dough pieces are carefully arranged within the loaf before baking, resulting in beautiful, surprise artworks inside each slice.\n\nArtist: @konel_bread \n\n#art #bread #baking",
+        "original_content_owner": "art_dailydose"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1718623822050,
+      "content": "So funny as I sent the salt artist one to riku and he said that you also shared it with him.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1718621458962,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment",
+          "timestamp": 1718621557
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C8MNWDLCNQ4/?id=3390143309342626872_5420296887",
+        "share_text": "Which one is better? Vote below \u00e2\u00ac\u0087\u00ef\u00b8\u008f Kuronushi, a talented Japanese artist, has captivated audiences with his innovative shadow art using cardboard and glue. His creations are intricately designed dioramas that transform when light is projected onto them. Each piece starts as an unremarkable structure but reveals a detailed shadow portrait when illuminated from the perfect angle.\n\nOne of Kuronushi's impressive works features Harry Potter. Initially, the shadow art depicts a scene from the Wizarding World, such as a broom-riding Hogwarts student against a half-moon backdrop. However, as Kuronushi rotates the cardboard box, the shadow morphs into a striking portrait of Harry Potter himself.\n\nAnother notable piece showcases Captain Jack Sparrow from \"Pirates of the Caribbean.\" Initially, the shadow appears as a sailing ship, but with a slight turn of the box, it transforms into Johnny Depp's iconic character. This duality in his artwork emphasizes the deep connection between Sparrow and his ship.\n\nKuronushi's shadow art requires meticulous planning and precision. He uses a negative process, carefully removing parts of the cardboard to ensure the shadows align perfectly\u00e2\u0080\u008b.\n\nArtist: @kuronushi_ \n\n#art #talent #artist",
+        "original_content_owner": "art_dailydose"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1718271968240,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C6bZR_Juj9c/?id=3358389134337654620_490757708",
+        "share_text": "\u00e2\u0080\u0098Event of vibration\u00e2\u0080\u0099 by Japanese artist Kenichi Kanazawa \u00f0\u009f\u00ab\u00a0\u00f0\u009f\u00a4\u00af\n\nKenichi performs a Cymatics experiment using sound vibrations to form geometric patterns. \r\rDifferent vibrational frequencies create different geometric patterns. These shapes are repeatable, not random. \r\rEnvironmental conditions and the size of the medium being vibrated influence the characteristics of the resulting shapes, which are ultimately governed by the general resonance between the sound vibrations and the conditions of all matter involved in the experiment.",
+        "original_content_owner": "streetartglobe"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1718271688999,
+      "content": "I go by there all the time and had no idea!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1718271667373,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u00ae\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718247847610,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Kelly Dyment",
+          "timestamp": 1718271667
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/C8IBcSZPFEf/",
+        "share_text": "505 Queen Street East in Toronto was the home of Canadian actor Dan Aykroyd from 1969-74. Aykroyd ran a booze-can on the main floor named the \u00e2\u0080\u009c505 Club\u00e2\u0080\u009d. In 1974 Aykroyd met John Belushi here and came up with the concept and name, Blues Brothers. The afterhours bar was frequented by the likes of Francis Ford Coppola, Mick Jagger, Jack Nicholson and countless others.",
+        "original_content_owner": "oldcanadaseries"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1718154902148,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u0082\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718074953420,
+      "content": "now he's there!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718074952461,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Kelly Dyment",
+          "timestamp": 1718154902
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C74jdMkvlo4/?id=3384611057962998328_1574083",
+        "share_text": "\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0091\u0080\u00f0\u009f\u0091\u0080\u00f0\u009f\u008e\u00b6\u00f0\u009f\u0091\u008e\u00f0\u009f\u008f\u00bf\u00f0\u009f\u008e\u00a4\u00f0\u009f\u008e\u00a4\u00f0\u009f\u008e\u00a4\u00f0\u009f\u008e\u00a4\u00f0\u009f\u008e\u00a4\u00e2\u009c\u0085\u00e2\u009c\u0085\u00e2\u009c\u0085\u00e2\u009c\u0085\u00f0\u009f\u0092\u00a3\u00f0\u009f\u0092\u00a3",
+        "original_content_owner": "snoopdogg"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1716510839573,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1715528781021,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment",
+          "timestamp": 1715552885
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C6gicH-AR2N/?id=3359836788301569421_22804786865",
+        "share_text": "10 Years of GUITAR PROGRESS!\n\nNoah Hochman from Age 2 to Age 12.\n.\n.\n.\n.\n#quarantinedquartet #guitarprogress #explore #reels #discover #timewarp #guitarprogressvideo #howtoplayguitar #toddlerguitar #kidguitar #guitarsdaily #guitarsarebetter #guitar #guitars #guitarsofinstagram #familyband #noahhochman #10years #10yearsofguitar #10yearsguitarprogress #cordobaguitars #daddarrio",
+        "original_content_owner": "quarantined_quartet"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1712281309942,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0091\u008d\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1712200579973,
+      "content": "makes sense \u00e2\u0080\u00a6 A&M",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kelly Dyment",
+          "timestamp": 1712281309
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1712199532873,
+      "content": "No. I think maybe from uncle don.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1712188680446,
+      "content": "you had this \u00e2\u0080\u00a6 was it from chris?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1712188668705,
+      "content": "https://www.discogs.com/release/2037691-Various-No-Wave",
+      "share": {
+        "link": "https://www.discogs.com/release/2037691-Various-No-Wave",
+        "share_text": "View credits, reviews, tracks and shop for the 1978 Vinyl release of \"No Wave\" on Discogs."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1712181222173,
+      "content": "sean\u00e2\u0080\u0099s going!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1712181166823,
+      "content": "did not inow!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1712181166469,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C5Q_xd8shG-/?id=3337447800222912958_37004020433",
+        "share_text": "The Klark Kent disguise! \u00f0\u009f\u008e\u00ad",
+        "original_content_owner": "thepolicebandofficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1709260150315,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C2z9S7dPY2l/?id=3293245334167063973_1305329098",
+        "share_text": "TOKYO CAPYBARA CAFE\u00f0\u009f\u0087\u00af\u00f0\u009f\u0087\u00b5\n\nMany of Japan's animal cafes are very controversial and their track records aren't great. So you can imagine my excitement when I found an animal cafe with just two animals, customers are limited to 10 at a time for specific time slots and the animals are cabybaras...\n\nI can't tell you how much I've wanted to see a Capybara in real life, and these two are called Kohaku and Pisuke - they're two pampered cappys and I fell in love.\n\nThe fee is 1250 yen for 30 minutes in the cafe but you do need to go early in the morning for a slot or to put your name on the list for later in the day.\n\nyou can also buy snacks for the Capybara for 330 yen.\n\nProbably one of my favourite experiences in Tokyo \u00f0\u009f\u0087\u00af\u00f0\u009f\u0087\u00b5\n\nBest things to do in Tokyo, Tokyo animal cafe, Tokyo best cafes, Tokyo travel guide, Tokyo attractions\n#animalcafe #Capybara #capybaracafe #japananimalcafe #tokyo #visittokyo #tokyotrip #tokyoguide #exploretokyo #explorejapan #visitjapan #japan #visitjapanjp #japantravel #japantrip #japanlovers #japantips #japanawaits #jalan_travel #retrip_nippon #japantravelgallery #explorejapan #autumninjapan #japanexplorer #japantraveltips #japantravelguide #japanlife #nippon #japanrevealed #prefecturesofjapan",
+        "original_content_owner": "helenabradbury"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1709117070557,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment",
+          "timestamp": 1709132082
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/C1z5C2mvwvR/?carousel_share_child_media_id=3275212233826387281_1164795717",
+        "share_text": "",
+        "original_content_owner": "historyphotographed"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1707883758888,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C3Ohg7SsGzN/?id=3300722975131593933_649735629",
+        "share_text": "@kylesthenix found these hermit crabs living in plastic \u00e2\u0080\u0094 watch them pick out their new homes \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u00a5\u00b2 To learn more, check out @maketheswitch4nature_",
+        "original_content_owner": "thedodo"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1707879745173,
+      "content": "Good times !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1707879732893,
+      "content": "\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0081\u00ab\u00e3\u0080\u008c\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00ef\u00bc\u0081\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1707879730330,
+      "content": "\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0081\u00ab\u00e3\u0080\u008c\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00ef\u00bc\u0081\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1707876157202,
+      "content": "pic 10 \u00e2\u0080\u00a6 see comments \u00e2\u0080\u00a6 best rum-based cocktail i ever had (and good star viewing as well)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kelly Dyment",
+          "timestamp": 1707879732
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1707876156438,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kelly Dyment",
+          "timestamp": 1707879730
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/C3RGwvgv80q/?carousel_share_child_media_id=3301449739668540714_44135646471",
+        "share_text": "If you could bring back one LA restaurant from the past - which one would it be?\n\nPic 1: a great pic of the Wilshire Brown Derby from 1954. Built in 1936 as a bigger & better replacement for the first Brown Derby, it survived for almost 50 years before closing unceremoniously in 1980. \u00f0\u009f\u0093\u00b8: Huntington Archives.\n\nPic 2: The Source on the Sunset Strip. A mecca for the health-conscious before there were many options - The Source was owned & operated by the Source Family. If you\u00e2\u0080\u0099ve never heard or them - definitely worth looking up! \u00f0\u009f\u0093\u00b8: Source Family Facebook page.\n\nPic 3: Alice\u00e2\u0080\u0099s in Malibu - 1984. Open from 1972-1995, it was a mainstay of Malibu residents & tourists alike. \u00f0\u009f\u0093\u00b8: Dean Musgrove.\n\nPic 4: the Hollywood outpost of Pup \u00e2\u0080\u0098n\u00e2\u0080\u0099 Taco on Western - 1974. Started by Russell Wendell (the man also behind the Big Donut chain) in 1956, the business grew to about 100 locations before the brand was purchased by Taco Bell. \u00f0\u009f\u0093\u00b8: Roy Hankey.\n\nPic 5: now I know what you\u00e2\u0080\u0099re going to say - @spagobh is still with us in Beverly Hills. But there will never be anything like the original Spago. Here\u00e2\u0080\u0099s a shot of the one & only @wolfgangpuck at Spago back in the 80s. \u00f0\u009f\u0093\u00b8: Larry Davis.\n\nPic 6: Chasen\u00e2\u0080\u0099s - 1980. Originally opened in 1936, every star dined at Chasen\u00e2\u0080\u0099s. Famously, their chili was good enough for Elizabeth Taylor to have it flown to Italy during the filming of Cleopatra. The restaurant closed in 1995 & today is @bristolfarms! \u00f0\u009f\u0093\u00b8: Claremont Archives.\n\nPic 7: a two for one here! Ah Fong\u00e2\u0080\u0099s & Greenblatt\u00e2\u0080\u0099s (in its original location on the corner) - 1976. After almost 100 years in business, Greenblatt\u00e2\u0080\u0099s closed just a couple of years ago. \u00f0\u009f\u0093\u00b8: Ed Ruscha.\n\nPic 8: Tiny Naylor\u00e2\u0080\u0099s on the corner of Sunset & La Brea - ca. 1950. Owned by the same man behind Biff\u00e2\u0080\u0099s, the two chains counted more than 40 locations at one point. \u00f0\u009f\u0093\u00b8: Bison Archives.\n\nPic 9: the original Hamburger Hamlet on the corner of Sunset & Hilldale - 1960. From this one spot, the chain would grow to 24 locations. \u00f0\u009f\u0093\u00b8: David Sutton.\n\nPic 10: Trader Vic\u00e2\u0080\u0099s at the @beverlyhilton (showing its original name & signage) - ca. 1955. This celebrated bit of tiki heaven lasted 62 years until closing in 2017. \u00f0\u009f\u0093\u00b8: Huntington Archives.",
+        "original_content_owner": "laexplained"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1707130307234,
+      "content": "https://people.com/aj-croce-reflects-late-father-jim-croce-legacy-50-years-later-exclusive-8550319",
+      "share": {
+        "link": "https://people.com/aj-croce-reflects-late-father-jim-croce-legacy-50-years-later-exclusive-8550319",
+        "share_text": "https://people.com/aj-croce-reflects-late-father-jim-croce-legacy-50-years-later-exclusive-8550319"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1706844026215,
+      "content": "\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0081\u00ab\u00e3\u0080\u008c\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00ef\u00bc\u0081\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1706836058056,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kelly Dyment",
+          "timestamp": 1706844026
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C2cJZV5oUxu/?id=3286543151994588270_4780474513",
+        "share_text": "A highlight of my career and life would be this moment with my dear friend @fatsdominoofficial in my 1985 film \u00e2\u0080\u0098Walking to New Orleans\u00e2\u0080\u0099. Fats was the greatest, the kindest and the best ever. I love him, I miss him.",
+        "original_content_owner": "jools.holland.official"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1705488123662,
+      "content": "Now followed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1705488103640,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1705465493880,
+      "content": "that's a really cool account \u00e2\u0080\u00a6 regular wild stories like that",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kelly Dyment",
+          "timestamp": 1705488103
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1705462844156,
+      "content": "Love it!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1705462836903,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1705449229242,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kelly Dyment",
+          "timestamp": 1705462836
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C2K4nleOa7V/?id=3281684289392586453_1809227132",
+        "share_text": "How a Music Legend Helped Create a Cookie Empire\n\nFollow for more clips from The Cody Tucker Show!\n\n#reelsinstagram #reelsfb #reels #comedyposts #comedypodcast #comedyshorts #comedyshow #comedy #history #weirdhistory #weirdfacts #interestingfacts #trivia #interesting #trivinight #music #musicians #musiclover",
+        "original_content_owner": "thecodytucker"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1705237558109,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C15iuCFur-n/?id=3276802900809662375_25754172",
+        "share_text": "so anyways last year we started the greatest band ever @lost_souls_movement \u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bc",
+        "original_content_owner": "laturtle69"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1703530480183,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1703545709
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/C1PoEXzO5Z3/",
+        "share_text": "@vintageminer",
+        "original_content_owner": "orrenandrobert"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1702128736576,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0094\u00a5",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/C0dyCdEta1I/?id=3250974577013402952_1243616820",
+        "share_text": "don't ask silly questions \u00f0\u009f\u00a7\u0091\u00e2\u0080\u008d\u00f0\u009f\u00a6\u00b0 #comedy",
+        "original_content_owner": "michael.aldag"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1699872282284,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008f",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/CzUe9EeuHez/?id=3230342970825275315_8949244345",
+        "share_text": "Ichiro\u00e2\u0080\u0099s reaction is hilarious \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+        "original_content_owner": "baseballdugout"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1699499909334,
+      "content": "Congrats to them!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0083",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1699499865922,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u00ae\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1699499800532,
+      "content": "my kyoto friend's first-ever popup in tokyo",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Kelly Dyment",
+          "timestamp": 1699499865
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1699498775164,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CzaC2WCvQyx/?carousel_share_child_media_id=3231908213204782257_4203312841",
+        "share_text": "\u00e3\u0080\u0088SANS-SERIF\u00e3\u0080\u0089POPUP SHOP\n\u00e6\u009d\u00be\u00e5\u00b1\u008b\u00e9\u008a\u0080\u00e5\u00ba\u00a7\n\u00e6\u009c\u00ac\u00e6\u0097\u00a5\u00e3\u0082\u0082\u00e3\u0081\u00be\u00e3\u0082\u0082\u00e3\u0081\u00aa\u00e3\u0081\u008f\u00e3\u0082\u00b9\u00e3\u0082\u00bf\u00e3\u0083\u00bc\u00e3\u0083\u0088\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0099\u00ef\u00bc\u0081\n11\u00e6\u009c\u00888\u00e6\u0097\u00a5(\u00e6\u00b0\u00b4)\u00e2\u0086\u009211\u00e6\u009c\u008814\u00e6\u0097\u00a5(\u00e7\u0081\u00ab)\n5\u00e9\u009a\u008e \u00e3\u0083\u0097\u00e3\u0083\u00ad\u00e3\u0083\u00a2\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0082\u00b9\u00e3\u0083\u009a\u00e3\u0083\u00bc\u00e3\u0082\u00b9\n\u00e5\u008d\u0088\u00e5\u0089\u008d11\u00e6\u0099\u0082\u00e3\u0080\u009c\u00e5\u008d\u0088\u00e5\u00be\u008c8\u00e6\u0099\u0082\n\n\u00e8\u008b\u00b1\u00e5\u009b\u00bd\u00e3\u0083\u00ad\u00e3\u0083\u00b3\u00e3\u0083\u0089\u00e3\u0083\u00b3\u00e3\u0083\u0090\u00e3\u0082\u00b9\u00e3\u0081\u00a7\u00e5\u00ae\u009f\u00e9\u009a\u009b\u00e3\u0081\u00ab\u00e4\u00bd\u00bf\u00e3\u0082\u008f\u00e3\u0082\u008c\u00e3\u0081\u00a6\u00e3\u0081\u0084\u00e3\u0081\u009f\u00e3\u0083\u0087\u00e3\u0082\u00b9\u00e3\u0083\u0086\u00e3\u0082\u00a3\u00e3\u0083\u008d\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0082\u00b5\u00e3\u0082\u00a4\u00e3\u0083\u00b3\u00ef\u00bc\u0088\u00e3\u0083\u0090\u00e3\u0082\u00b9\u00e3\u0081\u00ae\u00e5\u0089\u008d\u00e9\u009d\u00a2\u00e3\u0081\u00a7\u00e5\u009b\u009e\u00e8\u00bb\u00a2\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e5\u00a4\u0089\u00e3\u0082\u008f\u00e3\u0082\u008b\u00e8\u00a1\u008c\u00e3\u0081\u008d\u00e5\u0085\u0088\u00e6\u00a1\u0088\u00e5\u0086\u0085\u00e8\u00a1\u00a8\u00e7\u00a4\u00ba\u00e3\u0082\u00b5\u00e3\u0082\u00a4\u00e3\u0083\u00b3\u00ef\u00bc\u0089\u00e3\u0082\u0092\u00e3\u0082\u00a2\u00e3\u0083\u0083\u00e3\u0083\u0097\u00e3\u0082\u00b5\u00e3\u0082\u00a4\u00e3\u0082\u00af\u00e3\u0083\u00ab\u00e3\u0081\u0097\u00e9\u009e\u0084\u00e8\u0081\u00b7\u00e4\u00ba\u00ba\u00e3\u0081\u008c\u00ef\u00bc\u0091\u00e3\u0081\u00a4\u00e3\u0081\u009a\u00e3\u0081\u00a4\u00e4\u00b8\u0081\u00e5\u00af\u00a7\u00e3\u0081\u00ab\u00e7\u00b8\u00ab\u00e3\u0081\u0084\u00e4\u00b8\u008a\u00e3\u0081\u0092\u00e3\u0082\u008b\u00e5\u0085\u00a8\u00e3\u0081\u00a6\u00e4\u00b8\u0080\u00e7\u0082\u00b9\u00e7\u0089\u00a9\u00e3\u0083\u0090\u00e3\u0083\u0083\u00e3\u0082\u00b0\u00e3\u0081\u00a7\u00e3\u0081\u0099\u00e3\u0080\u0082\n\u00e4\u00bb\u008a\u00e5\u009b\u009e\u00e3\u0080\u0088SANS-SERIF\u00e3\u0080\u0089\u00e3\u0081\u00af\u00e3\u0080\u0081\u00e6\u009c\u009f\u00e9\u0096\u0093\u00e9\u0099\u0090\u00e5\u00ae\u009a\u00e3\u0081\u00a7NEW\u00e3\u0082\u00a2\u00e3\u0082\u00a4\u00e3\u0083\u0086\u00e3\u0083\u00a0\u00e3\u0082\u0082\u00e5\u008f\u0096\u00e3\u0082\u008a\u00e6\u008f\u0083\u00e3\u0081\u0088\u00e3\u0081\u00a6\u00e6\u009d\u00be\u00e5\u00b1\u008b\u00e9\u008a\u0080\u00e5\u00ba\u00a7\u00e3\u0081\u00ab\u00e5\u0088\u009d\u00e7\u0099\u00bb\u00e5\u00a0\u00b4\u00e3\u0080\u0082\u00e3\u0081\u009d\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0080\u0081\u00e5\u0088\u009d\u00e3\u0081\u00ae\u00e9\u0083\u00bd\u00e5\u0086\u0085\u00e5\u0087\u00ba\u00e5\u00b1\u0095\u00e3\u0081\u00a7\u00e3\u0081\u0099\u00ef\u00bc\u0081\n\u00e3\u0081\u009c\u00e3\u0081\u00b2\u00e3\u0081\u008a\u00e8\u00b6\u008a\u00e3\u0081\u0097\u00e3\u0081\u008f\u00e3\u0081\u00a0\u00e3\u0081\u0095\u00e3\u0081\u0084\u00e3\u0081\u00be\u00e3\u0081\u009b\u00ef\u00bc\u0081\n\nhttps://www.matsuya.com/ginza\nhttps://www.matsuya.com/ginza/news/2023/1031/sans-serif/\n\n#flot_sss\n#matsuyaginza \n#sansserifkyoto\n#kyoto\n#tyvekbag\n#designersbag\n#typography\n#edwardjohnston\n#londonbus\n#upcycle\n#lifestyle\n#londontransport\n#\u00e3\u0083\u00ad\u00e3\u0083\u00b3\u00e3\u0083\u0089\u00e3\u0083\u00b3\n#\u00e4\u00ba\u00ac\u00e9\u0083\u00bd\n#\u00e4\u00ba\u00ac\u00e9\u0083\u00bd\u00e4\u00b8\u0089\u00e6\u009d\u00a1\n#\u00e3\u0083\u0095\u00e3\u0082\u00a9\u00e3\u0083\u00b3\u00e3\u0083\u0088\u00e3\u0083\u0087\u00e3\u0082\u00b6\u00e3\u0082\u00a4\u00e3\u0083\u00b3\n#\u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e3\u0083\u009d\u00e3\u0082\u00b0\u00e3\u0083\u00a9\u00e3\u0083\u0095\u00e3\u0082\u00a3\n#\u00e3\u0082\u00a2\u00e3\u0083\u0083\u00e3\u0083\u0097\u00e3\u0082\u00b5\u00e3\u0082\u00a4\u00e3\u0082\u00af\u00e3\u0083\u00ab\n#matsuyaginza\n#\u00e6\u009d\u00be\u00e5\u00b1\u008b\u00e9\u008a\u0080\u00e5\u00ba\u00a7\n#ginza\n#\u00e9\u008a\u0080\u00e5\u00ba\u00a7\n#matsuyastyle\n#\u00e9\u008a\u0080\u00e5\u00ba\u00a7\u00e3\u0081\u00ae\u00e7\u0094\u00b7\u00e5\u00b8\u0082\n#\u00e3\u0083\u0087\u00e3\u0082\u00b6\u00e3\u0082\u00a4\u00e3\u0083\u00b3\u00e3\u0081\u00ae\u00e6\u009d\u00be\u00e5\u00b1\u008b",
+        "original_content_owner": "flot_sss"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1699149979125,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u00af",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/CzGcFtzN-oj/?id=3226389721134918179_49167017363",
+        "share_text": "Friendly mode on \u00f0\u009f\u0098\u0086\n-\n(\u00f0\u009f\u008e\u00a5: Please DM for credit)\n.\n.\n.\n.\n#nationalgeographic #animalplanet #animals #prey #predator #cctv #caughtoncamera",
+        "original_content_owner": "twentisty"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1698064889584,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/CyvcHz1sSUA/?id=3219915940593476864_58021070291",
+        "share_text": "Tap \u00e2\u009d\u00a4\u00ef\u00b8\u008f if you relate. Decision paralysis is real, and it is VERY different to \u00e2\u0080\u0098laziness\u00e2\u0080\u0099.\n\n#adhd #adhdawareness #adhdparents",
+        "original_content_owner": "adhd_chatter_podcast"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1697422511606,
+      "content": "Awesome. Jealous.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1697422492372,
+      "content": "master",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1697422369814,
+      "content": "Kelly sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1692395327114,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1692398540
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/CvOxGrYys1d/?carousel_share_child_media_id=3156675879803639214_51956928041",
+        "share_text": "",
+        "original_content_owner": "animalofied"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1690856196764,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/Cs4AobEtJ-0/?id=3114241920175742900_44245211136",
+        "share_text": "Yoriko, an Asian sheepshead wrasse (kobudai in Japanese), first met scuba diver Hiroyuki Arakawa nearly 30 years ago when he was supervising the construction of an underwater Shinto temple gate 56 feet beneath the surface of the bay \u00f0\u009f\u00a4\u00bf\u00f0\u009f\u0090\u009f\n\nOn one dive he noticed Yoriko\u00e2\u0080\u0099s mouth had been badly injured. Even so, she came to greet him. Realizing she\u00e2\u0080\u0099d be unable to catch her own food, Arakawa spent the next 10 days hand-feeding Yoriko meat from crabs he hammered open for her. \u00e2\u0099\u00a5\u00ef\u00b8\u008f\n\nThe Asian sheepshead wrasse is a hermaphroditic species, meaning that it has both male and female organs which allows it to change its gender.\n\nLike our content? Follow \u00f0\u009f\u0091\u0089\u00f0\u009f\u008f\u00bc @insidehistory\n\n(Via: Hiroyuki Arakawa/Facebook)",
+        "original_content_owner": "insidehistory"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1689728953803,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/Cu3Bcshta9_VM3ZCn5Xsuju01eh6OH5ivUP_bY0/?carousel_share_child_media_id=3149992834371006335_146315020",
+        "share_text": "Last full day on the Sunshine Coast. Spirits at @bruinwooddistillery (yum), @wobblycanoe for lunch, Smuggler Cove hike and Robert\u00e2\u0080\u0099s Creek pier walk as the day was ending. Pretty perfect.",
+        "original_content_owner": "simplegearle"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1689486346146,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/Cuvzs7puIm-lrId-2mxLRn8mhPr3fYf8QW3zDY0/?carousel_share_child_media_id=3147962052635036094_146315020",
+        "share_text": "Quieter day here on the west coast. Checked out of our airbnb after a great week, and now with the whole gang for the next two nights.  Brunch in Gibsons with @greggtilston at @madhen_gibsons then a walk to check out two distilleries, only one of which was open. Yum cocktails at @the101gibsons and then the evening at \u00e2\u0080\u0098home\u00e2\u0080\u0099. Full house for salmon, dauphinoise (courtesy of @dougdyment ), tabouleh, and a yum posset with mint and strawberry garnish for dessert.",
+        "original_content_owner": "simplegearle"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1689203713342,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CunYgL0v-3cIbmqvKfpeimBPiiYwHG4y7eX07g0/?carousel_share_child_media_id=3145590629577256412_146315020",
+        "share_text": "Thanks for the kayaking adventure @lynnedyment & @dougdyment \u00e2\u009d\u00a4\u00ef\u00b8\u008f It was tiring but fun, and wow! the views! Lunch at @tapworksbrewing apres kayak was a great way to end the adventure. @sunshinecoastkayaking",
+        "original_content_owner": "simplegearle"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1689053148203,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/Cui5cV1LdJ3ZUz8BGBHfYjYbrgVCFtv6W6VrfE0/?carousel_share_child_media_id=3144328126095282807_146315020",
+        "share_text": "Vancouver Island day 2 - surprise visit from my brother, @bryndyment Coombs, Parksville and Piper\u00e2\u0080\u0099s Lagoon Park.",
+        "original_content_owner": "simplegearle"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1685063452756,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u00ae\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685058389662,
+      "content": "wasn't aware of them although it looks like i was the only one in that camp",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Kelly Dyment",
+          "timestamp": 1685063452
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1685054491943,
+      "content": "Grandma died \u00f0\u009f\u0098\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1685054481448,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/Csn-FgVv8tO/",
+        "share_text": "\u00e8\u0087\u00b4 \u00e9\u0097\u009c\u00e5\u00bf\u0083\u00e7\u00a7\u0080\u00e5\u00a8\u00a5\u00e9\u0098\u00bf\u00e5\u00ac\u00a4\u00e7\u009a\u0084\u00e6\u00af\u008f\u00e4\u00bd\u008d\u00e6\u009c\u008b\u00e5\u008f\u008b\u00ef\u00bc\u008c\n\n\u00e5\u00a4\u00a7\u00e5\u00ae\u00b6\u00e5\u00bf\u0083\u00e4\u00b8\u00ad\u00e6\u009c\u0080\u00e5\u008f\u00af\u00e6\u0084\u009b\u00e7\u009a\u0084\u00e7\u00a7\u0080\u00e5\u00a8\u00a5\u00e9\u0098\u00bf\u00e5\u00ac\u00a4\u00ef\u00bc\u008c\u00e6\u0096\u00bc5\u00e6\u009c\u008823\u00e6\u0097\u00a5\u00e4\u00b8\u008a\u00e5\u008d\u0088\u00e9\u009b\u00a2\u00e9\u0096\u008b\u00e4\u00ba\u0086\u00e6\u0088\u0091\u00e5\u0080\u0091\u00e3\u0080\u0082\u00e8\u00ba\u00ab\u00e7\u0082\u00ba\u00e6\u009c\u0080\u00e8\u00a6\u00aa\u00e8\u00bf\u0091\u00e7\u009a\u0084\u00e5\u00ae\u00b6\u00e4\u00ba\u00ba\u00ef\u00bc\u008c\u00e7\u00b8\u00b1\u00e7\u0084\u00b6\u00e5\u00bf\u0083\u00e4\u00b8\u00ad\u00e6\u0084\u009f\u00e5\u0088\u00b0\u00e8\u0090\u00ac\u00e8\u0088\u00ac\u00e4\u00b8\u008d\u00e6\u008d\u00a8\u00ef\u00bc\u008c\u00e4\u00bd\u0086\u00e7\u009f\u00a5\u00e9\u0081\u0093\u00e9\u0098\u00bf\u00e5\u00ac\u00a4\u00e5\u00be\u009e\u00e6\u00ad\u00a4\u00e7\u0084\u00a1\u00e7\u0097\u0085\u00e7\u0084\u00a1\u00e7\u0097\u009b\u00ef\u00bc\u008c\u00e6\u0088\u0091\u00e5\u0080\u0091\u00e4\u00b9\u009f\u00e5\u00b0\u0087\u00e4\u00bb\u00a5\u00e5\u009b\u009e\u00e5\u00a0\u00b1\u00e9\u0098\u00bf\u00e5\u00ac\u00a4\u00e4\u00b8\u0080\u00e7\u0094\u009f\u00e5\u00a5\u0089\u00e7\u008d\u00bb\u00e7\u00b5\u00a6\u00e6\u0088\u0091\u00e5\u0080\u0091\u00e7\u009a\u0084\u00e5\u00bf\u0083\u00e5\u008a\u009b\u00ef\u00bc\u008c\u00e9\u0099\u00aa\u00e5\u00a5\u00b9\u00e8\u00b5\u00b0\u00e5\u00ae\u008c\u00e9\u0080\u0099\u00e6\u009c\u0080\u00e5\u00be\u008c\u00e4\u00b8\u0080\u00e6\u00ae\u00b5\u00e8\u00b7\u00af\u00e3\u0080\u0082\n\n\u00e4\u00b9\u009f\u00e8\u00a6\u0081\u00e7\u0089\u00b9\u00e5\u0088\u00a5\u00e6\u0084\u009f\u00e8\u00ac\u009d\u00e9\u0080\u0099\u00e5\u00b9\u00be\u00e5\u00b9\u00b4\u00e4\u00be\u0086\u00ef\u00bc\u008c\u00e9\u0099\u00aa\u00e4\u00bc\u00b4\u00e6\u0088\u0091\u00e5\u0080\u0091\u00e7\u00b6\u0093\u00e6\u00ad\u00b7\u00e9\u0080\u0099\u00e6\u00ae\u00b5\u00e7\u00a5\u009e\u00e5\u00a5\u0087\u00e6\u0097\u0085\u00e7\u00a8\u008b\u00e7\u009a\u0084\u00e6\u00af\u008f\u00e4\u00b8\u0080\u00e5\u0080\u008b\u00e4\u00bd\u00a0\u00e3\u0080\u0082\u00e5\u009b\u00a0\u00e7\u0082\u00ba\u00e6\u009c\u0089\u00e4\u00bd\u00a0\u00e5\u0080\u0091\u00ef\u00bc\u008c\u00e8\u00ae\u0093\u00e6\u0088\u0091\u00e5\u0080\u0091\u00e4\u00b8\u0080\u00e5\u00ae\u00b6\u00e4\u00ba\u00ba\u00e5\u0092\u008c\u00e9\u0098\u00bf\u00e5\u00ac\u00a4\u00e7\u0095\u0099\u00e4\u00b8\u008b\u00e4\u00ba\u0086\u00e8\u00a8\u00b1\u00e5\u00a4\u009a\u00e5\u0088\u00a5\u00e4\u00ba\u00ba\u00e4\u00b8\u008d\u00e6\u009b\u00be\u00e6\u009c\u0089\u00e9\u0081\u008e\u00e7\u009a\u0084\u00e9\u009b\u00a3\u00e5\u00bf\u0098\u00e5\u009b\u009e\u00e6\u0086\u00b6\u00e3\u0080\u0082\u00e7\u009b\u00b8\u00e4\u00bf\u00a1\u00e6\u009b\u00be\u00e7\u00b6\u0093\u00e6\u009c\u0089\u00e6\u00a9\u009f\u00e6\u009c\u0083\u00e8\u00b7\u009f\u00e9\u0098\u00bf\u00e5\u00ac\u00a4\u00e7\u009b\u00b8\u00e8\u0099\u0095\u00e9\u0081\u008e\u00e7\u009a\u0084\u00e4\u00ba\u00ba\u00ef\u00bc\u008c\u00e4\u00b9\u009f\u00e4\u00b8\u0080\u00e5\u00ae\u009a\u00e9\u0083\u00bd\u00e6\u009c\u0083\u00e6\u00b0\u00b8\u00e9\u0081\u00a0\u00e8\u00a8\u0098\u00e5\u00be\u0097\u00e9\u0098\u00bf\u00e5\u00ac\u00a4\u00e9\u0096\u008b\u00e6\u009c\u0097\u00e7\u009a\u0084\u00e7\u00ac\u0091\u00e5\u00ae\u00b9\u00e3\u0080\u0082\n\n\u00e7\u00a7\u0080\u00e5\u00a8\u00a5\u00e9\u0098\u00bf\u00e5\u00ac\u00a4\u00e7\u009b\u00ae\u00e5\u0089\u008d\u00e6\u009a\u00ab\u00e6\u0099\u0082\u00e5\u0081\u009c\u00e9\u009d\u0088\u00e6\u0096\u00bc\u00e5\u008f\u00b0\u00e4\u00b8\u00ad\u00e5\u00a4\u00a7\u00e7\u0094\u00b2\u00e6\u00ae\u00af\u00e5\u0084\u0080\u00e9\u00a4\u00a8\u00e6\u0099\u00af\u00e5\u00be\u00b7\u00e5\u00bb\u00b333\u00e8\u0099\u009f\u00e5\u0081\u009c\u00e6\u00a3\u00ba\u00e5\u008d\u0080\u00ef\u00bc\u008c\u00e6\u0096\u00bc5\u00e6\u009c\u008830\u00e6\u0097\u00a5\u00e7\u00a7\u00bb\u00e9\u009d\u0088\u00e6\u0096\u00b0\u00e9\u00a4\u00a823\u00e8\u0099\u009f\u00e9\u009d\u0088\u00e5\u00a0\u0082\u00ef\u00bc\u008c\u00e5\u0085\u00ac\u00e7\u00a5\u00ad\u00e6\u0097\u00a5\u00e6\u009c\u009f\u00e6\u0093\u0087\u00e5\u00ae\u009a6\u00e6\u009c\u00882\u00e6\u0097\u00a5\u00ef\u00bc\u008c\u00e5\u00b0\u0087\u00e6\u0096\u00bc\u00e4\u00b8\u008a\u00e5\u008d\u0088\u00e5\u008d\u0081\u00e9\u00bb\u009e\u00e5\u008d\u0081\u00e5\u0088\u0086\u00e6\u0096\u00bc\u00e5\u00a4\u00a7\u00e7\u0094\u00b2\u00e6\u00ae\u00af\u00e5\u0084\u0080\u00e9\u00a4\u00a8\u00e9\u0080\u00b2\u00e8\u00a1\u008c\u00e5\u0085\u00ac\u00e7\u00a5\u00ad\u00e3\u0080\u0082\u00e5\u0085\u00ac\u00e7\u00a5\u00ad\u00e6\u0097\u00a5\u00e5\u0089\u008d\u00e6\u0083\u00b3\u00e8\u00a6\u0081\u00e4\u00be\u0086\u00e8\u00b7\u009f\u00e9\u0098\u00bf\u00e5\u00ac\u00a4\u00e8\u00aa\u00aa\u00e8\u00aa\u00aa\u00e8\u00a9\u00b1\u00e3\u0080\u0081\u00e8\u0087\u00b4\u00e6\u0084\u008f\u00ef\u00bc\u008c\u00e5\u008f\u00af\u00e4\u00bb\u00a5\u00e7\u009b\u00b4\u00e6\u008e\u00a5\u00e5\u0089\u008d\u00e5\u00be\u0080\u00e3\u0080\u0082\u00e6\u00ac\u00b2\u00e8\u0087\u00b4\u00e5\u00a5\u00a0\u00e8\u008a\u00b1\u00e7\u00b1\u0083\u00e7\u009b\u00b8\u00e9\u0097\u009c\u00e4\u00ba\u008b\u00e5\u00ae\u009c\u00ef\u00bc\u008c\u00e8\u00ab\u008b\u00e7\u00b5\u00b1\u00e4\u00b8\u0080\u00e8\u0088\u0087\u00e4\u00bb\u00a5\u00e4\u00b8\u008b\u00e8\u008a\u00b1\u00e7\u00a6\u00ae\u00e4\u00ba\u00ba\u00e5\u0093\u00a1\u00e8\u0081\u00af\u00e7\u00b9\u00ab\u00e3\u0080\u0082\u00e6\u00ac\u00b2\u00e5\u008f\u0083\u00e5\u008a\u00a0\u00e5\u0085\u00ac\u00e7\u00a5\u00ad\u00e6\u008d\u00bb\u00e9\u00a6\u0099\u00e3\u0080\u0081\u00e8\u00a9\u00a2\u00e5\u0095\u008f\u00e6\u00b2\u00bb\u00e5\u0096\u00aa\u00e4\u00ba\u008b\u00e5\u00ae\u009c\u00e5\u008f\u00af\u00e8\u0088\u0087\u00e6\u0088\u0091\u00ef\u00bc\u0088\u00e7\u0091\u009e\u00e5\u00a4\u00ab\u00ef\u00bc\u0089\u00e7\u009b\u00b4\u00e6\u008e\u00a5\u00e8\u0081\u00af\u00e7\u00b9\u00ab\u00ef\u00bc\u008c\u00e5\u00b0\u00a4\u00e5\u009b\u00a0\u00e6\u00b2\u00bb\u00e5\u0096\u00aa\u00e4\u00ba\u008b\u00e5\u00ae\u009c\u00e7\u00b9\u0081\u00e9\u009b\u009c\u00ef\u00bc\u008c\u00e9\u0082\u0084\u00e6\u009c\u009b\u00e4\u00bb\u00a5\u00e8\u00a8\u008a\u00e6\u0081\u00af\u00e8\u0081\u00af\u00e7\u00b9\u00ab\u00e7\u0082\u00ba\u00e4\u00b8\u00bb\u00e3\u0080\u0082\n\n\u00e6\u00b2\u00bb\u00e5\u0096\u00aa\u00e6\u009c\u009f\u00e9\u0096\u0093\u00ef\u00bc\u008c\u00e6\u0087\u0087\u00e8\u00ab\u008b\u00e5\u00a4\u00a7\u00e5\u00ae\u00b6\u00e5\u00b0\u008a\u00e9\u0087\u008d\u00e5\u00ae\u00b6\u00e4\u00ba\u00ba\u00e5\u00bf\u0083\u00e6\u0083\u0085\u00ef\u00bc\u008c\u00e5\u0088\u0087\u00e5\u008b\u00bf\u00e6\u0092\u00a5\u00e6\u0089\u0093\u00e9\u009b\u00bb\u00e8\u00a9\u00b1\u00e8\u0087\u00b3\u00e5\u00ae\u00b6\u00e4\u00b8\u00ad\u00ef\u00bc\u008c\u00e5\u0088\u0087\u00e5\u008b\u00bf\u00e6\u0089\u0093\u00e6\u0093\u00be\u00e5\u0085\u00b6\u00e4\u00bb\u0096\u00e5\u00ae\u00b6\u00e4\u00ba\u00ba\u00ef\u00bc\u008c\u00e5\u00a6\u0082\u00e6\u009c\u0089\u00e8\u0081\u00af\u00e7\u00b9\u00ab\u00e6\u0088\u0096\u00e6\u008b\u009b\u00e5\u00be\u0085\u00e4\u00b8\u008d\u00e5\u0091\u00a8\u00ef\u00bc\u008c\u00e9\u0082\u0084\u00e8\u00ab\u008b\u00e8\u00a6\u008b\u00e8\u00ab\u0092\u00e3\u0080\u0082\n\n\u00ef\u00bc\u008a #\u00e8\u008a\u00b1\u00e7\u00b1\u0083 \u00ef\u00bc\u009a\u00e9\u00bb\u0083\u00e5\u0085\u0088\u00e7\u0094\u009f 0911-109-886\u00ef\u00bc\u008f0987-737-031\n\u00ef\u00bc\u008a #\u00e6\u00b2\u00bb\u00e5\u0096\u00aa\u00e4\u00ba\u008b\u00e5\u00ae\u009c \u00ef\u00bc\u009a\u00e7\u0091\u009e\u00e5\u00a4\u00ab 0910-690-347\u00ef\u00bc\u0088\u00e8\u00ab\u008b\u00e4\u00bb\u00a5\u00e8\u00a8\u008a\u00e6\u0081\u00af\u00e7\u0082\u00ba\u00e4\u00b8\u00bb\u00ef\u00bc\u0089\n\n\u00e8\u00ab\u008b\u00e5\u00a4\u00a7\u00e5\u00ae\u00b6\u00e5\u008b\u0099\u00e5\u00bf\u0085\u00e7\u008f\u008d\u00e6\u0083\u009c\u00e7\u008f\u00be\u00e5\u009c\u00a8\u00e8\u00ba\u00ab\u00e9\u0082\u008a\u00e7\u009a\u0084\u00e4\u00b8\u0080\u00e5\u0088\u0087\u00ef\u00bc\u008c\u00e5\u009c\u00a8\u00e4\u00be\u0086\u00e5\u00be\u0097\u00e5\u008f\u008a\u00e6\u0099\u0082\u00ef\u00bc\u008c\u00e5\u00b0\u008d\u00e6\u0089\u0080\u00e6\u0084\u009b\u00e4\u00b9\u008b\u00e4\u00ba\u00ba\u00e8\u00aa\u00aa\u00e8\u0081\u00b2\u00e6\u0088\u0091\u00e6\u0084\u009b\u00e4\u00bd\u00a0\u00e3\u0080\u0082\n\n\u00e7\u0091\u009e\u00e5\u00a4\u00ab  \u00e6\u0095\u00ac\u00e5\u008f\u00a9\n\n-\n\nTo those who cares about Sho-er \n\nOur dearest and loveliest grandma had left us in the morning of May 23. As the closest family, even though my heart feels all kinds of broken, but knowing from now on she has no disease and pain, we will accompany her to walk though the last section of her life journey, to return her life dedication for us.\n\nA special thank to everyone who has accompanied us on this amazing journey over the years. Because of you, my family and grandmother have left many unforgettable memories. I believe that people who have had the opportunity to get along with grandma will always remember her cheerful smile.\n\nSho-er is currently temporarily staying at No.33, Jingda Hall, \u00e5\u00a4\u00a7\u00e7\u0094\u00b2\u00e6\u00ae\u00af\u00e5\u0084\u0080\u00e9\u00a4\u00a8 and will be moved to the mourning hall at No.23 on May 30. The date of the public memorial ceremony will set on June 2 10:10. If you would like to come and talk to grandma, you can go there. If you want to inquire about offering basket, please contact the following members of the funeral society. Please contact me about the laying of incense.\n\nIf you want to participate in the public memorial ceremony, make incense sticks, or inquire about funeral arrangements, please contact me (Reef) directly. Since funeral arrangements are complicated, please contact through messages.\n\nDuring the funeral, I implore everyone to respect the feelings of the family members, do not call home, or do not disturb other family members, if there is any late response or poor hospitality, please forgive me. \u00e2\u0080\u00a8\u00e2\u0080\u00a8Flower basket: Mr. Huang +886 911-109-886\u00ef\u00bc\u008f+886 987-737-031 \u00e2\u0080\u00a8Funeral matters: Reef +886 910-690-347 (Please use messages as the main source)\n\nReef",
+        "original_content_owner": "wantshowasyoung"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1684637793527,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/3107224092713714285"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1681609587229,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1681597564042,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kelly Dyment",
+          "timestamp": 1681609587
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1678752865038,
+      "content": "agreed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1678752621791,
+      "content": "To me he\u00e2\u0080\u0099s that quintessential Chinese man in everything.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1678752424540,
+      "content": "Iconic!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1678752417185,
+      "content": "Yes!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1678752411848,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0091\u008d\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1678747424102,
+      "content": "that's where i know him from (and, to be fair, at least one or two HK films)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kelly Dyment",
+          "timestamp": 1678752411
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1678747423174,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/Cpu_NedM5ZH/?id=3057659200016717383_51973746181",
+        "share_text": "When you make one of the most memorable Seinfeld episodes just by denying table to 3 people! \n\nCredits @enews \n\nFollow @theseinfeldfeeds \n\n#seinfeld #seinfeldmemes #seinfeldedit #seinfeldedits #kramer #seinfeldquotes #seinfeldshow #seinfeldmeme #seinfeldbloopers #seinfeldclips #seinfeldmoments #seinfeldfans #seinfeldvideos #elaine #costanza",
+        "original_content_owner": "theseinfeldfeeds"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1676396651392,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1676374704851,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kelly Dyment",
+          "timestamp": 1676396651
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/Coo_4BfIWyP/?carousel_share_child_media_id=3037958858608834378_45246321805",
+        "share_text": "",
+        "original_content_owner": "lez_cycles_london"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1672494067563,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/Cm1VqIwrJ5R/",
+        "share_text": "Dear Renshin Kendo Family,\n\nKansha.\n\nKansha is a Japanese word that has meaning\u00c2\u00a0of thanks, appreciation, or gratitude. And it is also the word that describes how I feel towards everyone in our dojo.\n\n2022\u00c2\u00a0was very special because it was full of our \" first\" events.\nWe had the first ever kendo practice at our dojo in June,\nWe participated in our first tournament,\nWe had the first year end events,\nWe had the first in-house grading,\n\nAnd we had many more.\nJust like a new born baby, everything we did was our first time.\n\nAnd guess what, we did VERY VERY well.\n\nThanks to our members, Renshin Kendo Dojo could continue to grow.\nI feel blessed for every single practice and every single one of you.\nThank you very much.\n\nI hope everyone practicing kendo at Renshin had a wonderful year in 2022, and I wish you all a happy, fantastic, healthy and love-full year in 2023.\n\nSincerely,\n\nBill Kim\nRenshin Kendo Dojo",
+        "original_content_owner": "renshinkendo"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1668743517598,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1668688959397,
+      "content": "mirei!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kelly Dyment",
+          "timestamp": 1668743517
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1668688959150,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1666692646977,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0091\u008d\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1666653451600,
+      "content": "no idea \u00e2\u0080\u00a6 she's an apprentice geiko/geisha though",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kelly Dyment",
+          "timestamp": 1666692646
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1666638352877,
+      "content": "I love Oren and Robert. Any idea what this would be for?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1666638326933,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1666653455
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/CkGQ4svuMy6/?id=2956124470495464634_4176459509",
+        "share_text": "Walking into the Week!\n\n@embellish_or_perish",
+        "original_content_owner": "orrenandrobert"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1665862399690,
+      "content": "Kelly shared a story.",
+      "share": {
+        "original_content_owner": "rickwmatthews"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1665358305177,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u00af",
+          "actor": "Bryn Dyment",
+          "timestamp": 1665364640
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1664964974828,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u0082\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1664940727209,
+      "content": "too thin",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Kelly Dyment",
+          "timestamp": 1664964974
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1664937760001,
+      "content": "Kelly sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1663277349820,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0094\u00a5",
+          "actor": "Bryn Dyment",
+          "timestamp": 1663279409
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/CiiZFkOrXyH/",
+        "share_text": "Blood Moon Akali \u00f0\u009f\u0091\u00b9\n\nI absolutely loved wearing this cosplay and can't wait to again!\n\nMask, props, and wig made by me.\n\n\u00f0\u009f\u0093\u00b7 @slm_pics \n\n#akali #akalicosplay #bloodmoonakali #leagueoflegends #leagueoflegendscosplay #cosplay #cosplayer #canadiancosplayer #ardashare",
+        "original_content_owner": "natterrs_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1663213049701,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u00ae\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1663126612155,
+      "content": "incredible",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Kelly Dyment",
+          "timestamp": 1663213049
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1663124556963,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/CidhntpO5bF/?id=2926643197465302725_303273692",
+        "share_text": "@remymetailler These views are insane in Squamish!\nSquamish offers a huge variety of trails for mountain bikers of any experience level. Situated in a valley with surrounding mountains there are endless kilometers of mountain biking trails. From gentle cruises in the estuary and friendly cross country trail to hairball downhill descents. No matter your skill level, you will not run out of satisfying single-track in this town. \n\n\u00f0\u009f\u008e\u00a5 @remymetailler \n\u00f0\u009f\u0093\u008dSquamish, BC, Canada \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6 \n\u00f0\u009f\u008e\u00b6Outro-m83",
+        "original_content_owner": "earthpix"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1662601779851,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u0082\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1662599773883,
+      "content": "comments are hilarious (\"normal day for bangalore\", etc.)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Kelly Dyment",
+          "timestamp": 1662601779
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1662597815888,
+      "content": "Kelly sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CiMHX4PJNQX/",
+        "share_text": "The end of a nine-day music and culture festival in Nevada, in the United States, came to an end on Monday. But those leaving from the venue in the Black Rock desert found themselves stuck in an eight-hour-long traffic jam as thousands of vehicles lined up at the same time, a report in New York Post said.\n\nLink in bio.\n\n#burningman #traffic #Trafficjam #USA #Nevada",
+        "original_content_owner": "ndtv"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1661651799660,
+      "content": "Check out her story. Bryn is with her. She\u00e2\u0080\u0099ll likely post more than he will.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1661651703990,
+      "content": "Kelly shared a story.",
+      "share": {
+        "original_content_owner": "thechroniclesofwanderlust"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1659918749495,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1659920984
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/Cg-m9D5JjTe/",
+        "share_text": "Some selfies from #otakuthon! I had such a great weekend with @khronyscosplay and @x_futography and met so many great new people \u00e2\u009d\u00a4\u00ef\u00b8\u008f\n\nFull body pics of these costumes coming soon \u00f0\u009f\u00a5\u00b0\n\nSide note: I didn\u00e2\u0080\u0099t realize I was cosplaying black-haired characters all weekend until making this collage \u00f0\u009f\u00a4\u00a3\n\n#otakuthon #otakuthon2022 #montrealcosplay #canadiancosplay #crossplay #sasukeuchiha #sasukecosplay #akali #akalicosplay #tobiokageyama #kageyamacosplay #haikyuu #haikyuucosplay #narutocosplay #leagueoflegendscosplay #cosplay #cosplayer",
+        "original_content_owner": "natterrs_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1651981274970,
+      "share": {
+        "link": "https://www.instagram.com/p/CdSEdSAtmUGQ-zfFokeOSoCwRIWemegIje8Erk0/?carousel_share_child_media_id=2833346719959639302_146315020",
+        "share_text": "Another incomparable bouquet courtesy of @rainfloristbc for our incomparable mother @lynnedyment for #mothersday2022 \u00e2\u009d\u00a4\u00ef\u00b8\u008f Love you mom \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+        "original_content_owner": "simplegearle"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1649986556093,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1649964590977,
+      "content": "nice and understated",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kelly Dyment",
+          "timestamp": 1649986556
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1649959424761,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1647660563422,
+      "content": "looks $$$$ \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1647626218550,
+      "content": "He\u00e2\u0080\u0099s a cheese monger and all around great guy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1647567503156,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0094\u00a5",
+          "actor": "Bryn Dyment",
+          "timestamp": 1647568657
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/CbKwGAQrqvr/?carousel_share_child_media_id=2795258037566090219_1437478347",
+        "share_text": "I recently had one of the most memorable meals ever \u00f0\u009f\u00a4\u00a9\u00f0\u009f\u00a4\u00a9\u00f0\u009f\u00a4\u00a9.\n\n@baanlaosteveston in Richmond, British Columbia absolutely blew my mind.\n\nThe background on this restaurant is very cool. The chef, has trained with many @michelinguide chefs in Thailand, they make everything from scratch and the attention to detail rivals anything I've ever experienced. Truthfully \u00f0\u009f\u0092\u00a5\u00f0\u009f\u0092\u00a5\u00f0\u009f\u0092\u00a5\n\nThe location, the space the ambiance, the service and of course the food are all perfection \u00f0\u009f\u0099\u008c\u00f0\u009f\u0099\u008c\u00f0\u009f\u0099\u008c.\n\nI loved every minute of this epic 10 course, Thai tasting menu \u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u0096\u00f0\u009f\u0092\u0096.\n\nI actually can't stop thinking about it. The thoughtfulness in every detail beyond impressed me.\n\nIf you love Thai food, please please go. It's worth the trip from anywhere in Canada and the whole experience will make you swoon for more \u00f0\u009f\u00a4\u00a9\u00f0\u009f\u00a4\u00a9\u00f0\u009f\u00a4\u00a9.\n\nSomeone give them a Michelin star already, they deserve it.\n\n#baanlao\n#Thaifinedining\n#Thaitastingmenu",
+        "original_content_owner": "afrimpristine"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1645116807476,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1635992031171,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u0082\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1635990634659,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Kelly Dyment",
+          "timestamp": 1635992031
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1634434164093,
+      "content": "detective!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1634434160276,
+      "content": "Gregg\u00e2\u0080\u0099s drink",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1634433925946,
+      "content": "Flat white?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1634434150
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2685629863519065597"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1633795497916,
+      "content": "Yes I had read this. It\u00e2\u0080\u0099s an insane story!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1633665194099,
+      "share": {
+        "link": "https://www.instagram.com/p/CUrFm0kLKpu/?carousel_share_child_media_id=2678259061416045166_230146237",
+        "share_text": "Relationship status: it\u00e2\u0080\u0099s complicated. Behold the most ridiculous post you will read all year.",
+        "original_content_owner": "misfithistory"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1632593742651,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u00af",
+          "actor": "Bryn Dyment",
+          "timestamp": 1632602236
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1629219988472,
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u00af",
+          "actor": "Bryn Dyment",
+          "timestamp": 1629222059
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/_u/teenagerprotips",
+        "profile_share_username": "teenagerprotips",
+        "profile_share_name": "Teenager Pro Tips"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1628860078795,
+      "content": "How lovely!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1628860074028,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1628783770673,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kelly Dyment",
+          "timestamp": 1628860074
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/tv/CSRl4aqhYXP/?id=2635053861630739919_375808389",
+        "share_text": "The Japanese people are the sweetest ever. Thank you my friend @d_treefairy \u00f0\u009f\u00a4\u0097\nEdit: @julianforte \n\n#tokyostory #thankful #grateful #blessed #thankyou",
+        "original_content_owner": "parchment_hansle"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1628038678935,
+      "content": "Nailing her runs in the Olympics right now. In first place currently by a long shot.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1628038616623,
+      "share": {
+        "link": "https://www.instagram.com/p/CO1iClrHXfM/",
+        "share_text": "Park de la Cruz Skate Park\n\u00f0\u009f\u008e\u00a5\u00e3\u0080\u0080@ho_sway  Thank you\u00f0\u009f\u0099\u008f\u00f0\u009f\u0092\u0096\n\n@vans @vansskate @vansskateapac @vansjapan @welcomeskateboards @spitfirewheels @bonesbearings @187killerpads @advanceskate @mbm_parkbuilders @hotdoggeryesso",
+        "original_content_owner": "cocona.hiraki"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1625929599077,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1625926499579,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/kellydyment_614912063241486/photos/212999448_344210407143786_8735966071291188650_n_822061431773649.jpg",
+          "creation_timestamp": 1625926501
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kelly Dyment",
+          "timestamp": 1625929599
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1625922392570,
+      "content": "Man she is tiny! Your ring looks so big next to hers.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1625901807502,
+      "share": {
+        "link": "https://www.instagram.com/p/CRIYDCwjedS/",
+        "share_text": "\u00e3\u0080\u0090Marriage Ring\u00e3\u0080\u0091\n\nYasuri texture / Matte finish \n\nOne of my favorite time to make a marriage ring is to hear how their love has grown. He showed her that \u00e2\u0080\u009cwill you marry me?\u00e2\u0080\u009d board inside of Enoden during Kamakura trip. Wish I took the same train and just watched them...!!! Thank you so much for sharing happiness, and letting me make a bridge to the next chapter of your love story. \n\n\u00e3\u0083\u009e\u00e3\u0083\u00aa\u00e3\u0083\u0083\u00e3\u0082\u00b8\u00e3\u0083\u00aa\u00e3\u0083\u00b3\u00e3\u0082\u00b0\u00e3\u0082\u0092\u00e3\u0081\u008a\u00e4\u00bd\u009c\u00e3\u0082\u008a\u00e3\u0081\u0099\u00e3\u0082\u008b\u00e9\u009a\u009b\u00e3\u0081\u00ab\u00e3\u0081\u00a8\u00e3\u0081\u00a6\u00e3\u0082\u0082\u00e6\u00a5\u00bd\u00e3\u0081\u0097\u00e3\u0081\u00bf\u00e3\u0081\u00aa\u00e3\u0081\u00ae\u00e3\u0081\u00af\u00e3\u0080\u0081\u00e7\u009b\u00b4\u00e6\u008e\u00a5\u00e4\u00bc\u009a\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e3\u0081\u008a\u00e4\u00ba\u008c\u00e4\u00ba\u00ba\u00e3\u0081\u00ae\u00e7\u00b5\u0090\u00e5\u00a9\u009a\u00e3\u0081\u00be\u00e3\u0081\u00a7\u00e3\u0081\u00ae\u00e3\u0082\u00b9\u00e3\u0083\u0088\u00e3\u0083\u00bc\u00e3\u0083\u00aa\u00e3\u0083\u00bc\u00e3\u0082\u0092\u00e8\u0081\u009e\u00e3\u0081\u008f\u00e3\u0081\u0093\u00e3\u0081\u00a8\u00e3\u0080\u0082\u00e3\u0081\u0093\u00e3\u0081\u00a1\u00e3\u0082\u0089\u00e3\u0081\u00ae\u00e3\u0082\u00ab\u00e3\u0083\u0083\u00e3\u0083\u0097\u00e3\u0083\u00ab\u00e3\u0081\u00af\u00e6\u00b1\u009f\u00e3\u0083\u008e\u00e9\u009b\u00bb\u00e3\u0081\u00a7\u00e3\u0083\u0097\u00e3\u0083\u00ad\u00e3\u0083\u009d\u00e3\u0083\u00bc\u00e3\u0082\u00ba\u00e3\u0082\u0092\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e3\u0081\u009d\u00e3\u0081\u0086\u00e3\u0081\u00a7\u00e3\u0081\u0099\u00e3\u0080\u0082\u00e3\u0081\u009d\u00e3\u0081\u00ae\u00e5\u00a0\u00b4\u00e3\u0081\u00ab\u00e5\u00b1\u0085\u00e5\u0090\u0088\u00e3\u0081\u009b\u00e3\u0081\u009f\u00e3\u0081\u008b\u00e3\u0081\u00a3\u00e3\u0081\u009f...\u00e5\u00b9\u00b8\u00e3\u0081\u009b\u00e3\u0081\u00ae\u00e3\u0081\u008a\u00e8\u00a3\u00be\u00e5\u0088\u0086\u00e3\u0081\u0091\u00e3\u0080\u0081\u00e3\u0081\u008a\u00e6\u0089\u008b\u00e4\u00bc\u009d\u00e3\u0081\u0084\u00e3\u0082\u0092\u00e3\u0081\u0095\u00e3\u0081\u009b\u00e3\u0081\u00a6\u00e3\u0081\u0084\u00e3\u0081\u009f\u00e3\u0081\u00a0\u00e3\u0081\u008d\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u008c\u00e3\u0081\u00a8\u00e3\u0081\u0086\u00e3\u0081\u0094\u00e3\u0081\u0096\u00e3\u0081\u0084\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e2\u0099\u00a1\n\n#sakinamikijewelry #marriagering #\u00e7\u00b5\u0090\u00e5\u00a9\u009a\u00e6\u008c\u0087\u00e8\u00bc\u00aa #\u00e3\u0083\u0096\u00e3\u0083\u00a9\u00e3\u0082\u00a4\u00e3\u0083\u0080\u00e3\u0083\u00ab\u00e3\u0083\u00aa\u00e3\u0083\u00b3\u00e3\u0082\u00b0",
+        "original_content_owner": "sakinamikijewelry"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1624669391213,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0091\u008d\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1624664153553,
+      "content": "mirei\u00e2\u0080\u0099s dance teacher on a podcast",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kelly Dyment",
+          "timestamp": 1624669391
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1624664153378,
+      "share": {
+        "link": "https://www.instagram.com/p/CQgaMCYjigF/?carousel_share_child_media_id=2603195761022609413_9188374276",
+        "share_text": "LINK IN BIO:\nEpisode 48 \u00e2\u0080\u0094 Hiro Umetani, Kyomai Japanese Traditional Dancer\n\nOn this episode we\u00e2\u0080\u0099re gonna examine a notable Japanese traditional dance that is often peformed by the Geisha and Maiko. Meet Hiro, (or her stage name, \u00e2\u0080\u009cZuiou Shinozuka\u00e2\u0080\u009d). She is a traditional Japanese dancer/instructor trained from the oldest Kyomai dance school in Kyoto. She is currently an ambassador to promote her art form as well as collaborating with musicians abroad in hopes to preserve the cultural importance of traditional Japanese dance.  For more information please check out her website:  zuioushinozuka.com\n\n\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bc\u00f0\u009f\u0090\u00bc\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bcFor more info on the Nakameguro Taproom and other Baird Beer taprooms, please visit:  http://Bairdbeer.com/\n\nTo donate and buy drinks for the guests  of my podcast:\n\nko-fi.com/madeinjapanpodcast\n\nIG & FB:  @madeinjapanpodcast\nEmail:  japanmademepodcast@gmail.com \n\n#madeinjapanpodcast #japaneseculture #lifeinjapan  #workinjapan #japanesepeople #tokyo #japan #madeinjapan #podcast #japantravel #traveljapan #studyinjapan #japanesedance #japanesedancer",
+        "original_content_owner": "madeinjapanpodcast"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1624417247576,
+      "content": "First one is her salon. Second one is her.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1624417212293,
+      "share": {
+        "link": "https://www.instagram.com/_u/the.aisha.experience",
+        "profile_share_username": "the.aisha.experience",
+        "profile_share_name": "The Aisha Experience"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1624417172889,
+      "share": {
+        "link": "https://www.instagram.com/_u/crownnglory.ca",
+        "profile_share_username": "crownnglory.ca",
+        "profile_share_name": "Toronto Natural Hair Studio"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1623161243125,
+      "content": "actually i seemed to click on another one! There's is fun to see.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1623161053216,
+      "content": "their IG page is lovely!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1623161025969,
+      "content": "awesome recognition!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623154340829,
+      "share": {
+        "link": "https://www.instagram.com/p/CP2w2FHMG2i/?carousel_share_child_media_id=2591473458171899298_44474205154",
+        "share_text": "#\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3 #\u00e5\u00ae\u00b6\u00e3\u0081\u00a5\u00e3\u0081\u008f\u00e3\u0082\u008a #\u00e3\u0082\u00b0\u00e3\u0083\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u00b3\u00e3\u0081\u00ae\u00e3\u0081\u0082\u00e3\u0082\u008b\u00e6\u009a\u00ae\u00e3\u0082\u0089\u00e3\u0081\u0097 #\u00e7\u0084\u00a1\u00e5\u009e\u00a2\u00e6\u009d\u0090 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3 #\u00e5\u00ae\u00b6\u00e3\u0081\u00a5\u00e3\u0081\u008f\u00e3\u0082\u008a #\u00e3\u0082\u00b0\u00e3\u0083\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u00b3\u00e3\u0081\u00ae\u00e3\u0081\u0082\u00e3\u0082\u008b\u00e6\u009a\u00ae\u00e3\u0082\u0089\u00e3\u0081\u0097 #\u00e7\u0084\u00a1\u00e5\u009e\u00a2\u00e6\u009d\u0090 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099 #\u00e8\u00b1\u008a\u00e3\u0081\u008b\u00e3\u0081\u00aa\u00e6\u009a\u00ae\u00e3\u0082\u0089\u00e3\u0081\u0097 #\u00e5\u00bb\u0083\u00e6\u009d\u0090 #\u00e3\u0083\u00aa\u00e3\u0083\u008e\u00e3\u0083\u0099\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e4\u00bd\u008f\u00e5\u00ae\u0085  #\u00e5\u00b7\u00a5\u00e5\u008b\u0099\u00e5\u00ba\u0097\u00e3\u0081\u008c\u00e3\u0081\u00a4\u00e3\u0081\u008f\u00e3\u0082\u008b\u00e5\u00ae\u00b6 #\u00e3\u0082\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u0080\u00e3\u0083\u00bc\u00e3\u0083\u00a1\u00e3\u0082\u00a4\u00e3\u0083\u0089\u00e5\u00ae\u00b6\u00e5\u0085\u00b7 #\u00e6\u009d\u00b1\u00e4\u00b8\u008a\u00e9\u0087\u008e #routebooks #\u00e5\u008f\u00a4\u00e6\u009d\u0090\u00e5\u00ae\u00b6\u00e5\u0085\u00b7 #\u00e5\u00bb\u0083\u00e6\u009d\u0090\u00e5\u00ae\u00b6\u00e5\u0085\u00b7 #yukuido #\u00e3\u0082\u0086\u00e3\u0081\u008f\u00e3\u0081\u0084\u00e5\u00a0\u0082#\u00e3\u0083\u00af\u00e3\u0083\u00bc\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u0083\u00e3\u0083\u0097#\u00e3\u0083\u008f\u00e3\u0082\u00a4\u00e3\u0082\u00b3\u00e3\u0083\u00bc\u00e3\u0082\u00ad#diy#\u00e3\u0082\u00b9\u00e3\u0083\u0084\u00e3\u0083\u00bc\u00e3\u0083\u00ab",
+        "original_content_owner": "yukuido_workshop"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1623084296046,
+      "content": "It\u00e2\u0080\u0099s the same one you shared on iMessage.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bryn Dyment",
+          "timestamp": 1623110245
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1623084280340,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0091\u008d\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623033568726,
+      "content": "i'll share on imessage \u00e2\u0080\u00a6 not sure if the right one is appearing here",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kelly Dyment",
+          "timestamp": 1623084280
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1623032602008,
+      "content": "A hammered look",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1623032584924,
+      "content": "Love it! And Minako\u00e2\u0080\u0099s? The same?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008c",
+          "actor": "Bryn Dyment",
+          "timestamp": 1623033512
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623029139830,
+      "content": "\u00e2\u0086\u0091 similar to the bottom one",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623029119767,
+      "share": {
+        "link": "https://www.instagram.com/p/B2ypX0WgCbL/?carousel_share_child_media_id=2139954729621399243_2087946007",
+        "share_text": "Men's Ring Archive\u00e3\u0083\u00bb\n\u00e3\u0083\u00bb\n\u00e3\u0083\u00a1\u00e3\u0083\u00b3\u00e3\u0082\u00ba\u00e3\u0083\u00aa\u00e3\u0083\u00b3\u00e3\u0082\u00b0\u00e2\u009c\u00a8\u00e3\u0083\u00ac\u00e3\u0083\u0087\u00e3\u0082\u00a3\u00e3\u0082\u00b9\u00e3\u0081\u00a8\u00e3\u0081\u008a\u00e3\u0081\u009d\u00e3\u0082\u008d\u00e3\u0081\u0084\u00e3\u0081\u00ab\u00e3\u0081\u00a7\u00e3\u0081\u008d\u00e3\u0082\u008b\u00e3\u0082\u0088\u00e3\u0081\u0086\u00e3\u0081\u00ab\u00e4\u00bd\u009c\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e3\u0081\u0084\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082\u00e3\u0082\u00b4\u00e3\u0083\u00aa\u00e3\u0082\u00b4\u00e3\u0083\u00aa\u00e3\u0081\u0099\u00e3\u0081\u008e\u00e3\u0081\u00aa\u00e3\u0081\u0084\u00e3\u0081\u008b\u00e3\u0082\u0089\u00e5\u00a5\u00b3\u00e3\u0081\u00ae\u00e5\u00ad\u0090\u00e3\u0081\u008c\u00e3\u0082\u00ac\u00e3\u0083\u0084\u00e3\u0081\u00a3\u00e3\u0081\u00a8\u00e7\u009d\u0080\u00e3\u0081\u0091\u00e3\u0081\u00a6\u00e3\u0082\u0082\u00e2\u0097\u008e\u00e3\u0083\u00bb\n\u00e3\u0083\u00bb\n\u00e3\u0083\u00bb\n#sakinamikijewelry #mensring #pairring #bridalrings #\u00e3\u0083\u009a\u00e3\u0082\u00a2\u00e3\u0083\u00aa\u00e3\u0083\u00b3\u00e3\u0082\u00b0 #\u00e3\u0083\u00a1\u00e3\u0083\u00b3\u00e3\u0082\u00ba\u00e3\u0083\u00aa\u00e3\u0083\u00b3\u00e3\u0082\u00b0",
+        "original_content_owner": "sakinamikijewelry"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623028399892,
+      "content": "our jeweller",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1623028399307,
+      "share": {
+        "link": "https://www.instagram.com/p/CJKBp4YjRWn/?carousel_share_child_media_id=2470794621652637095_2087946007",
+        "share_text": "This summarizes my 2020. \nWishing you all a Merry Christmas and HAPPY HOLIDAY\u00e2\u009d\u00a4\u00ef\u00b8\u008f!!!\n\n\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u008b\u00e3\u0082\u0099\u00e3\u0081\u00a8\u00e3\u0081\u00862020\u00e5\u00b9\u00b4\u00e3\u0080\u0082\n\u00e6\u009d\u009f\u00e3\u0081\u00ae\u00e9\u0096\u0093\u00e3\u0083\u0098\u00e3\u0082\u0099\u00e3\u0083\u0092\u00e3\u0082\u0099\u00e3\u0083\u00bc\u00e3\u0081\u00a8\u00e3\u0081\u00ae\u00e3\u0082\u0093\u00e3\u0081\u00b2\u00e3\u0082\u0099\u00e3\u0082\u008a\u00e9\u0081\u008e\u00e3\u0081\u0093\u00e3\u0082\u0099\u00e3\u0081\u0099\u00e3\u0081\u0093\u00e3\u0081\u00a8\u00e3\u0081\u00ab\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0099\u00f0\u009f\u008d\u00b5\n\u00e6\u00b8\u00a9\u00e3\u0081\u008b\u00e3\u0081\u008f\u00e3\u0082\u0088\u00e3\u0081\u0084\u00e3\u0081\u008a\u00e5\u00b9\u00b4\u00e3\u0082\u0092\u00e3\u0081\u008a\u00e8\u00bf\u008e\u00e3\u0081\u0088\u00e4\u00b8\u008b\u00e3\u0081\u0095\u00e3\u0081\u0084\u00f0\u009f\u008c\u009f\n\nxx Saki\n\nhenna: @_piahenna_ \nbikini: @mayuswim \n\n#35weekspregnant #boymom #\u00e7\u0094\u00b7\u00e3\u0081\u00ae\u00e5\u00ad\u0090\u00e3\u0083\u009e\u00e3\u0083\u009e #\u00e3\u0083\u009e\u00e3\u0082\u00bf\u00e3\u0083\u008b\u00e3\u0083\u0086\u00e3\u0082\u00a3\u00e3\u0083\u0095\u00e3\u0082\u00a9\u00e3\u0083\u0088",
+        "original_content_owner": "sakinamikijewelry"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1595765789387,
+      "share": {
+        "link": "https://www.instagram.com/p/CDFlFUgJUIo/",
+        "share_text": "Pruning the Pine\n\nThank you @mai_meg2 for inviting Cam to Japan! \n\n#sidewalkchalk #sidewalkart #sidewalkchalkart #crayola @crayola #crayolachalk #crayolachalk #sayitcolorfully #chalkyourwalk #covidchalkchallenge #somegoodnews @somegoodnews #japan #mountfuji #mountfujijapan",
+        "original_content_owner": "macairesmuse"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1593778768448,
+      "share": {
+        "link": "https://www.instagram.com/p/CBUNsLkJ-H8/",
+        "share_text": "West Coast Road Trip - San Francisco Trolley Ride\n#sidewalkchalkart #sidewalkchalk #sidewalkart #crayola #crayolachalk @crayola #sayitcolorfully #chalkyourwalk #covidchalkchallenge #sanfrancisco #sanfranciscotrolley #goldengatebridge #somegoodnews @somegoodnews @artinstituteteens",
+        "original_content_owner": "macairesmuse"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1583700700405,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2260358916829385509"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1582776357014,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1582603643868,
+      "content": "sampler/flight \u00f0\u009f\u0098\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1582602030819,
+      "content": "Do tell for those not up on our Kanji!",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2250765991200134315"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1576948968504,
+      "content": "Bryn\u00e2\u0080\u0099s gf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1576948939044,
+      "share": {
+        "link": "https://www.instagram.com/p/B6Q_Pd8AhwL/",
+        "share_text": "A post?? A COSPLAY post?? \u00f0\u009f\u0095\u00b7\nI was lucky enough to do a quick shoot with @nigelmurraycosphoto at @eglxofficial this past fall! It was the first time I felt like a \u00e2\u0080\u0098real\u00e2\u0080\u0099 cosplayer and overall was an awesome experience. Super Galaxy Elise was a surprisingly comfortable costume to wear and I\u00e2\u0080\u0099m excited to improve on it!\nWig: Katinka + XL Clip in Magenta from @ardawigscanada \u00f0\u009f\u0091\u00be\nEVA Foam and Foam Clay from @luminsworkshop \u00f0\u009f\u0093\u00b8 photo and edit by @nigelmurraycosphoto .\n.\n.\n[#cosplay #leagueoflegendscosplay #leagueoflegends #leaguecosplay #elise #elisecosplay #supergalaxyelise #canadiancosplayer]",
+        "original_content_owner": "natterrs_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1565015643806,
+      "content": "Me too.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1565010210854,
+      "content": "i like her",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1565010204682,
+      "content": "solid",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1565008915230,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1564839636834,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1564329094360,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2098004606171996296"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1560016864202,
+      "share": {
+        "link": "https://www.instagram.com/p/Byb1SycAag0/",
+        "share_text": "Jon Snow death level unlocked. #WeTheNorth",
+        "original_content_owner": "taggar7"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1558656091179,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2049954424457232440"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1558186243679,
+      "content": "Bacon wrapped what???",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2046322345695282660"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1557978070285,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2044085567670583692"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1557664331584,
+      "content": "Yes totally get that aspect. Though most soy sauce is not GF.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1557631355324,
+      "content": "although you\u00e2\u0080\u0099re in rice country here so it\u00e2\u0080\u0099s pretty easy to avoid gluten",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1557631327830,
+      "content": "it wouldn\u00e2\u0080\u0099t be part of a typical/traditional menu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1557631307268,
+      "content": "i think that kind of thing you\u00e2\u0080\u0099ll only see in a specialized restaurant in japan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1557627209678,
+      "content": "Was just curious if you\u00e2\u0080\u0099d ever seen it on a menu or not.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1557621939540,
+      "content": "hmm, probably at some level \u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1557621035417,
+      "content": "Is gluten free a thing in Kapan?",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2041786813076637551"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1557621010132,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2041786813076637551"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1556296535821,
+      "content": "\u00e2\u0099\u00a5\u00ef\u00b8\u008f - sent it to your two kids too \u00e2\u0080\u0098- they like it too!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1556198996472,
+      "content": "thx!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1556190281306,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1503278133948,
+      "content": "But not damn too!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1503278123514,
+      "content": "Damn right.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1503277191434,
+      "content": "yup, but i'll be in BC",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1503272521647,
+      "content": "Near you?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1503272521647,
+      "share": {
+        "link": "https://www.instagram.com/p/BX2VSgFFxCe/",
+        "share_text": "Excited to announce that we're joining our friends @simpleplan for the #NPNHJBtour in Japan this Fall! Tix at ussmusic.com",
+        "original_content_owner": "ussmusic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kelly Dyment",
+  "is_still_participant": true,
+  "thread_path": "inbox/kellydyment_614912063241486",
+  "magic_words": [
+    
+  ]
+}

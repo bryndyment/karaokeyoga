@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Latest time you visited the Memories page",
+      "timestamp_value": 1739856377
+    },
+    {
+      "label": "Latest time you opened the preferences page for Memories",
+      "timestamp_value": 0
+    },
+    {
+      "label": "When you last clicked on the 'See fewer Memories' button",
+      "timestamp_value": 0
+    }
+  ],
+  "fbid": "10154971101660027"
+}

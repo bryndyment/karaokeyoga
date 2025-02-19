@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Lynne Rodgers Dyment"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1676080088160,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/Cof_54fu1xr/",
+        "share_text": "What an amazing guy and dear friend. Spent a lot of time with Dan, on the road and off... took a lot of photos too. Here's one in 1974. Some people might recognize this as the \"Souvenirs\" album cover shoot. We took these photos at Gary Burden's house in Topanga Canyon. The cover was a close up of Dan holding the feather. \nI miss him and look forward to seeing him on the other side.",
+        "original_content_owner": "henrydiltz"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lynne Rodgers Dyment",
+  "is_still_participant": true,
+  "thread_path": "cross-app-inbox/lynnerodgersdyment_10166939835885018",
+  "magic_words": [
+    
+  ]
+}

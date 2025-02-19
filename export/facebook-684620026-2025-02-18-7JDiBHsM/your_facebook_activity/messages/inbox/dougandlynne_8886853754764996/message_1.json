@@ -1,0 +1,166 @@
+{
+  "participants": [
+    {
+      "name": "Doug Dyment"
+    },
+    {
+      "name": "Bryn Dyment"
+    },
+    {
+      "name": "Lynne Rodgers Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733776918923,
+      "content": "saw an orca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733776897918,
+      "content": "here!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lynne Rodgers Dyment",
+      "timestamp_ms": 1733768903985,
+      "content": "Right!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733768355711,
+      "content": "sausages and bacon for Riku",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lynne Rodgers Dyment",
+      "timestamp_ms": 1733768207169,
+      "content": "Visa 4388 5761 1158 3186     11/25.  117  Zip 98230",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733768127388,
+      "content": "credit card #, exp. date, security code, ZIP code",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733768102171,
+      "content": "ping",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733768096061,
+      "content": "The call ended.",
+      "call_duration": 132,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lynne Rodgers Dyment",
+      "timestamp_ms": 1733767964348,
+      "content": "Lynne joined the audio call.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733767954493,
+      "content": "You joined the call.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733767953605,
+      "content": "You started a call.",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733767782865,
+      "content": "ordering something from Deke Dickerson and my Japanese card isn\u00e2\u0080\u0099t working for him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733767455307,
+      "content": "Dad, can I get your US credit card info?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733767455234,
+      "content": "I\u00e2\u0080\u0099m at Troll\u00e2\u0080\u0099s \u00e2\u0080\u00a6 quite nice in here, actually",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733767455172,
+      "content": "sausages and bacon for Riku",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lynne Rodgers Dyment",
+      "timestamp_ms": 1733766604639,
+      "content": "That was fast! See you then!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733766571245,
+      "content": "i\u00e2\u0080\u0099ll be on the 11:55",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733766552100,
+      "content": "awaiting the 257",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1733766551791,
+      "content": "You created the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Doug and Lynne",
+  "is_still_participant": true,
+  "thread_path": "inbox/dougandlynne_8886853754764996",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

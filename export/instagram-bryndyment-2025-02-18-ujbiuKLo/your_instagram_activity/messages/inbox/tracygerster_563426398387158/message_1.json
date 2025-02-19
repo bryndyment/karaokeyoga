@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Tracy Gerster"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tracy Gerster",
+      "timestamp_ms": 1650649884610,
+      "content": "The band?  Jealous",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008c",
+          "actor": "Bryn Dyment",
+          "timestamp": 1650651305
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1650648622102,
+      "content": "seeing magnetic fields tonight \u00e2\u0080\u00a6 thanks rebecca!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tracy Gerster",
+      "timestamp_ms": 1534858479739,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1534731505147,
+      "content": "burly",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tracy Gerster",
+  "is_still_participant": true,
+  "thread_path": "inbox/tracygerster_563426398387158",
+  "magic_words": [
+    
+  ]
+}

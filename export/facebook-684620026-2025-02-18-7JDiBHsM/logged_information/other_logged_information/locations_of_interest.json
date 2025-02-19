@@ -1,0 +1,41 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Locations of interest",
+      "vec": [
+        {
+          "value": "Hachinohe, Aomori, Aomori Prefecture"
+        },
+        {
+          "value": "Setagaya, Tokyo"
+        },
+        {
+          "value": "Kyoto, Kyoto Prefecture"
+        },
+        {
+          "value": "Shibuya, Tokyo"
+        },
+        {
+          "value": "Kyoto Prefecture"
+        },
+        {
+          "value": "Osaka Prefecture"
+        },
+        {
+          "value": "Hiroshima Prefecture"
+        },
+        {
+          "value": "Tokyo"
+        }
+      ]
+    },
+    {
+      "label": "Usage explanation",
+      "value": "Locations of interest are used to personalize your experience on Facebook and show you more relevant ads. Learn more about how Facebook uses location in Privacy Center."
+    }
+  ],
+  "fbid": "684620026"
+}

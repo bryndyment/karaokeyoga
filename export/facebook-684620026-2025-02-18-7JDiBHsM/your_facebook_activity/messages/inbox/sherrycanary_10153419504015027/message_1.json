@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Sherry Canary"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sherry Canary",
+      "timestamp_ms": 1710203479130,
+      "content": "Happy Birthday, Bryn! Hope your day was special and fun!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sherry Canary",
+  "is_still_participant": true,
+  "thread_path": "inbox/sherrycanary_10153419504015027",
+  "magic_words": [
+    
+  ]
+}

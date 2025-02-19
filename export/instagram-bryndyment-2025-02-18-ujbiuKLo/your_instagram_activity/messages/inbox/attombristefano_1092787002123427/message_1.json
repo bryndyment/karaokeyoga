@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Attombri Stefano"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1737737931997,
+      "content": "grazie mille",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1737737911050,
+      "content": "\u00e8\u00b2\u00b7\u00e3\u0081\u00a3\u00e3\u0081\u009f\u00ef\u00bc\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Attombri Stefano",
+      "timestamp_ms": 1737641216337,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bryn Dyment",
+          "timestamp": 1737643865
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Attombri Stefano",
+      "timestamp_ms": 1737641207595,
+      "content": "Coffe break",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1737638784978,
+      "content": "stopped by \u00f0\u009f\u0099\u0087\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1737638778874,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/attombristefano_1092787002123427/photos/473765820_625719593477847_3185305931683401379_n_625719590144514.jpg",
+          "creation_timestamp": 1737638777
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/attombristefano_1092787002123427/photos/473687476_1642106763140517_7128856604930441492_n_1642106759807184.jpg",
+          "creation_timestamp": 1737638777
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Attombri Stefano",
+      "timestamp_ms": 1737533778216,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1737496004790,
+      "content": "I plan to stop by \u00e2\u0080\u00a6 see you soon!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Attombri Stefano",
+      "timestamp_ms": 1737493318626,
+      "content": "Hi how are you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1737482629447,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Attombri Stefano",
+      "timestamp_ms": 1678458660409,
+      "content": "https://m.facebook.com/story.php?story_fbid=pfbid0BgmmL1PX6vvwXJ6vrwovuFfzbx1p8Yy2htMqV7FWYazHaw46RqpU9CP7TJF4jiBbl&id=100063492283525&sfnsn=scwspmo",
+      "share": {
+        "link": "https://m.facebook.com/story.php?story_fbid=pfbid0BgmmL1PX6vvwXJ6vrwovuFfzbx1p8Yy2htMqV7FWYazHaw46RqpU9CP7TJF4jiBbl&id=100063492283525&sfnsn=scwspmo",
+        "share_text": "https://m.facebook.com/story.php?story_fbid=pfbid0BgmmL1PX6vvwXJ6vrwovuFfzbx1p8Yy2htMqV7FWYazHaw46RqpU9CP7TJF4jiBbl&id=100063492283525&sfnsn=scwspmo"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Attombri Stefano",
+  "is_still_participant": true,
+  "thread_path": "inbox/attombristefano_1092787002123427",
+  "magic_words": [
+    
+  ]
+}

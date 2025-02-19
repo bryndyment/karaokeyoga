@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Jane Gerster"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1555891167087,
+      "content": "big news!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jane Gerster",
+      "timestamp_ms": 1555887040086,
+      "content": "No I didn\u00e2\u0080\u0099t",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1555886367665,
+      "content": "do you know about the princess cinema being forced to close, perchance?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jane Gerster",
+  "is_still_participant": true,
+  "thread_path": "inbox/janegerster_537307277662765",
+  "magic_words": [
+    
+  ]
+}

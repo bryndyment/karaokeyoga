@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "Renaud Visage"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1724738954032,
+      "content": "HB2024!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1719269734272,
+      "content": "guessing you're a subscriber \u00e2\u0080\u00a6 I haven't read it yet \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1719269701639,
+      "content": "https://www.theinformation.com/articles/startup-klarity-raises-70-million-to-automate-document-reviews",
+      "share": {
+        "link": "https://www.theinformation.com/articles/startup-klarity-raises-70-million-to-automate-document-reviews",
+        "share_text": "Read through enough contracts, invoices or purchase orders\u00e2\u0080\u0094any business documents, really\u00e2\u0080\u0094enough times, and your eyes probably glaze over. Ondrej Antos experienced it as a law clerk nearly a decade ago.When Antos met Nischal Nadhamuni at the Massachusetts Institute of Technology in 2016, the ..."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718951940236,
+      "content": "yep, just had my two-year anniversary",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718951927737,
+      "content": "i think you mean wise-ass?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaud Visage",
+      "timestamp_ms": 1718951717986,
+      "content": "Are you working full time for them?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaud Visage",
+      "timestamp_ms": 1718951686516,
+      "content": "And the wisest",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718928109230,
+      "content": "guess who the oldest employee is? \u00f0\u009f\u00a4\u0094\u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718928092437,
+      "content": "150-person company, ~100 in India",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718928063851,
+      "content": "thx!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaud Visage",
+      "timestamp_ms": 1718927552709,
+      "content": "Congrats!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renaud Visage",
+      "timestamp_ms": 1718927543989,
+      "content": "Probably on the high side for a B round but it's a big raise",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718926767860,
+      "content": "remember me? what\u00e2\u0080\u0099s yer take on dilution here? feels good to me but what do i know? \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718926709312,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/renaudvisage_1474391627293963/photos/448207287_452906427681152_8969500072374918198_n_452906424347819.jpg",
+          "creation_timestamp": 1718926708
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Renaud Visage",
+  "is_still_participant": true,
+  "thread_path": "inbox/renaudvisage_1474391627293963",
+  "magic_words": [
+    
+  ]
+}
