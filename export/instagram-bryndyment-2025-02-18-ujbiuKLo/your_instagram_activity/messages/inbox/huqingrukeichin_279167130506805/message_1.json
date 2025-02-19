@@ -1,0 +1,536 @@
+{
+  "participants": [
+    {
+      "name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685534037814,
+      "content": "i'm actually not sure how to set it up \u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1685532670085,
+      "content": "Yes, I found it on google, it uses online currency, like bitcoins?\nIf I am going to sell some paintings I need to register online?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685531815591,
+      "content": "https://en.m.wikipedia.org/wiki/Non-fungible_token",
+      "share": {
+        "link": "https://en.m.wikipedia.org/wiki/Non-fungible_token",
+        "share_text": "https://en.m.wikipedia.org/wiki/Non-fungible_token"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685531760546,
+      "content": "\u00e2\u0080\u009cnon-fungible token\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685531738123,
+      "content": "kinda \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1685530438317,
+      "content": "Hi Bryn do you know NFT?\nRecently there are people contacted me, ask if I sell my art as NFT, even I searched I don\u00e2\u0080\u0099t really understand what it is\u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1683440496804,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1683415329872,
+      "content": "i prefer french, chinese, japanese \u00f0\u009f\u0098\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+          "timestamp": 1683440496
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1683414058061,
+      "content": "With Canadian food, which is good\u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1683412635025,
+      "content": "oh right, i remember the place",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1683406350926,
+      "content": "Hi Bryn we are in south of Nagano, a place called Canadian farm where I remember you mentioned before, we stayed here almost a week, I guess you will like it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1675933620449,
+      "content": "\u00e9\u009f\u00b3\u00e5\u00a3\u00b0\u00e9\u0080\u009a\u00e8\u00a9\u00b1\u00e3\u0081\u008c\u00e7\u00b5\u0082\u00e4\u00ba\u0086\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "call_duration": 90,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1675933480454,
+      "content": "ir_is_qr\u00e3\u0081\u008c\u00e9\u009f\u00b3\u00e5\u00a3\u00b0\u00e9\u0080\u009a\u00e8\u00a9\u00b1\u00e3\u0082\u0092\u00e9\u0096\u008b\u00e5\u00a7\u008b\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1675933443372,
+      "content": "Hi Bryn\nPierre have a big headache now, he is not able to go for dinner, and we will stay one more day here, is it possible to change the reservation or we meet tomorrow if he will be better, Otherwise I will go by myself",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1675858246175,
+      "content": "Okay, see you tomorrow \u00f0\u009f\u0098\u0080",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u00ab",
+          "actor": "Bryn Dyment",
+          "timestamp": 1675858456
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1675856963892,
+      "content": "Nakizakana\n+81 3-5225-2662\nhttps://maps.app.goo.gl/fjJjqUXJaYddDVzKA?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/fjJjqUXJaYddDVzKA?g_st=ic",
+        "share_text": "Nakizakana\n+81 3-5225-2662\nhttps://maps.app.goo.gl/fjJjqUXJaYddDVzKA?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1675856933468,
+      "content": "we made a 6:30 reservation here:",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1675856478059,
+      "content": "Okay, sounds good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1675853584998,
+      "content": "fish ok?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1675850462536,
+      "content": "Minako has an office day tomorrow so let\u00e2\u0080\u0099s meet/eat in \u00c4\u00aadabashi or Kagurazaka?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1675850376660,
+      "content": "we could meet somewhere at 7pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1675844415003,
+      "content": "Good, we miss Japanese food, haha but any kind of food is good for us, you can choose\nWhat time you will finish work tomorrow?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1675829716484,
+      "content": "what kind of food do you feel like?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1675829675000,
+      "content": "want to meet for a vegetarian dinner somewhere in east tokyo tomorrow?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1675829651099,
+      "content": "Hey! \u00e3\u0081\u008a\u00e5\u00b8\u00b0\u00e3\u0082\u008a\u00ef\u00bc\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1675824220900,
+      "content": "Hi Bryn\nWe are in Tokyo now, will be here for a short stay, do you have time to meet us today or tomorrow?\nToday we only can stop to say hello, or tomorrow we have more time\u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1669188930282,
+      "content": "\u00e8\u0089\u00af\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1669189173
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1669187560226,
+      "content": "\u00e6\u0098\u008e\u00e6\u0097\u00a5\u00e3\u0081\u00af\u00e3\u0080\u0081\u00e3\u0081\u008a\u00e9\u008d\u008b\u00e3\u0081\u00a1\u00e3\u0082\u0083\u00e3\u0083\u00bc\u00e3\u0082\u0093\u00ef\u00bc\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1669002667227,
+      "content": "Wow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1669002660503,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1668997690354,
+      "content": "v2.0?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1668997689397,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+          "timestamp": 1669002660
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/ClM-5H3v9Or/?carousel_share_child_media_id=2976030058130428843_249441303",
+        "share_text": "Two crazy cars spotted today\u00e2\u0080\u0094hillbilly RV with piano mounted in the back; and Bob Marley-themed 1955 Pontiac. Who knows what else I\u00e2\u0080\u0099ll see before I get home! It\u00e2\u0080\u0099s always an adventure.",
+        "original_content_owner": "dekedickerson"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1638984165326,
+      "content": "blight!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1634394140989,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1634387016309,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1629332596132,
+      "content": "I like it! Slow rhythm but with strong emotion",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1629296626654,
+      "content": "what did you think?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1621373306233,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621331276594,
+      "content": "\u00e2\u0086\u0091 he's up to 8!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+          "timestamp": 1621373306
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621331242652,
+      "share": {
+        "original_content_owner": "koyann"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1621330677138,
+      "content": "Looking forward to next lesson\u00f0\u009f\u0098\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621292922770,
+      "content": "it\u00e2\u0080\u0099s quite easy \u00e2\u0080\u00a6 just takes some practice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1621292873695,
+      "content": "Next time I would like to have a try",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1621292919
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1621292861074,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621255517503,
+      "content": "yes",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+          "timestamp": 1621292861
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1621254472889,
+      "content": "Juggling student?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621252013037,
+      "content": "my student!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621252012758,
+      "share": {
+        "original_content_owner": "koyann"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1621123325056,
+      "content": "\u00e9\u009f\u00b3\u00e5\u00a3\u00b0\u00e9\u0080\u009a\u00e8\u00a9\u00b1\u00e3\u0081\u008c\u00e7\u00b5\u0082\u00e4\u00ba\u0086\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "call_duration": 29,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1621123295193,
+      "content": "ir_is_qr\u00e3\u0081\u008c\u00e9\u009f\u00b3\u00e5\u00a3\u00b0\u00e9\u0080\u009a\u00e8\u00a9\u00b1\u00e3\u0082\u0092\u00e9\u0096\u008b\u00e5\u00a7\u008b\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1621052745580,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621048692574,
+      "content": "we like everything!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+          "timestamp": 1621052745
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1621044736926,
+      "content": "Bryn, Minako is there something you don\u00e2\u0080\u0099t like or allergic to?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1620120519361,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1620120518409,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1620120514980,
+      "content": "Minako san sugoi!! Soon dumpling party\u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0094\u00a5",
+          "actor": "Bryn Dyment",
+          "timestamp": 1620122809
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1620119886529,
+      "content": "salsa was just cherry tomatoes, cilantro, tabasco sauce, salt/pepper",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+          "timestamp": 1620120518
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1620119848685,
+      "content": "yes \u00e2\u0080\u00a6 vegetarian bean recipe from a famous US restaurant (in the 70s) \u00e2\u0080\u00a6 and minako made flour tortillas for the first time \u00e2\u0080\u00a6 \u00e3\u0081\u008a\u00e4\u00b8\u008a\u00e6\u0089\u008b",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+          "timestamp": 1620120519
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+      "timestamp_ms": 1620119398445,
+      "content": "Yummy!Homemade?",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2565847795240257335"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1618639427716,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e8\u0083\u00a1\u00e3\u0080\u0080\u00e6\u0085\u00b6\u00e5\u00a6\u0082\u00e3\u0080\u0080\u00e3\u0081\u0091\u00e3\u0081\u0084/Chin",
+  "is_still_participant": true,
+  "thread_path": "inbox/huqingrukeichin_279167130506805",
+  "magic_words": [
+    
+  ]
+}

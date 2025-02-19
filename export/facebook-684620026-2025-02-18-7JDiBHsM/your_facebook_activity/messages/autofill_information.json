@@ -1,0 +1,51 @@
+{
+  "autofill_information_v2": {
+    "CITY": [
+      "Taito-ku"
+    ],
+    "STATE": [
+      "Tokyo"
+    ],
+    "COUNTRY": [
+      "JP"
+    ],
+    "EMAIL": [
+      "bryndyment@gmail.com"
+    ],
+    "PHONE": [
+      "+817044714022"
+    ],
+    "JOB_TITLE": [
+      "Frontend developer"
+    ],
+    "COMPANY_NAME": [
+      "Hoo Logic"
+    ],
+    "GENDER": [
+      "male"
+    ],
+    "SLIDER": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "FIRST_NAME": [
+      "Bryn"
+    ],
+    "LAST_NAME": [
+      "Dyment"
+    ],
+    "FULL_NAME": [
+      "Bryn Dyment"
+    ],
+    "WORK_EMAIL": [
+      "bryndyment@gmail.com"
+    ],
+    "WORK_PHONE": [
+      "+817044714022"
+    ]
+  }
+}

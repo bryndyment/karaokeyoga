@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Bryn Dyment"
+    },
+    {
+      "name": "Beno\u00c3\u00aet Jacquet"
+    },
+    {
+      "name": "Kazuya Fujikawa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1470022473062,
+      "content": "Which need to be drank soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1470022434866,
+      "content": "I have a lot of nama beer ready",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1470022428916,
+      "content": "\u00e3\u0081\u0084\u00e3\u0081\u00aa\u00e3\u0081\u009b\u00e3\u0082\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1470022370191,
+      "content": "What about the beer?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1470022346438,
+      "content": "sorry, tachinomi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1470022258623,
+      "content": "shall we go back to the izakaya at \u00e4\u00b8\u0083\u00e6\u009d\u00a1 / \u00e6\u009d\u00b1\u00e6\u00b4\u009e\u00e9\u0099\u00a2 ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Beno\u00c3\u00aet and Kazuya",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/benoitandkazuya_1066709610074480",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Bryn Dyment"
+    },
+    {
+      "name": "MVNP"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MVNP",
+      "timestamp_ms": 1311896341000,
+      "content": "PARTY UPDATE: The beer party is tomorrow! Lots of food, beer & fun! \n\nFor those of you who can\u00e2\u0080\u0099t make it, we still want to include you so check out our Facebook page during the party to see the Party webcam, pictures, tweets, get a \u00e2\u0080\u009cvirtual\u00e2\u0080\u009d beer and a chance to win some fun prizes. \n\nEveryone who is coming needs to bring photo I.D. \u00e2\u0080\u009cCheck-in\u00e2\u0080\u009d to mvnp on your mobile phone when you arrive to get your beer tickets (we also have \u00e2\u0080\u009creal\u00e2\u0080\u009d tickets if your phone doesn\u00e2\u0080\u0099t have internet). We will also be collecting food & money donations for the Hawaii Food Bank. \n\nParking at our building (First Hawaiian Bank) is $5 after 5pm. Parking is NOT validated. There is also nearby street parking, Ali'i Place, municipal lots, etc. Go to the back wall elevators to get to the 21st floor. \n\nThank you all for your support! We look forward to seeing you. Cheers!\n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MVNP",
+      "timestamp_ms": 1311114101000,
+      "content": "Hi Fans of mvnp,\n\nIn appreciation for helping us get to 1000 likes, we'd like to invite you to our beer party next Friday, 7/29. Come celebrate with us!\n\nClick on the invite for more information and RSVP today!\n\nMahalo,\nmvnp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MVNP",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/mvnp_1089249981147903",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Beverly Choe"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1671152119390,
+      "content": "mirei is wondering if she has an instagram account? mirei's is \"mireidyment\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1671152045795,
+      "content": "hey! congrats on annabelle's (spelling?) 17th! \u00e2\u0080\u00a6 mirei turns 17 on the 21st",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Beverly Choe",
+  "is_still_participant": true,
+  "thread_path": "inbox/beverlychoe_1055784025820309",
+  "magic_words": [
+    
+  ]
+}

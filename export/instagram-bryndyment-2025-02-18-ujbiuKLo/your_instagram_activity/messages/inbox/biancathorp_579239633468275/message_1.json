@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Bianca Thorp"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bianca Thorp",
+      "timestamp_ms": 1574487996853,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/2182652499352287232"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bianca Thorp",
+  "is_still_participant": true,
+  "thread_path": "inbox/biancathorp_579239633468275",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Robert L"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Robert L",
+      "timestamp_ms": 1688217912041,
+      "content": "Went to the same place fot the second evening in a row! Thanks for the recommendation.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robert L",
+      "timestamp_ms": 1688217893028,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/robertl_1159585525432998/photos/356181170_282013300982277_8634480169823426584_n_282013294315611.jpg",
+          "creation_timestamp": 1688217891
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Bryn Dyment",
+          "timestamp": 1688229700
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Robert L",
+  "is_still_participant": true,
+  "thread_path": "inbox/robertl_1159585525432998",
+  "magic_words": [
+    
+  ]
+}

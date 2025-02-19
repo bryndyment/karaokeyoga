@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Ol' Noir Town"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1679730319215,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/olnoirtown/3065925212031655909"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ol' Noir Town",
+  "is_still_participant": true,
+  "thread_path": "inbox/olnoirtown_767121311353005",
+  "magic_words": [
+    
+  ]
+}

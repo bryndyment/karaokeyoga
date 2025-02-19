@@ -1,0 +1,162 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Have you earned the Frequent Watcher badge?",
+        "value": "False"
+      },
+      {
+        "label": "Have you earned the Birthday Tipper badge?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Birthday Tipper badge disabled?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Frequent Watcher badge enabled?",
+        "value": "False"
+      },
+      {
+        "label": "When you started following this Page or Group",
+        "timestamp_value": 1717321601
+      },
+      {
+        "label": "When you first subscribed to this Page or Group",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Is the Tipper badge enabled?",
+        "value": "True"
+      },
+      {
+        "label": "Is the Sharer badge enabled?",
+        "value": "True"
+      },
+      {
+        "label": "Is the Follower badge enabled?",
+        "value": "True"
+      },
+      {
+        "label": "Is the Moderator badge enabled?",
+        "value": "False"
+      },
+      {
+        "label": "Have you earned the Moderator badge?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Clippers badge disabled?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Ad Supporter badge disabled?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Submageddon badge disabled?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Cash On Delivery badge enabled?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Willing To Ship badge enabled?",
+        "value": "False"
+      },
+      {
+        "label": "Have you earned the Streamer Appreciation Week 20 badge?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Streamer Appreciation Week 20 badge disabled?",
+        "value": "False"
+      }
+    ],
+    "fbid": "10161301324875027"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Have you earned the Frequent Watcher badge?",
+        "value": "False"
+      },
+      {
+        "label": "Have you earned the Birthday Tipper badge?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Birthday Tipper badge disabled?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Frequent Watcher badge enabled?",
+        "value": "False"
+      },
+      {
+        "label": "When you started following this Page or Group",
+        "timestamp_value": 1695027419
+      },
+      {
+        "label": "When you first subscribed to this Page or Group",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Is the Tipper badge enabled?",
+        "value": "True"
+      },
+      {
+        "label": "Is the Sharer badge enabled?",
+        "value": "True"
+      },
+      {
+        "label": "Is the Follower badge enabled?",
+        "value": "True"
+      },
+      {
+        "label": "Is the Moderator badge enabled?",
+        "value": "False"
+      },
+      {
+        "label": "Have you earned the Moderator badge?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Clippers badge disabled?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Ad Supporter badge disabled?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Submageddon badge disabled?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Cash On Delivery badge enabled?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Willing To Ship badge enabled?",
+        "value": "False"
+      },
+      {
+        "label": "Have you earned the Streamer Appreciation Week 20 badge?",
+        "value": "False"
+      },
+      {
+        "label": "Is the Streamer Appreciation Week 20 badge disabled?",
+        "value": "False"
+      }
+    ],
+    "fbid": "10160845397630027"
+  }
+]

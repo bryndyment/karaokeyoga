@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "pizzeria_e.o.e"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1677802364637,
+      "content": "hello! \u00e4\u00bb\u008a\u00e6\u0099\u00a9\u00e3\u0080\u008c\u00e9\u0087\u0091\u00e6\u009b\u009c\u00e6\u0097\u00a5\u00e3\u0080\u008d\u00e4\u00ba\u0088\u00e7\u00b4\u0084\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e3\u0081\u0084\u00e3\u0081\u00a7\u00e3\u0081\u0099\u00e3\u0081\u008c\u00e3\u0080\u0082\u00e3\u0080\u0082\u00e3\u0080\u0082\u00e5\u008d\u0088\u00e5\u00be\u008c\u00ef\u00bc\u0098\u00ef\u00bc\u009a\u00ef\u00bc\u0093\u00ef\u00bc\u0090\u00e3\u0080\u0081\u00e4\u00ba\u008c\u00e4\u00ba\u00ba\u00e3\u0080\u0082\u00e3\u0080\u0082\u00e3\u0080\u0082\u00e3\u0081\u0084\u00e3\u0081\u0084\u00ef\u00bc\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "pizzeria_e.o.e",
+  "is_still_participant": true,
+  "thread_path": "inbox/pizzeria_eoe_1096261755110025",
+  "magic_words": [
+    
+  ]
+}

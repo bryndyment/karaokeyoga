@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0096\u00b2\u00f0\u009d\u0096\u00a0\u00f0\u009d\u0096\u00ad\u00f0\u009d\u0096\u00b2-\u00f0\u009d\u0096\u00b2\u00f0\u009d\u0096\u00a4\u00f0\u009d\u0096\u00b1\u00f0\u009d\u0096\u00a8\u00f0\u009d\u0096\u00a5"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0096\u00b2\u00f0\u009d\u0096\u00a0\u00f0\u009d\u0096\u00ad\u00f0\u009d\u0096\u00b2-\u00f0\u009d\u0096\u00b2\u00f0\u009d\u0096\u00a4\u00f0\u009d\u0096\u00b1\u00f0\u009d\u0096\u00a8\u00f0\u009d\u0096\u00a5",
+      "timestamp_ms": 1616051212084,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1616050885742,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0096\u00b2\u00f0\u009d\u0096\u00a0\u00f0\u009d\u0096\u00ad\u00f0\u009d\u0096\u00b2-\u00f0\u009d\u0096\u00b2\u00f0\u009d\u0096\u00a4\u00f0\u009d\u0096\u00b1\u00f0\u009d\u0096\u00a8\u00f0\u009d\u0096\u00a5",
+          "timestamp": 1616051212
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/flot_sss/2449702362899985186"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0096\u00b2\u00f0\u009d\u0096\u00a0\u00f0\u009d\u0096\u00ad\u00f0\u009d\u0096\u00b2-\u00f0\u009d\u0096\u00b2\u00f0\u009d\u0096\u00a4\u00f0\u009d\u0096\u00b1\u00f0\u009d\u0096\u00a8\u00f0\u009d\u0096\u00a5",
+  "is_still_participant": true,
+  "thread_path": "inbox/sansserif_525051338886423",
+  "magic_words": [
+    
+  ]
+}

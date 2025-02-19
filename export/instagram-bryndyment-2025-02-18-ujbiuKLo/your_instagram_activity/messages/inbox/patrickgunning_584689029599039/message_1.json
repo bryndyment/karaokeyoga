@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Patrick Gunning"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1535103022368,
+      "content": "!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patrick Gunning",
+  "is_still_participant": true,
+  "thread_path": "inbox/patrickgunning_584689029599039",
+  "magic_words": [
+    
+  ]
+}

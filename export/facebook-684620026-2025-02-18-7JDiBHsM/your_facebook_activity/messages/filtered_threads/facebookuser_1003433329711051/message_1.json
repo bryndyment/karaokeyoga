@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Bryn Dyment"
+    },
+    {
+      "name": "Facebook user"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1269126324000,
+      "content": "I started a Cooper Suit page for ease of use and syndication. That's where the photos are. Hey, go there now!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1269103367000,
+      "content": "Renowned tech trend forecaster, Bryn Dyment has informed me that Groups on Facebook are going the way of the Dodo, as the more popular and simpler Pages option fill user needs more effectively. Among the several reasons cited were the facts that Groups cannot be accessed from mobile Facebook apps, and that Pages don't require membership. Since I do everything Bryn tells me, I will soon have a FB page for the Cooper Suit and you won't even know the difference. I swear to god.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_1003433329711051",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

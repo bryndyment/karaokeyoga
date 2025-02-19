@@ -1,0 +1,335 @@
+{
+  "participants": [
+    {
+      "name": "Glo Glows"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1719368191983,
+      "content": "Encantada!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1719356150711,
+      "content": "gracias!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1719344264968,
+      "content": "\u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1719344259202,
+      "content": "Take a look \u00f0\u009f\u0091\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1719344189070,
+      "content": "https://sallysees.com/la-condesa-mexico-city/",
+      "share": {
+        "link": "https://sallysees.com/la-condesa-mexico-city/",
+        "share_text": "Where to eat, stay and play in the neighbourhood of La Condesa Mexico City. With its green spaces, Art Deco buildings, dozens of dogs and tranquil vibes."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1719344159447,
+      "content": "Hello! I found an interesting article about la condesa,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1719344130569,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1719225575483,
+      "content": "https://www.inmuebles24.com/propiedades/clasificado/alclcain-casa-amueblada-en-renta-en-condesa-143657330.html",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Glo Glows",
+          "timestamp": 1719344130
+        }
+      ],
+      "share": {
+        "link": "https://www.inmuebles24.com/propiedades/clasificado/alclcain-casa-amueblada-en-renta-en-condesa-143657330.html",
+        "share_text": "If you require assistance in english please contact us at ForHouse. Casa amueblada \u00c3\u00banica en su tipo en renta en la colonia de moda de la ...Condesa"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1719225549114,
+      "content": "Condesa!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1718654156861,
+      "content": "Reacted \u00e2\u009d\u00a4 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718592229240,
+      "content": "gracias!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Glo Glows",
+          "timestamp": 1718654156
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1718589558632,
+      "content": "It is a good place but I prefer Polanco \u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1718589457300,
+      "content": "https://puntodestino.com.mx/blog/vivir-en-la-roma/",
+      "share": {
+        "link": "https://puntodestino.com.mx/blog/vivir-en-la-roma/",
+        "share_text": "\u00c2\u00bfVale la pena vivir en la Roma? Esta es una pregunta que muchos tienen al querer mudarse a esta emblem\u00c3\u00a1tica colonia, pero si quieres tomar la mejor decisi\u00c3\u00b3n, aqu\u00c3\u00ad te contamos todo lo que necesitas saber sobre una de las zonas m\u00c3\u00a1s populares de la CDMX."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1718589443312,
+      "content": "You must practice your Spanish ;",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718520711030,
+      "content": "do you recommend that area?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718520701821,
+      "content": "too early",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1718513046379,
+      "content": "Did you get it?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1718512963550,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718363509459,
+      "content": "https://www.inmuebles24.com/propiedades/clasificado/alclcain-comoda-casa-amueblada-en-roma-norte-cuauhtemoc-565-55205852.html",
+      "share": {
+        "link": "https://www.inmuebles24.com/propiedades/clasificado/alclcain-comoda-casa-amueblada-en-roma-norte-cuauhtemoc-565-55205852.html",
+        "share_text": "Peque\u00c3\u00b1a Casa Amueblada en Renta en Roma Norte, Cuauht\u00c3\u00a9moc Descubre esta acogedora casa amueblada en renta, ubicada en el coraz\u00c3\u00b3n de la vib...Roma"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1718363496513,
+      "content": "\u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1714511045250,
+      "content": "It sounds great!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u0097",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1714511025148,
+      "content": "Me too!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1714511020440,
+      "content": "Reacted \u00e2\u009d\u00a4 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1714454298563,
+      "content": "my spanish will get better, and your english, too!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Glo Glows",
+          "timestamp": 1714511020
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1714454272320,
+      "content": "i am super-excited!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1714449447661,
+      "content": "That\u00e2\u0080\u0099s marvelous!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1714449437428,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/gloglows_10161165476220027/gifs/271442477_3333454816886603_5327248258723176239_n_451526960748182.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1714449415783,
+      "content": "Wooo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1714436572110,
+      "content": "we are 99% certain",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1714436563369,
+      "content": "our plan is \u00e2\u0080\u00a6 October",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1714436556679,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1714435120807,
+      "content": "\u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1714435117404,
+      "content": "Tell meeee!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1714435090370,
+      "content": "Do you already moved to CDMX?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glo Glows",
+      "timestamp_ms": 1714435063597,
+      "content": "Hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1711163075258,
+      "content": "we are (maybe) moving to Mexico City",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1711163036152,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Glo Glows",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/gloglows_10161165476220027",
+  "magic_words": [
+    
+  ]
+}

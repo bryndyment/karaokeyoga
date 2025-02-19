@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1383615017497,
+      "content": "hi ... perfect ... wondering best way to pay you ... can I PayPal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Just You",
+  "is_still_participant": true,
+  "thread_path": "legacy_threads/justyou_157823594615909",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

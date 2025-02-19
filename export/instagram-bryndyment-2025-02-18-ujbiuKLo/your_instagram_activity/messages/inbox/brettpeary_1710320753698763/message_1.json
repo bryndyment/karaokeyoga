@@ -1,0 +1,363 @@
+{
+  "participants": [
+    {
+      "name": "Brett Peary"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1739237394917,
+      "content": "Let me know when you get back",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1739237387786,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0091\u008d\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1739237343424,
+      "content": "In Kyoto for a few weeks!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Brett Peary"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1739237292299,
+      "content": "I have a few friends here you might find interesting, if you're up for a beer sometime. We go to that PDX bar in Shibuya from time to time.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738393437295,
+      "content": "\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0081\u00ab\u00e3\u0080\u008c\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00ef\u00bc\u0081\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738393436057,
+      "content": "Wow! So big!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738392339080,
+      "content": "now-ish",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738392337371,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/brettpeary_1710320753698763/photos/475365032_9285362791507533_4839893756710164179_n_9285362784840867.png",
+          "creation_timestamp": 1738392332
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Brett Peary"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738392175582,
+      "content": "Cute!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738391966907,
+      "content": "\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0081\u00ab\u00e3\u0080\u008c\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00ef\u00bc\u0081\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738391949230,
+      "content": "\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0081\u00ab\u00e3\u0080\u008c\u00e3\u0081\u0084\u00e3\u0081\u0084\u00e3\u0081\u00ad\u00ef\u00bc\u0081\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738391363186,
+      "content": "Mirei around that age, wearing my toque",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Brett Peary"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738391355595,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/brettpeary_1710320753698763/photos/475268682_1283981986216349_870699735122495002_n_1786652928758736.png",
+          "creation_timestamp": 1738391354
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738390420569,
+      "content": "they're both doing pretty well",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738390370120,
+      "content": "Riku's in Vancouver at university \u00e2\u0080\u00a6 Mirei is in Kyoto until this summer, then starts a nursing program in Perth, where her boyfriend lives.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Brett Peary"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738390299738,
+      "content": "awesome!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738390002620,
+      "content": "Where are they now?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738389850890,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/brettpeary_1710320753698763/videos/475344577_9751712508190425_7814994585956818956_n_1176116440699560.mp4",
+          "creation_timestamp": 1738389837
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738389802774,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/brettpeary_1710320753698763/photos/462574271_3805410073004362_5896529229247180571_n_966162458349625.jpg",
+          "creation_timestamp": 1738389801
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738389760834,
+      "content": "Everyday is super fun",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738389747833,
+      "content": "She\u00e2\u0080\u0099s 3 and a half",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738389740075,
+      "content": "That\u00e2\u0080\u0099s crazy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738387477989,
+      "content": "mine are 19 and 22 \u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738387477342,
+      "content": "how\u00e2\u0080\u0099s the tyke?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738376771929,
+      "content": "smart dude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738376768751,
+      "content": "i remember him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738374628438,
+      "content": "I met a guy from unity at an event the other night. Sindharta. He said he had met you when I asked.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738139689814,
+      "content": "Just got stopped by the cops in my neighborhood. First time in ever. There\u00e2\u0080\u0099s a konbini next to the station and they said it looked like I saw them and turned around. I stopped to see if the konbini had a neck warmer. They only checked my wallet. They said a foreigner was using a fake id card. So I said so you stopped me because I was a foreigner and they we like no. Lies.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738132889979,
+      "content": "Yanaka is nice but it\u00e2\u0080\u0099s gentrifying (which I generally view as bad)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738132833068,
+      "content": "React \u00e2\u0080\u00a6 working remotely for an AI startup in SF",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738131192667,
+      "content": "What have you been working on these days?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738131161433,
+      "content": "Do you like the area? I haven\u00e2\u0080\u0099t been but I had a star on a temple there for some reason.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738102705109,
+      "content": "Yanaka, close to Sendagi station",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738075110818,
+      "content": "Where are you in Tokyo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738032244953,
+      "content": "https://lu.ma/r3kov12l",
+      "share": {
+        "link": "https://lu.ma/r3kov12l",
+        "share_text": "https://lu.ma/r3kov12l"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738032209644,
+      "content": "Some events I made",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738032197863,
+      "content": "https://lu.ma/iat6z6za",
+      "share": {
+        "link": "https://lu.ma/iat6z6za",
+        "share_text": "https://lu.ma/iat6z6za"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738032169164,
+      "content": "Tokyo, Shakujii Koen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1738030743226,
+      "content": "Hey! Yes, in Tokyo. Where are you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738025694804,
+      "content": "How are things?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1738025685249,
+      "content": "Hey how\u00e2\u0080\u0099s it going? You in Tokyo these days?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brett Peary",
+  "is_still_participant": true,
+  "thread_path": "inbox/brettpeary_1710320753698763",
+  "magic_words": [
+    
+  ]
+}

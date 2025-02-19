@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Maggie Booth"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680859334451,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/maggiebooth_1096237031766850/photos/340187001_246779991046300_6262274351109814529_n_707894817799198.jpg",
+          "creation_timestamp": 1680859332
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680761114430,
+      "content": "welcome to my city",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1680761103234,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maggie Booth",
+  "is_still_participant": true,
+  "thread_path": "inbox/maggiebooth_1096237031766850",
+  "magic_words": [
+    
+  ]
+}

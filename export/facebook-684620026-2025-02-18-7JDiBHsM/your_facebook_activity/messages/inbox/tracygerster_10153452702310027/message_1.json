@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Tracy Gerster"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tracy Gerster",
+      "timestamp_ms": 1693085601861,
+      "content": "Bonkers cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1693085364402,
+      "content": "i wish too!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tracy Gerster",
+      "timestamp_ms": 1693048528492,
+      "content": "I wish!  We are away until late ish Sept",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692933197006,
+      "content": "going, perchance? first time the four have been together in over 20 years",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692933161792,
+      "content": "https://tiff.net/press/news/tiff-marks-40th-anniversary-of-concert%20-film-stop-making-sense",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tracy Gerster",
+  "is_still_participant": true,
+  "thread_path": "inbox/tracygerster_10153452702310027",
+  "magic_words": [
+    
+  ]
+}

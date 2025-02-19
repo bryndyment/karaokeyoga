@@ -1,0 +1,114 @@
+{
+  "participants": [
+    {
+      "name": "Corey Ma"
+    },
+    {
+      "name": "Allison Maxted"
+    },
+    {
+      "name": "Doug Dyment"
+    },
+    {
+      "name": "Bryn Dyment"
+    },
+    {
+      "name": "Sandy Dyment Maxted"
+    },
+    {
+      "name": "Kelly Dyment"
+    },
+    {
+      "name": "Lynne Rodgers Dyment"
+    },
+    {
+      "name": "Caillie Feldmann"
+    },
+    {
+      "name": "Bryn Feldmann"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sandy Dyment Maxted",
+      "timestamp_ms": 1733591733173,
+      "content": "Love it!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kelly Dyment",
+          "timestamp": 1733592332
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1733591595087,
+      "content": "Kelly sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Allison Maxted",
+          "timestamp": 1733591790
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sandy Dyment Maxted",
+          "timestamp": 1733591714
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lynne Rodgers Dyment",
+          "timestamp": 1733592478
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Corey Ma",
+      "timestamp_ms": 1728919292021,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/coreyallisondougand5others_3720500287988107/gifs/365664943_1939404853109550_4309175992459974281_n_558287793260301.gif"
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Doug Dyment",
+          "timestamp": 1728920777
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sandy Dyment Maxted",
+          "timestamp": 1728930836
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Caillie Feldmann",
+          "timestamp": 1733591713
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Feldmann",
+          "timestamp": 1728964331
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Corey, Allison, Doug and 5 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/coreyallisondougand5others_3720500287988107",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

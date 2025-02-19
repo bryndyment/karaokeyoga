@@ -1,0 +1,18 @@
+{
+  "payments_v2": {
+    "preferred_currency": "JPY",
+    "payments": [
+      {
+        "created_timestamp": 1646107002,
+        "amount": "100.00",
+        "currency": "CAD",
+        "sender": "",
+        "receiver": "Humanitarian Aid to Ukraine ",
+        "type": "Payment",
+        "status": "Completed",
+        "payment_method": "Mastercard ending in 9920",
+        "ip": "2001:0569:7607:3e00:5452:2a4a:8989:0c66"
+      }
+    ]
+  }
+}

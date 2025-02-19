@@ -1,0 +1,203 @@
+{
+  "participants": [
+    {
+      "name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1622592052840,
+      "content": "ok! thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1622592018732,
+      "content": "no rush \u00e2\u0080\u00a6 i was just curious",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1622592006318,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1622592003639,
+      "content": "ah ok!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+          "timestamp": 1622592006
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1622591990983,
+      "content": "I haven't seen it yet.\n\nI will go to Yanaka next Monday to see the plate.\n\nThen I'll be in touch.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1622591860009,
+      "content": "i\u00e2\u0080\u0099m wondering if you\u00e2\u0080\u0099ve seen the plate i dropped off last week?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1622590544637,
+      "content": "hello!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1622585893550,
+      "content": "hello!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1621164137436,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621164039538,
+      "content": "her stuff is great \u00e2\u0080\u00a6 thank you!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+          "timestamp": 1621164137
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1621163697788,
+      "content": "hello\n\nI have no idea\u00ef\u00bc\u008cso I asked my teacher of kintsugi.\nShe referred a jeweller.\n\nhttps://instagram.com/sakinamikijewelry?igshid=1wjse2vovmps5\n\nPlease say you're referring to YOSHIKO KUGE\u00ef\u00bc\u0081",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment",
+          "timestamp": 1621211767
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/sakinamikijewelry?igshid=1wjse2vovmps5"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621157469634,
+      "content": "do you know any jewellers? we are looking for wedding rings \u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1621073796129,
+      "content": "my pleasure",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1621073149395,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1621068603463,
+      "content": "thank you so much for your excellent work",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+          "timestamp": 1621073149
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1620628163132,
+      "content": "so nice!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1620627244940,
+      "content": "\u00e2\u0086\u0091 we bought the \u00e6\u0081\u00a9\u00e7\u0094\u00b0\u00e7\u0084\u00bc\u00e3\u0081\u008d here (in kyoto)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1620627226590,
+      "content": "https://www.instagram.com/koikoi.syoten/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1620625523641,
+      "content": "thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+      "timestamp_ms": 1620625513187,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1620624895442,
+      "content": "please share the \u00e8\u008a\u00b1\u00e7\u0093\u00b6 photos on \u00e3\u0082\u00a4\u00e3\u0083\u00b3\u00e3\u0082\u00b9\u00e3\u0082\u00bf\u00ef\u00bc\u0081",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+          "timestamp": 1620625513
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e9\u00a6\u0099\u00e7\u00ae\u00b1(Natsuko Funakushi)",
+  "is_still_participant": true,
+  "thread_path": "inbox/xiangxiangnatsukofunakushi_1439809339701323",
+  "magic_words": [
+    
+  ]
+}

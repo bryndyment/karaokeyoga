@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Lynne Rodgers Dyment"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1698331896730,
+      "content": "(nite-nite)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1698331851146,
+      "content": "three years old, not four \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lynne Rodgers Dyment",
+  "is_still_participant": true,
+  "thread_path": "inbox/lynnerodgersdyment_10153417373715027",
+  "magic_words": [
+    
+  ]
+}

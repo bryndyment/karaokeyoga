@@ -1,0 +1,962 @@
+{
+  "participants": [
+    {
+      "name": "Eric FAURE"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734910308232,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ericfaure_803183947734988/photos/467459817_1629250301330712_4611664012829820938_n_1629250297997379.jpg",
+          "creation_timestamp": 1734910306
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/ericfaure_803183947734988/photos/466981902_1071278621439018_2255135638166049685_n_1071278618105685.jpg",
+          "creation_timestamp": 1734910307
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734229161315,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ericfaure_803183947734988/photos/467443636_566440872761819_8395151065860459047_n_566440869428486.jpg",
+          "creation_timestamp": 1734229158
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/ericfaure_803183947734988/photos/462575624_573611101973599_1182205947282733337_n_573611098640266.jpg",
+          "creation_timestamp": 1734229160
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734229144607,
+      "content": "\u00e2\u0080\u009cmexico lite\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734229130806,
+      "content": "SF!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1734227153270,
+      "content": "Are you in Mexico ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1734064715612,
+      "content": "Thanks for your advice.\nI'll try...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734052954070,
+      "content": "paste a French paragraph, then the existing English translation, and type \u00e2\u0080\u009cplease determine if the English is a reasonable translation of the French, matching tone, literacy level, etc.\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1734052846597,
+      "content": "The text is already translated",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734052753828,
+      "content": "paste in a paragraph of French and ask it to translate into English",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734052726172,
+      "content": "https://chatgpt.com/",
+      "share": {
+        "link": "https://chatgpt.com/",
+        "share_text": "https://chatgpt.com/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1734052670807,
+      "content": "How? I don't know how to use it?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734052670692,
+      "content": "Translation would likely be near-perfect, too.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734052635159,
+      "content": "Yep.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1734052612572,
+      "content": "Would it do proof reading ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734052572944,
+      "content": "Basically flawless.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734052558178,
+      "content": "ChatGPT\u00e2\u0080\u0099s English is outstanding, by the way.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734052522712,
+      "content": "(congrats!)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1734052499922,
+      "content": "Yes!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1734049666417,
+      "content": "Speaking of Kyoto, I just received messages from American publishers. They are interested by my project about Kyoto Ghost stories and will give me their final answer in January...\nWould you be interested in doing a native final reading of the text?\nI will mention you in the credits and will give you a Book...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1732770177994,
+      "content": "kyoto was great!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1732767048146,
+      "content": "Okaeri !\nI have hoped we Can meet again before your return but, these last days, I have been sick and unable to get rid of a Bad cold...\nHope we can meet again on a very near future",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment",
+          "timestamp": 1732770167
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1732764464709,
+      "content": "back in Tokyo! \u00f0\u009f\u0099\u0087\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1732238942644,
+      "content": "nuance!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1732237757970,
+      "content": "Eric sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment",
+          "timestamp": 1732238943
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DCJVDjTM3SS/",
+        "share_text": "This is so funny \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+        "original_content_owner": "just_4jokes"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731763367948,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ericfaure_803183947734988/photos/467401954_989777893181547_4489869008870228307_n_989777889848214.jpg",
+          "creation_timestamp": 1731763366
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731763307333,
+      "content": "great guy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731763021430,
+      "content": "https://www.instagram.com/jonobajaj?igsh=ZGM0b3kwb3hkOG52",
+      "share": {
+        "link": "https://www.instagram.com/_u/jonobajaj",
+        "profile_share_username": "jonobajaj",
+        "profile_share_name": "Jonathan Hagard"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1731755369968,
+      "content": "That's great",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1731755351458,
+      "content": "Who is the artist?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731755135070,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ericfaure_803183947734988/videos/466856719_8983413901720779_6182233180339736347_n_1049330446991464.mp4",
+          "creation_timestamp": 1731755117
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731753297086,
+      "content": "The ships looked bad to me.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731753252595,
+      "content": "I like the main actor, the Irishman.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731753124983,
+      "content": "Yes, I felt like I was watching a crappy video game from 15 years ago.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1731752947138,
+      "content": "First I thought the storyline was interesting because it ended Lucius' story but the more I thought about it, the more I found reasons to be disappointed. The naval battle at the beginning was great but the fight with baboons was a disaster. The CGI was awful...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731748859382,
+      "content": "What did you think? I was disappointed \u00e2\u0080\u00a6 but I was proud that I didn't fall asleep.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731748835655,
+      "content": "Of course!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1731746112340,
+      "content": "How do you I Saw Gladiator ? Where you there ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731728734529,
+      "content": "how was Gladiator II? \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1731103783290,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u0082\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731103691211,
+      "content": "HB2024!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Eric FAURE",
+          "timestamp": 1731103783
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1731103327045,
+      "content": "Thanks for the picture.\nLet's have dinner again while you are in Kyoto!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731068555130,
+      "content": "dinner was great! (so was the food \u00f0\u009f\u0099\u0083)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731068517308,
+      "content": "\u00e2\u0086\u0091 Mirei\u00e2\u0080\u0099s \u00e2\u0080\u009cbestie\u00e2\u0080\u009d in Seattle",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731068490634,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ericfaure_803183947734988/photos/462539544_1088693472371797_5244809081799829885_n_1088693469038464.jpg",
+          "creation_timestamp": 1731068489
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1730971002503,
+      "content": "See you tomorrow",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0094\u00a5",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1730970984139,
+      "content": "OK. Let's go for Persian food. I'll meet you there at 19h!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1730968249018,
+      "content": "I guess this is not the Indian place you were suggesting, but I think it looks pretty interesting. Well-regarded Persian food.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1730967824117,
+      "content": "How about here at 19h?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1730967816039,
+      "content": "https://maps.app.goo.gl/v8HbB3ysMudfR9ne9",
+      "share": {
+        "link": "https://maps.app.goo.gl/v8HbB3ysMudfR9ne9",
+        "share_text": "\u00e2\u0098\u0085\u00e2\u0098\u0085\u00e2\u0098\u0085\u00e2\u0098\u0085\u00e2\u0098\u0085 \u00c2\u00b7 Asiatisk restaurang"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1730966106452,
+      "content": "There is a good Chinese restaurant near Hyakumanben. There are Indian and Mexican restaurant near the crossroad of Marutamachi and Higashi-oji.\nI can be in either of them around 19h (I teach at Doshisha till 18h10)...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1730964969224,
+      "content": "Let's eat \u00e2\u0080\u00a6 anywhere you like!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1730964952739,
+      "content": "I am staying almost across the street from the old French school on \u00e4\u00b8\u00b8\u00e5\u00a4\u00aa\u00e7\u0094\u00ba\u00e9\u0080\u009a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1730964843859,
+      "content": "great!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1730963208454,
+      "content": "As Yuri has something scheduled tomorrow, we can have dinner...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1730963106619,
+      "content": "With great pleasure !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1730957072765,
+      "content": "coffee sometime?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1730957061153,
+      "content": "i am in kyoto for the next two weeks or so",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1730957042194,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1708416113797,
+      "content": "I am inside",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1708415731663,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708415722615,
+      "content": "i\u00e2\u0080\u0099ll join you shortly",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1708415722472,
+      "content": "Ok",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Bryn Dyment",
+          "timestamp": 1708415730
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708415713316,
+      "content": "go in and find a seat?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708415691340,
+      "content": "ok!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1708415684700,
+      "content": "I am in front of the coffee shop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708414961339,
+      "content": "i should be there by 5:10 \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708414941158,
+      "content": "i am running a \u00e2\u0080\u009ctad\u00e2\u0080\u009d late \u00f0\u009f\u0099\u0087\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1708379937002,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment",
+          "timestamp": 1708384265
+        }
+      ],
+      "share": {
+        "link": "https://media3.giphy.com/media/v1.Y2lkPTA3MTNiODVjZjl0cmJiajY2Y2szYTdjd3puMGF4OTk2dm11MHE2dGZ4d2dtM2g1NCZlcD12MV9naWZzX2dpZklkJmN0PXM/ulREDgbFZrh8nYLGmB/200.gif",
+        "original_content_owner": "peacock"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708344011269,
+      "content": "i look basically the same",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708343967753,
+      "content": "5pm it is",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1708342879375,
+      "content": "If you don't mind, I prefer the first one. Shall we meet at 17h? I might be able to finish my interviews earlier but I am not sure ...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708342256142,
+      "content": "\u00e2\u0086\u0091 this is my favorite place but it\u00e2\u0080\u0099s a smoker\u00e2\u0080\u0099s paradise",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708342219877,
+      "content": "https://maps.app.goo.gl/EophVB9WCS1cyDYm6?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/EophVB9WCS1cyDYm6?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/EophVB9WCS1cyDYm6?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708342193781,
+      "content": "\u00e2\u0086\u0091 this place is respectable and non-smoking",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708342097749,
+      "content": "https://maps.app.goo.gl/F6smNoQiJqGt6ugt7?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/F6smNoQiJqGt6ugt7?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/F6smNoQiJqGt6ugt7?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708342043225,
+      "content": "meet in Shinjuku?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1708342031304,
+      "content": "yes!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1708340045821,
+      "content": "Hi there !\nI am in Tokyo till Wednesday.\nMy hostel is in Shinjuku.\nWould you have time tomorrow afternoon After 16h?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1707991185331,
+      "content": "OK!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1707991156519,
+      "content": "I am waiting for interviews I must make for my next book. When  have news from them, I'll call you...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1707990882360,
+      "content": "very close to Sendagi station (\u00e5\u008d\u0083\u00e9\u00a7\u0084\u00e6\u009c\u00a8\u00e9\u00a7\u0085)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1707990844641,
+      "content": "\u00e2\u0086\u0091 this cafe is about 30 seconds from our place",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1707990820476,
+      "content": "https://maps.app.goo.gl/ZDxJ7EGbEuW4NA578",
+      "share": {
+        "link": "https://maps.app.goo.gl/ZDxJ7EGbEuW4NA578",
+        "share_text": "\u00e2\u0098\u0085\u00e2\u0098\u0085\u00e2\u0098\u0085\u00e2\u0098\u0085\u00e2\u0098\u0086 \u00c2\u00b7 Kaf\u00c3\u00a9"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1707990649477,
+      "content": "We are in Yakana area \u00e2\u0080\u00a6 here's a link:",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1707990596695,
+      "content": "I plan to go there from the 19 till the 21.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1707990570995,
+      "content": "With pleasure !\nIn what part of Tokyo do you live ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1707990484344,
+      "content": "coffee?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1707990166230,
+      "content": "Yes \u00e2\u0080\u00a6 I am here!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1707990111431,
+      "content": "Hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1707985701428,
+      "content": "Next week ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1707985691812,
+      "content": "Hi\nI Hope you are fine...\nI might go to Tokyo at the beginning of next week. Are you in Tokyo next wt?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1692666153496,
+      "content": "Yes she is back home and currently sleeping. \nHope to see you some day soon in Kyoto. Take care !",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008f",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692665576432,
+      "content": "thank you for the coffee + cookies!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692665568003,
+      "content": "your girl should be safely back with you now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692509595342,
+      "content": "(they seem to be enjoying themselves)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692509572262,
+      "content": "that would be my pleasure!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692509558814,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1692485565893,
+      "content": "Good morning !\nThanks for letting Lydia stay in your house. \nNext time you come to Kyoto, please tell me so that we can go for a drink ?\n\u00c3\u0089ric",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1687844974836,
+      "content": "\u00e4\u00ba\u00ac\u00e9\u0083\u00bd\u00e5\u00b8\u0082\u00e5\u00b7\u00a6\u00e4\u00ba\u00ac\u00e5\u008c\u00ba\u00e6\u00b5\u0084\u00e5\u009c\u009f\u00e5\u00af\u00ba\u00e4\u00b8\u008b\u00e5\u008d\u0097\u00e7\u0094\u00b0\u00e7\u0094\u00ba48",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0099\u0087",
+          "actor": "Bryn Dyment",
+          "timestamp": 1687844994
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1687832664425,
+      "content": "final thing is street/mailing address",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1687832617317,
+      "content": "thank you",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008c",
+          "actor": "Bryn Dyment",
+          "timestamp": 1687832624
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1687830203214,
+      "content": "My phone number: 080-7897-0072\nYuri's: 090-1710-6597\nMail(We use the sale): eyfaure@yahoo.co.jp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1687824975626,
+      "content": "\u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1687748978910,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ericfaure_803183947734988/photos/356743286_1896723084044269_2935717498640988890_n_1896723080710936.jpg",
+          "creation_timestamp": 1687748977
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1687748566160,
+      "content": "finally getting around to submitting her application \u00e2\u0080\u00a6 could i get each of your phone numbers, please? and also your mailing address \u00e2\u0080\u00a6 and finally, yuri-san's email address?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685598887913,
+      "content": "thank you, and you're welcome!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1685590552138,
+      "content": "Hello !\nNo problem. Use our names for Mirei application papers.\nBy the way, thanks for the infos about yokai...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685580106253,
+      "content": "\u00e3\u0082\u0088\u00e3\u0082\u008d\u00e3\u0081\u0097\u00e3\u0081\u008f\u00e3\u0081\u008a\u00e9\u00a1\u0098\u00e3\u0081\u0084\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0099\u00ef\u00bc\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685580058987,
+      "content": "it's just your names and contact information, and they might call you to confirm. but, i doubt they will even call. no need for signature, etc.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685580026810,
+      "content": "hello! i have a favor to ask. would you mind if mirei used both your names for her canadian passport application? (you plus yuri-san)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685060767724,
+      "content": "\"giant robot\" was a legendary LA-based magazine that celebrated asian-american culture \u00e2\u0080\u00a6 the magazine is done but the \"brand\" continues to do interesting things",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685060721855,
+      "content": "https://www.giantrobot.com/blogs/giant-robot-store-and-gr2-news/yokai-show-2023-an-art-exhibition-of-folklore-fables-may-27th-june-4th-2023",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1685060719187,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1655219944612,
+      "content": "no, i approve!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eric FAURE",
+      "timestamp_ms": 1655217641926,
+      "content": "yeah I know, that's not really original. My publisher asked me to create an Instagram account so here I am.\nYoroshiku...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1655216332948,
+      "content": "kyoto legend!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eric FAURE",
+  "is_still_participant": true,
+  "thread_path": "inbox/ericfaure_803183947734988",
+  "magic_words": [
+    
+  ]
+}

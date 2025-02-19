@@ -1,0 +1,42 @@
+{
+  "account_history_registration_info": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Username": {
+          "href": "",
+          "value": "Bryn Dyment",
+          "timestamp": 0
+        },
+        "IP Address": {
+          "href": "",
+          "value": "2a01:cb00:4e1:e600:f460:286e:3670:65d3",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1484236611
+        },
+        "Email": {
+          "href": "",
+          "value": "bryndyment@gmail.com",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        },
+        "Device": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

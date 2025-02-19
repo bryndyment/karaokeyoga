@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Joe Rummaneethorn"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1530401679424,
+      "content": "good first day?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1530357615359,
+      "content": "agree!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joe Rummaneethorn",
+      "timestamp_ms": 1530322656068,
+      "content": "Was*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joe Rummaneethorn",
+      "timestamp_ms": 1530288325751,
+      "content": "It would great talking to you today. :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joe Rummaneethorn",
+      "timestamp_ms": 1530288315073,
+      "content": "Finally restored my instagram after not having used it for a long time.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Joe Rummaneethorn",
+      "timestamp_ms": 1530288297396,
+      "content": "Hi bryn! This is Joe from the airport bus today.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joe Rummaneethorn",
+  "is_still_participant": true,
+  "thread_path": "inbox/joerummaneethorn_510504923669560",
+  "magic_words": [
+    
+  ]
+}

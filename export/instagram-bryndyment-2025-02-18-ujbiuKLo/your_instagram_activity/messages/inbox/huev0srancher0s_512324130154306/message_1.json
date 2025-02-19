@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "huev0srancher0s"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1671778497641,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1638556702599,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1595132825583,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "huev0srancher0s",
+  "is_still_participant": true,
+  "thread_path": "inbox/huev0srancher0s_512324130154306",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "LAZYBUTTCLUB"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1694136368480,
+      "content": "i know you're busy but wanted to check on this \u00e2\u0080\u00a6 would still love to order",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692766726550,
+      "content": "i\u00e2\u0080\u0099d love to be the first Japanese order!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692766700371,
+      "content": "for example, i typed my Japanese postal code and it recognized where in Tokyo that was",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692766659284,
+      "content": "ok \u00e2\u0080\u00a6 everything seemed good until that screen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LAZYBUTTCLUB",
+      "timestamp_ms": 1692766616948,
+      "content": "Hi I don\u00e2\u0080\u0099t think we\u00e2\u0080\u0099ve sent to Japan yet! I need to check with our website provider, Shopify, to see how to enable shipping to Japan.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692765639914,
+      "content": "this is all standard, so i\u00e2\u0080\u0099m not sure what the issue is",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692765615741,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/lazybuttclub_1150850419636877/photos/368591461_984139165957846_3232252417415103583_n_984139162624513.jpg",
+          "creation_timestamp": 1692765614
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692765479951,
+      "content": "\u00e2\u0086\u0091 problem with japanese ordering",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692765448385,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/lazybuttclub_1150850419636877/photos/368505328_851963189653896_4699021496682278586_n_851963182987230.jpg",
+          "creation_timestamp": 1692765447
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LAZYBUTTCLUB",
+  "is_still_participant": true,
+  "thread_path": "inbox/lazybuttclub_1150850419636877",
+  "magic_words": [
+    
+  ]
+}

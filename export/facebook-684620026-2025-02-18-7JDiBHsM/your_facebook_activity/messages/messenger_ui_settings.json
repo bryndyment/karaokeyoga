@@ -1,0 +1,60 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Info sidebar collapsed",
+      "value": "True"
+    },
+    {
+      "label": "Sound enabled",
+      "value": "True"
+    },
+    {
+      "label": "People section collapsed",
+      "value": "False"
+    },
+    {
+      "label": "Files section collapsed",
+      "value": "False"
+    },
+    {
+      "label": "Photos section collapsed",
+      "value": "True"
+    },
+    {
+      "label": "Group section collapsed",
+      "value": "False"
+    },
+    {
+      "label": "Group approval section collapsed",
+      "value": "False"
+    },
+    {
+      "label": "Links section collapsed",
+      "value": "False"
+    },
+    {
+      "label": "Description section collapsed",
+      "value": "False"
+    },
+    {
+      "label": "Saved message section collapsed",
+      "value": "False"
+    },
+    {
+      "label": "Privacy section collapsed",
+      "value": "False"
+    },
+    {
+      "label": "Group link section collapsed",
+      "value": "False"
+    },
+    {
+      "label": "Page link section collapsed",
+      "value": "False"
+    }
+  ],
+  "fbid": "10153657036335027"
+}

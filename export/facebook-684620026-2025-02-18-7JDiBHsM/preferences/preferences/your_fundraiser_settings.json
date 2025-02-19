@@ -1,0 +1,124 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Notifications sent",
+      "vec": [
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1692090214
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "user_fundraiser_invite"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1684627949
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "fundraiser_for_story_creation_top_friends"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1617879325
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "user_fundraiser_friend_birthday_fundraiser_last_chance"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1588845600
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "user_fundraiser_friend_birthday_fundraiser"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1588809663
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "user_fundraiser_creation_top_friends"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1569652763
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "user_fundraiser_friend_birthday_fundraiser_last_chance"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1545973200
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "user_fundraiser_friend_birthday_fundraiser"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1545955206
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Notifications level"
+    },
+    {
+      "label": "Time of last birthday gift",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Time of last COVID vaccination gift",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Time of last Juneteenth gift",
+      "timestamp_value": 0
+    }
+  ],
+  "fbid": "10156498661845027"
+}

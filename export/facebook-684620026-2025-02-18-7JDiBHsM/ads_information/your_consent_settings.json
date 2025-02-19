@@ -1,0 +1,17 @@
+{
+  "timestamp": 1716909291,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Updated time",
+      "timestamp_value": 1716909291
+    },
+    {
+      "label": "Consent status",
+      "value": "Objected"
+    }
+  ],
+  "fbid": "1135875924327499"
+}

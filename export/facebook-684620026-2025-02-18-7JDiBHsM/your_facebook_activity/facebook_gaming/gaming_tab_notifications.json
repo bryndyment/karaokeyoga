@@ -1,0 +1,173 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Summary of all notifications",
+      "dict": [
+        {
+          "label": "last_sent_time",
+          "timestamp_value": 1551443166
+        },
+        {
+          "label": "last_clear_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "last_dismiss_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "curr_num_sent",
+          "value": "7"
+        },
+        {
+          "label": "total_sent_count",
+          "value": "7"
+        },
+        {
+          "label": "total_clear_count",
+          "value": "0"
+        },
+        {
+          "label": "total_dismiss_count",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "label": "Notifications about your friends playing",
+      "dict": [
+        {
+          "label": "last_sent_time",
+          "timestamp_value": 1551443166
+        },
+        {
+          "label": "last_clear_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "last_dismiss_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "curr_num_sent",
+          "value": "3"
+        },
+        {
+          "label": "total_sent_count",
+          "value": "3"
+        },
+        {
+          "label": "total_clear_count",
+          "value": "0"
+        },
+        {
+          "label": "total_dismiss_count",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "label": "Notifications sent as a new user",
+      "dict": [
+        {
+          "label": "last_sent_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "last_clear_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "last_dismiss_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "curr_num_sent",
+          "value": "0"
+        },
+        {
+          "label": "total_sent_count",
+          "value": "0"
+        },
+        {
+          "label": "total_clear_count",
+          "value": "0"
+        },
+        {
+          "label": "total_dismiss_count",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "label": "Notifications when you have not played for 90 days",
+      "dict": [
+        {
+          "label": "last_sent_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "last_clear_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "last_dismiss_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "curr_num_sent",
+          "value": "0"
+        },
+        {
+          "label": "total_sent_count",
+          "value": "0"
+        },
+        {
+          "label": "total_clear_count",
+          "value": "0"
+        },
+        {
+          "label": "total_dismiss_count",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "label": "Notifications when you have not played for a long time",
+      "dict": [
+        {
+          "label": "last_sent_time",
+          "timestamp_value": 1547673025
+        },
+        {
+          "label": "last_clear_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "last_dismiss_time",
+          "timestamp_value": 0
+        },
+        {
+          "label": "curr_num_sent",
+          "value": "4"
+        },
+        {
+          "label": "total_sent_count",
+          "value": "4"
+        },
+        {
+          "label": "total_clear_count",
+          "value": "0"
+        },
+        {
+          "label": "total_dismiss_count",
+          "value": "0"
+        }
+      ]
+    }
+  ],
+  "fbid": "10156478025160027"
+}

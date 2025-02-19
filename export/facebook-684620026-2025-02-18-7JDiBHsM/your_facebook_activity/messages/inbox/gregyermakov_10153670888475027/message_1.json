@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Greg Yermakov"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Greg Yermakov",
+      "timestamp_ms": 1705025088278,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1705022784757,
+      "content": "Glad you two could hang out!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Greg Yermakov",
+      "timestamp_ms": 1704974289699,
+      "content": "Hi Bryn, happy new year, I had fun with Akane.  Tokyo, this time, I can stay in my niece\u00e2\u0080\u0099s room since she is in Korea.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Greg Yermakov",
+      "timestamp_ms": 1704944022206,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1704942914409,
+      "content": "two have now closed but the Shinjuku one was the best anyway",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1704942897002,
+      "content": "when I \"moved\" to Tokyo for a month a few years back, I stayed at each of the three \"Book and Bed\" properties that were here at the time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1704942854444,
+      "content": "\u00e2\u0086\u0091 this is a cool place to stay in Tokyo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1704942840852,
+      "content": "https://bookandbedtokyo.com/ja/shinjuku/",
+      "share": {
+        "link": "https://bookandbedtokyo.com/ja/shinjuku/",
+        "share_text": "\u00e3\u0080\u008c\u00e6\u00b3\u008a\u00e3\u0081\u00be\u00e3\u0082\u008c\u00e3\u0082\u008b\u00e6\u009c\u00ac\u00e5\u00b1\u008b\u00c2\u00ae\u00ef\u00b8\u008e\u00e3\u0080\u008d\u00e3\u0081\u008c\u00e3\u0082\u00b3\u00e3\u0083\u00b3\u00e3\u0082\u00bb\u00e3\u0083\u0097\u00e3\u0083\u0088\u00e3\u0081\u00ae\u00e3\u0083\u009b\u00e3\u0082\u00b9\u00e3\u0083\u0086\u00e3\u0083\u00ab BOOK AND BED\u00e3\u0080\u0082\u00e6\u009c\u00ac\u00e3\u0082\u0092\u00e8\u00aa\u00ad\u00e3\u0081\u00bf\u00e3\u0081\u00aa\u00e3\u0081\u008c\u00e3\u0082\u0089\u00e5\u00af\u009d\u00e8\u0090\u00bd\u00e3\u0081\u00a1\u00e3\u0081\u00a7\u00e3\u0081\u008d\u00e3\u0082\u008b\u00e3\u0080\u0081\u00e3\u0081\u009d\u00e3\u0082\u0093\u00e3\u0081\u00aa\u00e8\u0087\u00b3\u00e7\u00a6\u008f\u00e3\u0081\u00ae\u00e3\u0080\u008c\u00e5\u00af\u009d\u00e3\u0082\u008b\u00e7\u009e\u00ac\u00e9\u0096\u0093\u00e3\u0080\u008d\u00e3\u0082\u0092\u00e3\u0081\u0094\u00e6\u008f\u0090\u00e4\u00be\u009b\u00e3\u0080\u0082"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1704942834908,
+      "content": "hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Greg Yermakov",
+  "is_still_participant": true,
+  "thread_path": "inbox/gregyermakov_10153670888475027",
+  "magic_words": [
+    
+  ]
+}

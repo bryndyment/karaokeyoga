@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Warren Porter"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1725230382794,
+      "content": "Hey! Thank you again for lunch \u00e2\u0080\u00a6 that was epic and appreciated! Also, I realized yesterday that you got interrupted during your olive story and I didn't get to hear the ending \u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Warren Porter",
+  "is_still_participant": true,
+  "thread_path": "inbox/warrenporter_1520501636016888",
+  "magic_words": [
+    
+  ]
+}

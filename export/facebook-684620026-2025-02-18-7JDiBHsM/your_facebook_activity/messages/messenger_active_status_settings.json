@@ -1,0 +1,32 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Visible to everyone?",
+      "value": "True"
+    },
+    {
+      "label": "Visibility setting",
+      "value": "Block list"
+    },
+    {
+      "label": "Creation time",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last modified time",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Allowlisted person",
+      "value": "Lynne Rodgers Dyment"
+    },
+    {
+      "label": "Allowlisted person",
+      "value": "Akane Goda"
+    }
+  ],
+  "fbid": "10159091419430027"
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Mark Turner"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mark Turner",
+      "timestamp_ms": 1731918037471,
+      "content": "Sk\u00c3\u00a5l! \u00f0\u009f\u00a5\u0083",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/3503327103427318080"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mark Turner",
+  "is_still_participant": true,
+  "thread_path": "inbox/markturner_3068596626725004",
+  "magic_words": [
+    
+  ]
+}

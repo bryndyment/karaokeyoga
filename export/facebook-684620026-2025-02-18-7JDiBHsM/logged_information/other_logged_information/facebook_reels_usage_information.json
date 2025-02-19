@@ -1,0 +1,33 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Usage data",
+      "dict": [
+        {
+          "label": "The number of Reels you have seen in the last 7 days",
+          "value": "519"
+        },
+        {
+          "label": "The number of Reels you have seen in the last 30 days",
+          "value": "1255"
+        },
+        {
+          "label": "The number of Reels you have liked in the last 30 days",
+          "value": "4"
+        },
+        {
+          "label": "The number of Reels you have seen in the horizontal Reels tray in the last 7 days",
+          "value": "69"
+        },
+        {
+          "label": "The number of Reels you have clicked from the horizontal Reels tray in the last 7 days",
+          "value": "15"
+        }
+      ]
+    }
+  ],
+  "fbid": "684620026"
+}

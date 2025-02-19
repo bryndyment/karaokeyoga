@@ -1,0 +1,25 @@
+{
+  "media_effects_v2": [
+    {
+      "effect": "Ukraine",
+      "timestamp": 1645728211,
+      "media_type": 1,
+      "media": {
+        "uri": "your_facebook_activity/posts/media/Profilepictures_PDeaAcNxhA/274692277_10159660998620027_5639047202233035272_n_10159660998630027.jpg",
+        "creation_timestamp": 1645728208,
+        "media_metadata": {
+          "photo_metadata": {
+            "exif_data": [
+              {
+                "upload_ip": "24.207.98.181",
+                "taken_timestamp": 1645728210
+              }
+            ]
+          }
+        },
+        "title": "Profile pictures",
+        "backup_uri": "https://scontent-nrt1-2.xx.fbcdn.net/v/t39.30808-6/274692277_10159660998620027_5639047202233035272_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=2eb2d4&_nc_ohc=8w8Bb3z41S8Q7kNvgE7A0ju&_nc_oc=AdhW6-wIjtVpBD1RT29A94NfTOeOlhcKOK_vGE2cxeEa2cjHxn79iDwsFRstdGA4oQ8&_nc_zt=23&_nc_ht=scontent-nrt1-2.xx&_nc_gid=AA4YKEqRSzjrpPFxGBPrUle&oh=00_AYDsiD9wOWWpyOTRF_uxNdXk6HkPmu_UFvZdIL-2P1KdUA&oe=67B9E56D"
+      }
+    }
+  ]
+}

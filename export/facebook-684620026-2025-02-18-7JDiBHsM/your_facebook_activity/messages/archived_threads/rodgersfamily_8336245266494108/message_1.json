@@ -1,0 +1,358 @@
+{
+  "participants": [
+    {
+      "name": "Rebecca Anne"
+    },
+    {
+      "name": "Paul Petrie"
+    },
+    {
+      "name": "Lynne Rodgers Dyment"
+    },
+    {
+      "name": "Michael Szoke"
+    },
+    {
+      "name": "Candice Mansell"
+    },
+    {
+      "name": "Bryn Feldmann"
+    },
+    {
+      "name": "Harry Rodgers"
+    },
+    {
+      "name": "Rob JJ Floyd"
+    },
+    {
+      "name": "Sheldon Rodgers"
+    },
+    {
+      "name": "Lisa Blundell"
+    },
+    {
+      "name": "Don Rodgers"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1728256679478,
+      "content": "You left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tammy Lemire",
+      "timestamp_ms": 1728236117839,
+      "content": "Tammy Lemire left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728233445048,
+      "content": "Exactly  lynne",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lynne Rodgers Dyment",
+      "timestamp_ms": 1728233207561,
+      "content": "I think it was originally meant to be a siblings group as then each of them could spread the news to their own children.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Dyment",
+      "timestamp_ms": 1728232375209,
+      "content": "Kelly Dyment left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ron Holmes",
+      "timestamp_ms": 1728232112809,
+      "content": "Ron Holmes left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728231777196,
+      "content": "Lynn i have a big bag of mushrooms in my freezer. Would love it if you and i could make mushroom soup while you are here. I will take them out of the freezer on the 16th, so they are defrosted.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beth Petrie",
+      "timestamp_ms": 1728231610362,
+      "content": "Beth Petrie left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tammy Lemire",
+      "timestamp_ms": 1728231375146,
+      "content": "Or maybe onky have your siblings in here and no one else     some times a group chat people arent a fan of as the phones will continually go off  unless you mute the chat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Holmes",
+      "timestamp_ms": 1728231264919,
+      "content": "Carol Holmes left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728230920787,
+      "content": "Or you just won't hear.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728230888183,
+      "content": "Will try something different i guess.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728230838479,
+      "content": "That was an ultimate  fail. Rick was trying to set up siblings  chat so he can inform everyone of my medical stuff in one spot instead  of having to write individual  emails.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gregg Tilston",
+      "timestamp_ms": 1728230803771,
+      "content": "Gregg Tilston left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gregg Tilston",
+      "timestamp_ms": 1728230726597,
+      "content": "The video call ended.",
+      "call_duration": 68,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728230659262,
+      "content": "Candice joined the video call.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gregg Tilston",
+      "timestamp_ms": 1728230575269,
+      "content": "Gregg joined the video call.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gregg Tilston",
+      "timestamp_ms": 1728230574578,
+      "content": "Gregg started a video call.",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard Mansell",
+      "timestamp_ms": 1728219787945,
+      "content": "Richard Mansell left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard Mansell",
+      "timestamp_ms": 1728219787809,
+      "content": "You and 13 others are now admins.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "EJ Jones",
+      "timestamp_ms": 1728219562098,
+      "content": "EJ Jones left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Doug Dyment",
+      "timestamp_ms": 1728190589902,
+      "content": "Doug Dyment left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gail Moore",
+      "timestamp_ms": 1728163370575,
+      "content": "Gail Moore left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Holmes",
+      "timestamp_ms": 1728163194805,
+      "content": "Carol Holmes added Ron Holmes to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Holmes",
+      "timestamp_ms": 1728163189048,
+      "content": "Carol Holmes added Michael Szoke to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728162372859,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728162298196,
+      "content": "Never mind.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rob JJ Floyd",
+      "timestamp_ms": 1728162283795,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728162216735,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728162140185,
+      "content": "Who is rob?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beth Petrie",
+      "timestamp_ms": 1728162122649,
+      "content": "That is jeff he dosent use his real name",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard Mansell",
+      "timestamp_ms": 1728162084559,
+      "content": "The guy who set this up. \nWho the grig are you??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728162076436,
+      "content": "Who is rob?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rob JJ Floyd",
+      "timestamp_ms": 1728162039877,
+      "content": "Who the f*ck is Richard?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard Mansell",
+      "timestamp_ms": 1728161886709,
+      "content": "Who the f*ck is JJ Floyd??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tammy Lemire",
+      "timestamp_ms": 1728160139706,
+      "content": "Tammy Lemire added Paul Petrie to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tammy Lemire",
+      "timestamp_ms": 1728160126339,
+      "content": "Tammy Lemire added Rob JJ Floyd and EJ Jones to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tammy Lemire",
+      "timestamp_ms": 1728160075186,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candice Mansell",
+      "timestamp_ms": 1728160029118,
+      "content": "Thank you for this rick. The whole fam damily",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rebecca Anne",
+          "timestamp": 1728161114
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richard Mansell",
+      "timestamp_ms": 1728157474779,
+      "content": "Richard named the group Rodgers family.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rodgers family",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/rodgersfamily_8336245266494108",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

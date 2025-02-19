@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Wendy GT"
+    },
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wendy GT",
+      "timestamp_ms": 1313670741407,
+      "content": "That's perfect. I knew your mom would know! Thanks, Bryn... it helps me with my studies.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1313635511119,
+      "content": "How accurate? I think I was born at 3:20am, in Ottawa. Going to see Attack the Block tonight.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wendy GT",
+      "timestamp_ms": 1313495081070,
+      "content": "Cool. I just looked at the trailer. Asked John about it, but it's not on his radar yet. Thanks for the heads up, Bryn. I hope you're well.\nI asked your mom for your birthtime a while back because I'm studying astrology (and I figured she would know these things) but she didn't get back to me. Not a lot of people know their birthtimes, unfortunately. ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1313470800131,
+      "content": "Just saw \"Bellflower\" ... most exciting film I've seen in years. Brought back memories of when films really meant something to me ...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wendy and Facebook user",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/wendyandfacebookuser_2131642923514",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

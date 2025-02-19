@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Dave DeVisser"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dave DeVisser",
+      "timestamp_ms": 1566192938267,
+      "content": "Good luck with recovery and trip back across the pacific.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave DeVisser",
+      "timestamp_ms": 1566192900194,
+      "content": "Ah yes. Recall the name now.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1566192228605,
+      "content": "beefy mountain biker",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1566192207003,
+      "content": "Henderson",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave DeVisser",
+      "timestamp_ms": 1566191879100,
+      "content": "Mark - vaguely familiar, last name?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave DeVisser",
+      "timestamp_ms": 1566191861940,
+      "content": "Sorry to hear! No worries at all, was a hectic week.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1566180817495,
+      "content": "i was visiting mark \u00e2\u0080\u00a6 ex-mfactory employee for a brief time \u00e2\u0080\u00a6 remember?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1566180790402,
+      "content": "sorry i missed you \u00e2\u0080\u00a6 my sinus infection returned and i was out of commission two days as a result, and was on vancouver island once my antibiotics kicked in",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave DeVisser",
+      "timestamp_ms": 1565710011852,
+      "content": "So cool to be in Gibson\u00e2\u0080\u0099s right now \u00e2\u0080\u0094 epic weather.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave DeVisser",
+      "timestamp_ms": 1565709982581,
+      "content": "I\u00e2\u0080\u0099m in east van, on skytrain line",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1565670063355,
+      "content": "hey! just might happen \u00e2\u0080\u00a6 i\u00e2\u0080\u0099m here for a few more days \u00e2\u0080\u00a6 where are you, exactly? i\u00e2\u0080\u0099m in gibsons \u00e2\u0080\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dave DeVisser",
+      "timestamp_ms": 1565669322240,
+      "content": "Heya! I\u00e2\u0080\u0099m in town/home this week. Would enjoy connecting for a coffee or something if you have available time.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dave DeVisser",
+  "is_still_participant": true,
+  "thread_path": "inbox/davedevisser_569879401077083",
+  "magic_words": [
+    
+  ]
+}

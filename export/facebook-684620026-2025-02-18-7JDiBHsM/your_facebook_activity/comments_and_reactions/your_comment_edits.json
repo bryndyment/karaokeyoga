@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": 1734713046,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Text",
+        "value": "Yeah, he looked better on film \u00e2\u0080\u00a6 and that one was in the early '90s after I moved back to Vancouver."
+      },
+      {
+        "label": "Caption",
+        "value": ""
+      },
+      {
+        "label": "Content state"
+      }
+    ],
+    "fbid": "4053453168208160"
+  },
+  {
+    "timestamp": 1734712773,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Text",
+        "value": "Yeah, he looked better on film \u00e2\u0080\u00a6"
+      },
+      {
+        "label": "Caption",
+        "value": ""
+      },
+      {
+        "label": "Content state"
+      }
+    ],
+    "fbid": "4053453164874827"
+  },
+  {
+    "timestamp": 1729130466,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Text",
+        "value": "I had no idea you had a BC trip in the '60s!"
+      },
+      {
+        "label": "Caption",
+        "value": ""
+      },
+      {
+        "label": "Content state"
+      }
+    ],
+    "fbid": "561416113231827"
+  },
+  {
+    "timestamp": 1729061686,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Text",
+        "value": "I had no idea you had a BC trip in the 'world 60s!"
+      },
+      {
+        "label": "Caption",
+        "value": ""
+      },
+      {
+        "label": "Content state"
+      }
+    ],
+    "fbid": "561416109898494"
+  },
+  {
+    "timestamp": 1715303576,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Text",
+        "value": "FWIW, I think there are many words in English that follow this general pattern. Verb form is two words and noun form one word. Adjective form is the same as noun form, or sometimes hyphenated. Sometimes the \"verb form\" and \"noun form\" aren't really that connected, though (e.g. \"stand by your man\" vs. \"i'm on standby\")."
+      },
+      {
+        "label": "Caption",
+        "value": ""
+      },
+      {
+        "label": "Content state"
+      }
+    ],
+    "fbid": "2577101682494935"
+  },
+  {
+    "timestamp": 1715303560,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Text",
+        "value": "FWIW, I think there are many words in English that follow this general pattern. Verb form is two words and noun form one word. Adjective form is the same as noun form, or sometime hyphenated. Sometimes the \"verb form\" and \"noun form\" aren't really that connected, though (e.g. \"stand by your man\" vs. \"i'm on standby\")."
+      },
+      {
+        "label": "Caption",
+        "value": ""
+      },
+      {
+        "label": "Content state"
+      }
+    ],
+    "fbid": "2577101462494957"
+  },
+  {
+    "timestamp": 1715303370,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Text",
+        "value": "FWIW, I think there are many words in English that follow this general pattern. Verb form is two words and noun form one word. Adjective form is hyphenated. Sometimes the \"verb form\" and \"noun form\" aren't really that connected, though (e.g. \"stand by your man\" vs. \"i'm on standby\")."
+      },
+      {
+        "label": "Caption",
+        "value": ""
+      },
+      {
+        "label": "Content state"
+      }
+    ],
+    "fbid": "2577101459161624"
+  }
+]

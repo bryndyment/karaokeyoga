@@ -1,0 +1,22 @@
+{
+  "group_membership_questions_answers_v2": {
+    "group_answers": [
+      {
+        "answers": [
+          {
+            "question": "Are you the parent/guardian of a student at KAIS International High School in Tokyo, Japan?",
+            "answer": "Yes",
+            "timestamp": 1662973270
+          },
+          {
+            "question": "What is your student's first and last name?",
+            "answer": "Mirei Dyment",
+            "timestamp": 1662973270
+          }
+        ],
+        "rules_agreement": false,
+        "group_name": "Parents of KAIS International High School"
+      }
+    ]
+  }
+}

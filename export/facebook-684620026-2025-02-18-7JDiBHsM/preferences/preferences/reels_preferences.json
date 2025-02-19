@@ -1,0 +1,22 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "You can reshare a reel to a story",
+      "value": "True"
+    },
+    {
+      "label": "Your reels can be remixed by the public",
+      "value": "False"
+    },
+    {
+      "label": "Selected languages",
+      "vec": [
+        
+      ]
+    }
+  ],
+  "fbid": "10160131874770027"
+}

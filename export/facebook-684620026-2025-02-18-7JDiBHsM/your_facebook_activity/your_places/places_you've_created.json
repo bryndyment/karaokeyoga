@@ -1,0 +1,396 @@
+{
+  "your_places_v2": [
+    {
+      "name": "Hoo Logic",
+      "address": "",
+      "url": "https://www.facebook.com/274067259114307",
+      "creation_timestamp": 1710130966
+    },
+    {
+      "name": "HOO LOGIC \u00e6\u00a0\u00aa\u00e5\u00bc\u008f\u00e4\u00bc\u009a\u00e7\u00a4\u00be",
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/377630636322572",
+      "creation_timestamp": 1545892106
+    },
+    {
+      "name": "Serhat's Cafe",
+      "coordinate": {
+        "latitude": 51.532103287532,
+        "longitude": -0.084707461800059
+      },
+      "address": "London, UK",
+      "url": "https://www.facebook.com/432759310230795",
+      "creation_timestamp": 1428148009
+    },
+    {
+      "name": "Caf\u00c3\u00a9 Yamash\u00c5\u008d",
+      "coordinate": {
+        "latitude": 35.049773516003,
+        "longitude": 135.74737637142
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/644630925660057",
+      "creation_timestamp": 1423277087
+    },
+    {
+      "name": "Kawakita Meats & Deli",
+      "coordinate": {
+        "latitude": 35.044631958008,
+        "longitude": 135.74827575684
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/1545610329019824",
+      "creation_timestamp": 1421475784
+    },
+    {
+      "name": "Indigo",
+      "coordinate": {
+        "latitude": 35.047132173975,
+        "longitude": 135.7458119305
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/538922082910852",
+      "creation_timestamp": 1419134397
+    },
+    {
+      "name": "Parc Wesselaap",
+      "coordinate": {
+        "latitude": 48.85860760953,
+        "longitude": 2.3581459209078
+      },
+      "address": "Paris, France",
+      "url": "https://www.facebook.com/495446263932732",
+      "creation_timestamp": 1408223179
+    },
+    {
+      "name": "\u00e9\u00af\u009b\u00e5\u00a3\u00bd\u00e5\u008f\u00b8",
+      "coordinate": {
+        "latitude": 35.004240070177,
+        "longitude": 135.76985384951
+      },
+      "address": "\u00e4\u00b8\u00ad\u00e4\u00ba\u00ac\u00e5\u008c\u00ba\u00e5\u009b\u009b\u00e6\u009d\u00a1\u00e6\u00b2\u00b3\u00e5\u008e\u009f\u00e7\u0094\u00ba\u00e4\u00b8\u008a\u00e3\u0083\u00ab\u00e4\u00b8\u0080\u00e7\u00ad\u008b\u00e7\u009b\u00ae\u00e6\u009d\u00b1\u00e5\u0085\u00a5\u00e3\u0083\u00ab, Kyoto-shi, Kyoto, Japan 604-8026",
+      "url": "https://www.facebook.com/787277177984026",
+      "creation_timestamp": 1406021924
+    },
+    {
+      "name": "\u00e8\u008c\u00b6\u00e6\u0088\u00bf \u00e8\u008f\u00af\u00e5\u00bf\u0083",
+      "coordinate": {
+        "latitude": 35.00385667356,
+        "longitude": 135.77262227368
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/1559029644323842",
+      "creation_timestamp": 1401527338
+    },
+    {
+      "name": "Board Walk Kyoto",
+      "coordinate": {
+        "latitude": 35.028490726869,
+        "longitude": 135.76836721984
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/1437216259862984",
+      "creation_timestamp": 1400381671
+    },
+    {
+      "name": "\u00c3\u0089cole fran\u00c3\u00a7aise d'Extr\u00c3\u00aame-Orient - EFEO Kyoto",
+      "coordinate": {
+        "latitude": 35.030769473974,
+        "longitude": 135.79124629498
+      },
+      "address": "\u00e4\u00ba\u00ac\u00e9\u0083\u00bd\u00e5\u00b8\u0082\u00e5\u00b7\u00a6\u00e4\u00ba\u00ac\u00e5\u008c\u00ba\u00e5\u008c\u0097\u00e7\u0099\u00bd\u00e5\u00b7\u009d\u00e5\u0088\u00a5\u00e5\u00bd\u0093\u00e7\u0094\u00ba\u00ef\u00bc\u0092\u00ef\u00bc\u0099, Kyoto-shi, Kyoto, Japan 606-8276",
+      "url": "https://www.facebook.com/454510961345372",
+      "creation_timestamp": 1393663447
+    },
+    {
+      "name": "Hoo Logic",
+      "coordinate": {
+        "latitude": 34.995893253912,
+        "longitude": 135.7534441156
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/746972475329196",
+      "creation_timestamp": 1383011560
+    },
+    {
+      "name": "\u00e3\u0082\u00a8\u00e3\u0083\u00b3\u00e3\u0083\u0091\u00e3\u0082\u00a4\u00e3\u0083\u00a4\u00e3\u0083\u0093\u00e3\u0083\u00ab",
+      "coordinate": {
+        "latitude": 35.010181088033,
+        "longitude": 135.77043972922
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/650037321695112",
+      "creation_timestamp": 1382101630
+    },
+    {
+      "name": "\u00e6\u0096\u00b0\u00e5\u00a4\u00a7\u00e5\u00ae\u00ae\u00e5\u0095\u0086\u00e5\u00ba\u0097\u00e8\u00a1\u0097",
+      "coordinate": {
+        "latitude": 35.045153450758,
+        "longitude": 135.74857745975
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/424640824304876",
+      "creation_timestamp": 1381817199
+    },
+    {
+      "name": "\u00e3\u0083\u0099\u00e3\u0083\u00ab\u00e3\u0083\u009e\u00e3\u0083\u00bc\u00e6\u00a8\u00b9",
+      "coordinate": {
+        "latitude": 34.576934493202,
+        "longitude": 135.49604866082
+      },
+      "address": "Sakai-shi, Osaka, Japan",
+      "url": "https://www.facebook.com/587919207913736",
+      "creation_timestamp": 1379302160
+    },
+    {
+      "name": "441 Waller",
+      "coordinate": {
+        "latitude": 37.771029,
+        "longitude": -122.430934
+      },
+      "address": "San Francisco, CA",
+      "url": "https://www.facebook.com/446878168761675",
+      "creation_timestamp": 1379129787
+    },
+    {
+      "name": "Coffee Shop Well",
+      "coordinate": {
+        "latitude": 35.049197548102,
+        "longitude": 135.75141599414
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/1392447887642862",
+      "creation_timestamp": 1374453694
+    },
+    {
+      "name": "\u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e3\u0083\u00a0\u00e3\u0083\u00a9\u00e3\u0082\u00a4\u00e3\u0083\u00b3",
+      "coordinate": {
+        "latitude": 35.044659,
+        "longitude": 135.748248
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/460615870701868",
+      "creation_timestamp": 1373876302
+    },
+    {
+      "name": "\u00e9\u0096\u0080\u00e8\u0084\u0087\u00e3\u0083\u0093\u00e3\u0083\u00ab",
+      "coordinate": {
+        "latitude": 35.044785474424,
+        "longitude": 135.74873160305
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/380967052003863",
+      "creation_timestamp": 1372916343
+    },
+    {
+      "name": "Flotation",
+      "coordinate": {
+        "latitude": 34.996094,
+        "longitude": 135.753316
+      },
+      "address": "Kyoto-shi, Kyoto, Japan 600-8332",
+      "url": "https://www.facebook.com/142128389324214",
+      "creation_timestamp": 1372896005
+    },
+    {
+      "name": "\u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e3\u0083\u00a0\u00e3\u0083\u00a9\u00e3\u0082\u00a4\u00e3\u0083\u00b3",
+      "coordinate": {
+        "latitude": 35.04458,
+        "longitude": 135.748245
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/146331262229717",
+      "creation_timestamp": 1372714827
+    },
+    {
+      "name": "\u00e5\u00a4\u0096\u00e5\u009b\u00bd\u00e8\u0088\u00b9",
+      "coordinate": {
+        "latitude": 34.7198219461,
+        "longitude": 135.483246668
+      },
+      "address": "Osaka, Japan",
+      "url": "https://www.facebook.com/184045571763022",
+      "creation_timestamp": 1372641498
+    },
+    {
+      "name": "441 Waller",
+      "coordinate": {
+        "latitude": 37.771022761352,
+        "longitude": -122.43097362037
+      },
+      "address": "San Francisco, CA",
+      "url": "https://www.facebook.com/163699557125516",
+      "creation_timestamp": 1367681487
+    },
+    {
+      "name": "Barnaby Gunning Architects",
+      "coordinate": {
+        "latitude": 51.53652,
+        "longitude": -0.17864
+      },
+      "address": "London, UK",
+      "url": "https://www.facebook.com/513283732048383",
+      "creation_timestamp": 1360837160
+    },
+    {
+      "name": "Valencia's Market",
+      "coordinate": {
+        "latitude": 37.41957,
+        "longitude": -122.13461
+      },
+      "address": "Palo Alto, CA",
+      "url": "https://www.facebook.com/367586543339675",
+      "creation_timestamp": 1358972519
+    },
+    {
+      "name": "53 Aldwych",
+      "coordinate": {
+        "latitude": 43.684285031,
+        "longitude": -79.343702508
+      },
+      "address": "Toronto, ON, Canada",
+      "url": "https://www.facebook.com/565088520173261",
+      "creation_timestamp": 1356065355
+    },
+    {
+      "name": "\u00e3\u0081\u0095\u00e3\u0082\u0089",
+      "coordinate": {
+        "latitude": 35.0465480018,
+        "longitude": 135.754617474
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/547812068582302",
+      "creation_timestamp": 1355908502
+    },
+    {
+      "name": "\u00e3\u0081\u0086\u00e3\u0081\u009f\u00e3\u0081\u008b\u00e3\u0081\u009f",
+      "coordinate": {
+        "latitude": 35.046173307555,
+        "longitude": 135.73902611033
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/529982267029723",
+      "creation_timestamp": 1353845953
+    },
+    {
+      "name": "\u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e3\u0083\u00a0\u00e3\u0083\u00a9\u00e3\u0082\u00a4\u00e3\u0083\u00b3",
+      "coordinate": {
+        "latitude": 35.044618910124,
+        "longitude": 135.74825003343
+      },
+      "address": "Kyoto-shi, Kyoto, Japan 603-8217",
+      "url": "https://www.facebook.com/450294608361535",
+      "creation_timestamp": 1353624552
+    },
+    {
+      "name": "\u00e9\u00ae\u00a8\u00e4\u00b8\u0089\u00e4\u00b8\u00ad\u00e8\u00a5\u00bf",
+      "coordinate": {
+        "latitude": 35.00268706,
+        "longitude": 135.756690735
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/115345741888596",
+      "creation_timestamp": 1309403864
+    },
+    {
+      "name": "\u00e3\u0081\u008f\u00e3\u0081\u0095\u00e3\u0082\u0080\u00e3\u0082\u0089\u00e3\u0081\u00b0\u00e3\u0081\u0097",
+      "coordinate": {
+        "latitude": 35.2046756833,
+        "longitude": 135.7475993
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/181761198548922",
+      "creation_timestamp": 1308171600
+    },
+    {
+      "name": "\u00e6\u00b5\u00aa\u00e8\u008a\u00b1\u00e4\u00ba\u00ad",
+      "coordinate": {
+        "latitude": 34.576015208899,
+        "longitude": 135.47323286533
+      },
+      "address": "\u00e5\u00a0\u00ba\u00e5\u008c\u00ba\u00e5\u00a4\u00a7\u00e7\u0094\u00ba\u00e6\u009d\u00b12\u00e4\u00b8\u00811-7, Sakai-shi, Osaka, Japan 590-0954",
+      "url": "https://www.facebook.com/105612779526630",
+      "creation_timestamp": 1304225941
+    },
+    {
+      "name": "\u00e9\u0083\u00b7\u00e7\u0094\u00b0\u00e5\u0095\u0086\u00e5\u00ba\u0097",
+      "coordinate": {
+        "latitude": 34.575307380147,
+        "longitude": 135.47764783739
+      },
+      "address": "Sakai-shi, Osaka, Japan",
+      "url": "https://www.facebook.com/128250340583633",
+      "creation_timestamp": 1304214854
+    },
+    {
+      "name": "\u00e5\u00af\u00bf\u00e6\u00a0\u0084\u00e5\u00b1\u008b",
+      "coordinate": {
+        "latitude": 35.00031159718,
+        "longitude": 135.77940712501
+      },
+      "address": "Kyoto-shi, Kyoto, Japan 605-0825",
+      "url": "https://www.facebook.com/187561024588857",
+      "creation_timestamp": 1293666733
+    },
+    {
+      "name": "La Table de Thierry",
+      "coordinate": {
+        "latitude": 35.00878735,
+        "longitude": 135.770961817
+      },
+      "address": "Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/180480271975926",
+      "creation_timestamp": 1293621632
+    },
+    {
+      "name": "Le Petit Mec",
+      "coordinate": {
+        "latitude": 35.029978,
+        "longitude": 135.748057
+      },
+      "address": "\u00e4\u00b8\u008a\u00e4\u00ba\u00ac\u00e5\u008c\u00ba\u00e4\u00bb\u008a\u00e5\u0087\u00ba\u00e5\u00b7\u009d\u00e9\u0080\u009a\u00e5\u00a4\u00a7\u00e5\u00ae\u00ae\u00e8\u00a5\u00bf\u00e5\u0085\u00a5\u00e5\u0085\u0083\u00e5\u008c\u0097\u00e5\u00b0\u008f\u00e8\u00b7\u00af\u00e7\u0094\u00ba159, Kyoto-shi, Kyoto, Japan 602-8448",
+      "url": "https://www.facebook.com/175415372489872",
+      "creation_timestamp": 1293344945
+    },
+    {
+      "name": "\u00e6\u0098\u009f\u00e3\u0081\u00ae\u00e5\u00ad\u0090\u00e3\u0082\u00b9\u00e3\u0082\u00a4\u00e3\u0083\u009f\u00e3\u0083\u00b3\u00e3\u0082\u00b0\u00e3\u0082\u00b9\u00e3\u0082\u00af\u00e3\u0083\u00bc\u00e3\u0083\u00ab",
+      "coordinate": {
+        "latitude": 35.025027072964,
+        "longitude": 135.74658509933
+      },
+      "address": "\u00e4\u00b8\u008a\u00e4\u00ba\u00ac\u00e5\u008c\u00ba\u00e4\u00b8\u00ad\u00e7\u00ab\u008b\u00e5\u00a3\u00b2\u00e6\u0099\u00ba\u00e6\u0081\u00b5\u00e5\u0085\u0089\u00e9\u0099\u00a2\u00e8\u00a3\u008f\u00e9\u0096\u0080\u00e6\u009d\u00b1\u00e5\u0085\u00a5\u00e5\u00a4\u009a\u00e9\u0096\u0080434, Kyoto-shi, Kyoto, Japan",
+      "url": "https://www.facebook.com/162899677087563",
+      "creation_timestamp": 1292651834
+    },
+    {
+      "name": "Mister Donut",
+      "coordinate": {
+        "latitude": 34.577182925714,
+        "longitude": 135.49800535143
+      },
+      "address": "Sakai-shi, Osaka, Japan",
+      "url": "https://www.facebook.com/162609230439305",
+      "creation_timestamp": 1289082429
+    },
+    {
+      "name": "Progress Financial",
+      "coordinate": {
+        "latitude": 37.402747666667,
+        "longitude": -122.05089411667
+      },
+      "address": "Mountain View, CA 94043",
+      "url": "https://www.facebook.com/149338541773925",
+      "creation_timestamp": 1286402904
+    },
+    {
+      "name": "Tello",
+      "coordinate": {
+        "latitude": 37.44705,
+        "longitude": -122.16141
+      },
+      "address": "Palo Alto, CA",
+      "url": "https://www.facebook.com/102473329813959",
+      "creation_timestamp": 1282752684
+    }
+  ]
+}

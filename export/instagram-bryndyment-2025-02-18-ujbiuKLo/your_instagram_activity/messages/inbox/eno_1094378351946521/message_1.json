@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Eno"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1695450187219,
+      "content": "saw this and thought of you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1695450177653,
+      "content": "https://youtu.be/VkCg-3nxT8E",
+      "share": {
+        "link": "https://youtu.be/VkCg-3nxT8E"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eno",
+  "is_still_participant": true,
+  "thread_path": "inbox/eno_1094378351946521",
+  "magic_words": [
+    
+  ]
+}

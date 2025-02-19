@@ -1,0 +1,926 @@
+[
+  {
+    "timestamp": 1477062866,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 980640415351400"
+      },
+      {
+        "label": "Click type",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "980640415351400:684620026:pri"
+  },
+  {
+    "timestamp": 1585799749,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 593900557843504"
+      },
+      {
+        "label": "Click type",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "593900557843504:684620026:pri"
+  },
+  {
+    "timestamp": 1547095257,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 518562675257330"
+      },
+      {
+        "label": "Click type",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Count",
+        "value": "13"
+      }
+    ],
+    "fbid": "518562675257330:684620026:pri"
+  },
+  {
+    "timestamp": 1549150062,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 167157967396314"
+      },
+      {
+        "label": "Click type",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Count",
+        "value": "11"
+      }
+    ],
+    "fbid": "167157967396314:684620026:pri"
+  },
+  {
+    "timestamp": 1630168040,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 866209250590366"
+      },
+      {
+        "label": "Click type",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "866209250590366:684620026:pri"
+  },
+  {
+    "timestamp": 1653158716,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 225109458606926"
+      },
+      {
+        "label": "Click type",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "225109458606926:684620026:pri"
+  },
+  {
+    "timestamp": 1669079294,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Some profile info is going away soon"
+      },
+      {
+        "label": "Click type",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "5481418628639503:684620026:pri"
+  },
+  {
+    "timestamp": 1721313068,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 1105997544112022"
+      },
+      {
+        "label": "Click type",
+        "value": "Primary Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "1105997544112022:684620026:pri"
+  },
+  {
+    "timestamp": 1472114702,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Bryn, log in to Facebook on Safari with just one tap?"
+      },
+      {
+        "label": "Click type",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "831586630252170:684620026:sec"
+  },
+  {
+    "timestamp": 1549495994,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 167157967396314"
+      },
+      {
+        "label": "Click type",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Count",
+        "value": "31"
+      }
+    ],
+    "fbid": "167157967396314:684620026:sec"
+  },
+  {
+    "timestamp": 1612659102,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "New! Try Messenger for Desktop"
+      },
+      {
+        "label": "Click type",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Count",
+        "value": "3"
+      }
+    ],
+    "fbid": "667865960783047:684620026:sec"
+  },
+  {
+    "timestamp": 1591866240,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Bryn, Take a COVID-19 Survey, Even if You Feel Well"
+      },
+      {
+        "label": "Click type",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Count",
+        "value": "2"
+      }
+    ],
+    "fbid": "842595279483672:684620026:sec"
+  },
+  {
+    "timestamp": 1601073866,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "dummy title"
+      },
+      {
+        "label": "Click type",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Count",
+        "value": "2"
+      }
+    ],
+    "fbid": "1740026096123487:684620026:sec"
+  },
+  {
+    "timestamp": 1620016746,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Get Messenger for Mac"
+      },
+      {
+        "label": "Click type",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Count",
+        "value": "3"
+      }
+    ],
+    "fbid": "948740919261816:684620026:sec"
+  },
+  {
+    "timestamp": 1648855375,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Do you want to update your phone number?"
+      },
+      {
+        "label": "Click type",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Count",
+        "value": "2"
+      }
+    ],
+    "fbid": "377085840795991:684620026:sec"
+  },
+  {
+    "timestamp": 1618441674,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 225109458606926"
+      },
+      {
+        "label": "Click type",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Count",
+        "value": "4"
+      }
+    ],
+    "fbid": "225109458606926:684620026:sec"
+  },
+  {
+    "timestamp": 1731376450,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "We're updating our Terms and Community Standards"
+      },
+      {
+        "label": "Click type",
+        "value": "Secondary Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "516450804606661:684620026:sec"
+  },
+  {
+    "timestamp": 0,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Dummy Tooltip Title for Migration. NOT used in PROD"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "966791261377660:684620026:dis"
+  },
+  {
+    "timestamp": 0,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Dummy Tooltip Title for Migration. NOT used in PROD"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "1385924442213754:684620026:dis"
+  },
+  {
+    "timestamp": 0,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Dummy Tooltip Title for Migration. NOT used in PROD"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "3302189366663964:684620026:dis"
+  },
+  {
+    "timestamp": 1468071304,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 676324182494834"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "3"
+      }
+    ],
+    "fbid": "676324182494834:684620026:dis"
+  },
+  {
+    "timestamp": 1464622347,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "[FB-only] Your Friends Are Waiting"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "2"
+      }
+    ],
+    "fbid": "900516886656469:684620026:dis"
+  },
+  {
+    "timestamp": 1499485037,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 980640415351400"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "980640415351400:684620026:dis"
+  },
+  {
+    "timestamp": 1560254756,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "dummy title"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "1740026096123487:684620026:dis"
+  },
+  {
+    "timestamp": 1509755104,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 1811364285542140"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "8"
+      }
+    ],
+    "fbid": "1811364285542140:684620026:dis"
+  },
+  {
+    "timestamp": 1609640199,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Some Features Not Available"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "836818600404630:684620026:dis"
+  },
+  {
+    "timestamp": 1614132422,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 1181990766002720"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "1181990766002720:684620026:dis"
+  },
+  {
+    "timestamp": 1614473507,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 795875141498916"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "795875141498916:684620026:dis"
+  },
+  {
+    "timestamp": 1626994606,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Get the full Messenger experience"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "3249045011864288:684620026:dis"
+  },
+  {
+    "timestamp": 1630168081,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 866209250590366"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "866209250590366:684620026:dis"
+  },
+  {
+    "timestamp": 1639250627,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "dummy title"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "2"
+      }
+    ],
+    "fbid": "251149372732681:684620026:dis"
+  },
+  {
+    "timestamp": 1647117657,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 430196749067102"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "430196749067102:684620026:dis"
+  },
+  {
+    "timestamp": 1609943226,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Bryn, Take a COVID-19 Survey, Even if You Feel Well"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "2"
+      }
+    ],
+    "fbid": "842595279483672:684620026:dis"
+  },
+  {
+    "timestamp": 1648583426,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 969423417351563"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "969423417351563:684620026:dis"
+  },
+  {
+    "timestamp": 1664327462,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "Dummy Tooltip Title for Migration. NOT used in PROD"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "2037973613066739:684620026:dis"
+  },
+  {
+    "timestamp": 1668054164,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 1559485157438515"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "2"
+      }
+    ],
+    "fbid": "1559485157438515:684620026:dis"
+  },
+  {
+    "timestamp": 1670493752,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 842281410372725"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "842281410372725:684620026:dis"
+  },
+  {
+    "timestamp": 1670493752,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 1633226283746385"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "1633226283746385:684620026:dis"
+  },
+  {
+    "timestamp": 1670493752,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 6212250005454627"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "6212250005454627:684620026:dis"
+  },
+  {
+    "timestamp": 0,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 1155109385211899"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "2"
+      }
+    ],
+    "fbid": "1155109385211899:684620026:dis"
+  },
+  {
+    "timestamp": 1688324172,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 1779244495790910"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "2"
+      }
+    ],
+    "fbid": "1779244495790910:684620026:dis"
+  },
+  {
+    "timestamp": 1711432863,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "In-app Message 498558827654472"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "3"
+      }
+    ],
+    "fbid": "498558827654472:684620026:dis"
+  },
+  {
+    "timestamp": 1731160426,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "We're updating our Terms and Community Standards"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "1515659462411706:684620026:dis"
+  },
+  {
+    "timestamp": 1731376450,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Message",
+        "value": "We're updating our Terms and Community Standards"
+      },
+      {
+        "label": "Click type",
+        "value": "Dismiss Click"
+      },
+      {
+        "label": "Count",
+        "value": "1"
+      }
+    ],
+    "fbid": "516450804606661:684620026:dis"
+  }
+]

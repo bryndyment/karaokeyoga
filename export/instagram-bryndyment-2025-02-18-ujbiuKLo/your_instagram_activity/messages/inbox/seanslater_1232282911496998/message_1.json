@@ -1,0 +1,161 @@
+{
+  "participants": [
+    {
+      "name": "Sean Slater"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sean Slater",
+      "timestamp_ms": 1731900654728,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00f0\u009f\u0098\u0086\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1731882998267,
+      "content": "omiyage from Taiwan!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Sean Slater",
+          "timestamp": 1731900654
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean Slater",
+      "timestamp_ms": 1731871840448,
+      "content": "Huh. Any decent?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Bryn Dyment",
+          "timestamp": 1731883002
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/3503327103427318080"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean Slater",
+      "timestamp_ms": 1704608107288,
+      "content": "Love it!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean Slater",
+      "timestamp_ms": 1704608103612,
+      "content": "\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0083\u00a1\u00e3\u0083\u0083\u00e3\u0082\u00bb\u00e3\u0083\u00bc\u00e3\u0082\u00b8\u00e3\u0080\u008c\u00e3\u0080\u008d\u00e3\u0081\u00ab\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e3\u0081\u00a7\u00e3\u0083\u00aa\u00e3\u0082\u00a2\u00e3\u0082\u00af\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1704607486929,
+      "content": "teaching the wifey",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Sean Slater",
+          "timestamp": 1704608103
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1704607474109,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/seanslater_1232282911496998/photos/412900828_24562013740110224_5338428419520123674_n_24562013730110225.jpg",
+          "creation_timestamp": 1704607473
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean Slater",
+      "timestamp_ms": 1704604974503,
+      "content": "In the boots, no less!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u00a2",
+          "actor": "Bryn Dyment",
+          "timestamp": 1704607446
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/3274706718365109137"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean Slater",
+      "timestamp_ms": 1704604955239,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/bryndyment/3274706718365109137"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean Slater",
+      "timestamp_ms": 1697588910541,
+      "content": "Stranger things have happened. I always wonder where these photos came from, in the first place.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1697588814485,
+      "content": "i don't know who runs it but there is a lot of Japanese-American stuff on there, so I'm guessing he's \u00e2\u0080\u00a6 Japanese-American?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sean Slater",
+      "timestamp_ms": 1697586802477,
+      "content": "You are correct! I do like this account.\n\nThanks for putting it on my radar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1697583274509,
+      "content": "you might like this account",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1697583269587,
+      "content": "https://www.instagram.com/rivet_head_com/",
+      "share": {
+        "link": "https://www.instagram.com/rivet_head_com/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sean Slater",
+  "is_still_participant": true,
+  "thread_path": "inbox/seanslater_1232282911496998",
+  "magic_words": [
+    
+  ]
+}

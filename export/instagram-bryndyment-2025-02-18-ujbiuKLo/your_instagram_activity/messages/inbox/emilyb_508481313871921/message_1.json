@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Emily B"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1594942270008,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emily B",
+  "is_still_participant": true,
+  "thread_path": "inbox/emilyb_508481313871921",
+  "magic_words": [
+    
+  ]
+}

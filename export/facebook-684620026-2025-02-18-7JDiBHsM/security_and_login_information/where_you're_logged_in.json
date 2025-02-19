@@ -1,0 +1,417 @@
+{
+  "active_sessions_v2": [
+    {
+      "created_timestamp": 1731160293,
+      "updated_timestamp": 1739863322,
+      "ip_address": "103.5.140.176",
+      "user_agent": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/494.0.0.52.98;FBBV/696628843;FBDV/iPhone14,4;FBMD/iPhone;FBSN/iOS;FBSV/18.3.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/0]",
+      "datr_cookie": "5Wgv********************",
+      "device": "iPhone 13 mini",
+      "location": "Shibuya-ku, Tokyo, Japan",
+      "app": "Messenger for iOS",
+      "session_type": "messenger_lite_for_ios"
+    },
+    {
+      "created_timestamp": 1715478243,
+      "updated_timestamp": 1739856363,
+      "ip_address": "103.5.140.129",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+      "datr_cookie": "VB5A********************",
+      "device": "Mac",
+      "location": "Shibuya-ku, Tokyo, Japan",
+      "app": "Chrome",
+      "session_type": "web"
+    },
+    {
+      "created_timestamp": 1738915120,
+      "updated_timestamp": 1739311672,
+      "ip_address": "60.69.187.71",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/133.0.6943.33 Mobile/15E148 Safari/604.1 [FBAN/LiteForWeb;FBBV/2733;FBAV/446.0.0.0.31;FBDV/unknown;FBLC/en_US;FBNG/WIFI;FBMNT/NOT_METERED;FBDM/{density=3.0};FBIMP/0poS4xKJAC3cG7JiZ;FBWLSV/0]",
+      "datr_cookie": "9byl********************",
+      "device": "iPhone",
+      "location": "Noda-shi, Chiba, Japan",
+      "app": "Chrome for iOS",
+      "session_type": "mobile_web"
+    },
+    {
+      "created_timestamp": 1736286660,
+      "updated_timestamp": 1738486598,
+      "ip_address": "103.5.140.142",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+      "datr_cookie": "uaF9********************",
+      "device": "Device type unknown",
+      "location": "Shibuya-ku, Tokyo, Japan",
+      "app": "Messenger",
+      "session_type": "messenger"
+    },
+    {
+      "created_timestamp": 1700720444,
+      "updated_timestamp": 1735593247,
+      "ip_address": "24.207.98.181",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "datr_cookie": "IGFw********************",
+      "device": "Mac",
+      "location": "Gibsons, BC, Canada",
+      "app": "Chrome",
+      "session_type": "web"
+    },
+    {
+      "created_timestamp": 1729939826,
+      "updated_timestamp": 1734579867,
+      "ip_address": "24.207.103.131",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/131.0.6778.134 Mobile/15E148 Safari/604.1 [FBAN/LiteForWeb;FBBV/2691;FBAV/438.0.0.0.29;FBDV/unknown;FBLC/en_US;FBNG/WIFI;FBMNT/NOT_METERED;FBDM/{density=3.0};FBIMP/0w3oXtFBQgO2U3yjl;FBWLSV/0]",
+      "datr_cookie": "5c8D********************",
+      "device": "iPhone",
+      "location": "Gibsons, BC, Canada",
+      "app": "Chrome for iOS",
+      "session_type": "mobile_web"
+    },
+    {
+      "created_timestamp": 1731376418,
+      "ip_address": "180.33.105.125",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+      "datr_cookie": "HbUy********************",
+      "device": "Device type unknown",
+      "location": "Kyoto-shi, Kyoto, Japan",
+      "app": "Messenger",
+      "session_type": "messenger"
+    },
+    {
+      "created_timestamp": 1730609073,
+      "ip_address": "153.233.23.92",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/130.0.6723.90 Mobile/15E148 Safari/604.1",
+      "datr_cookie": "5c8D********************",
+      "device": "iPhone 13 mini",
+      "location": "Arakawa-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1730270776,
+      "ip_address": "124.85.217.229",
+      "user_agent": "Instagram 355.0.0.34.91 (iPhone14,4; iOS 18_0_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 656616803) AppleWebKit/420+",
+      "datr_cookie": "ONYh********************",
+      "device": "iPhone 13 mini",
+      "location": "Shibuya-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1698743153,
+      "updated_timestamp": 1730270775,
+      "ip_address": "124.85.217.229",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Mobile/15E148 Safari/604.1",
+      "datr_cookie": "5X0B********************",
+      "device": "iPhone",
+      "location": "Shibuya-ku, Tokyo, Japan",
+      "app": "Mobile Safari",
+      "session_type": "mobile_web"
+    },
+    {
+      "created_timestamp": 1729284505,
+      "ip_address": "60.67.62.158",
+      "user_agent": "Instagram 353.1.0.38.80 (iPhone14,4; iOS 17_6_1; en_US@rg=gbzzzz; en-US; scale=3.00; 1125x2436; 653442236) AppleWebKit/420+",
+      "datr_cookie": "mMkS********************",
+      "device": "iPhone 13 mini",
+      "location": "Tama-shi, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1728384623,
+      "ip_address": "126.74.158.131",
+      "user_agent": "Instagram 352.0.0.34.89 (iPhone14,4; iOS 17_6_1; en_US@rg=gbzzzz; en-US; scale=3.00; 1125x2436; 649149880) AppleWebKit/420+",
+      "datr_cookie": "bw4F********************",
+      "device": "iPhone 13 mini",
+      "location": "Koto-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1727930576,
+      "ip_address": "126.65.242.161",
+      "user_agent": "Instagram 351.0.1.35.98 (iPhone14,4; iOS 17_6_1; en_US@rg=gbzzzz; en-US; scale=3.00; 1125x2436; 647722782) AppleWebKit/420+",
+      "datr_cookie": "0CD-********************",
+      "device": "iPhone 13 mini",
+      "location": "Sumida-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1727596090,
+      "ip_address": "126.114.144.185",
+      "user_agent": "Instagram 350.0.12.33.76 (iPhone14,4; iOS 17_6_1; en_US@rg=gbzzzz; en-US; scale=3.00; 1125x2436; 644448061) AppleWebKit/420+",
+      "datr_cookie": "Ogb5********************",
+      "device": "iPhone 13 mini",
+      "location": "Setagaya-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1724594743,
+      "ip_address": "221.103.193.43",
+      "user_agent": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/472.0.0.37.104;FBBV/634260445;FBDV/iPhone14,4;FBMD/iPhone;FBSN/iOS;FBSV/17.5.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/0]",
+      "datr_cookie": "paXI********************",
+      "device": "iPhone 13 mini",
+      "location": "Setagaya-ku, Tokyo, Japan",
+      "app": "Messenger for iOS",
+      "session_type": "messenger_lite_for_ios"
+    },
+    {
+      "created_timestamp": 1721313058,
+      "updated_timestamp": 1724425637,
+      "ip_address": "126.94.124.166",
+      "user_agent": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/472.0.0.37.104;FBBV/634260445;FBDV/iPhone14,4;FBMD/iPhone;FBSN/iOS;FBSV/17.5.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/0]",
+      "datr_cookie": "CdP5********************",
+      "device": "iPhone 13 mini",
+      "location": "Shinagawa-ku, Tokyo, Japan",
+      "app": "Facebook app",
+      "session_type": "iphone"
+    },
+    {
+      "created_timestamp": 1721303470,
+      "updated_timestamp": 1724336683,
+      "ip_address": "49.231.199.140",
+      "user_agent": "LightSpeed [FBAN/MessengerLiteForiOS;FBAV/471.0.0.27.107;FBBV/632147304;FBDV/iPhone14,4;FBMD/iPhone;FBSN/iOS;FBSV/17.5.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/0]",
+      "datr_cookie": "CdP5********************",
+      "device": "iPhone 13 mini",
+      "location": "Ka Rorn, Thailand",
+      "app": "Messenger for iOS",
+      "session_type": "messenger_lite_for_ios"
+    },
+    {
+      "created_timestamp": 1723245852,
+      "ip_address": "119.169.131.118",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0",
+      "datr_cookie": "_KS2********************",
+      "device": "Device type unknown",
+      "location": "Kyoto-shi, Kyoto, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1723245846,
+      "ip_address": "119.169.131.118",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0",
+      "datr_cookie": "_KS2********************",
+      "device": "Mac",
+      "location": "Kyoto-shi, Kyoto, Japan",
+      "app": "Firefox",
+      "session_type": "web"
+    },
+    {
+      "created_timestamp": 1723244303,
+      "ip_address": "119.169.131.118",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0",
+      "datr_cookie": "q562********************",
+      "device": "Device type unknown",
+      "location": "Kyoto-shi, Kyoto, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1723244295,
+      "ip_address": "119.169.131.118",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0",
+      "datr_cookie": "q562********************",
+      "device": "Mac",
+      "location": "Kyoto-shi, Kyoto, Japan",
+      "app": "Firefox",
+      "session_type": "web"
+    },
+    {
+      "created_timestamp": 1720321378,
+      "ip_address": "126.51.171.245",
+      "user_agent": "Instagram 338.1.0.26.94 (iPhone14,4; iOS 17_5_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 619194585) AppleWebKit/420+",
+      "datr_cookie": "YQWK********************",
+      "device": "iPhone 13 mini",
+      "location": "Meguro-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1720249215,
+      "ip_address": "126.51.171.245",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+      "datr_cookie": "cOuI********************",
+      "device": "Device type unknown",
+      "location": "Meguro-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1720249213,
+      "ip_address": "126.51.171.245",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+      "datr_cookie": "cOuI********************",
+      "device": "Mac",
+      "location": "Meguro-ku, Tokyo, Japan",
+      "app": "Chrome",
+      "session_type": "web"
+    },
+    {
+      "created_timestamp": 1718400065,
+      "updated_timestamp": 1719456261,
+      "ip_address": "126.51.78.150",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/126.0.6478.108 Mobile/15E148 Safari/604.1 [FBAN/LiteForWeb;FBBV/2542;FBAV/414.0.0.0.93;FBDV/unknown;FBLC/en_US;FBNG/WIFI;FBMNT/NOT_METERED;FBDM/{density=3.0};FBIMP/0qxe5tHn880t19PsF;FBWLSV/0]",
+      "datr_cookie": "N7Rs********************",
+      "device": "iPhone",
+      "location": "Sumida-ku, Tokyo, Japan",
+      "app": "Chrome for iOS",
+      "session_type": "mobile_web"
+    },
+    {
+      "created_timestamp": 1718497221,
+      "ip_address": "126.72.102.199",
+      "user_agent": "Instagram 335.1.8.26.85 (iPhone14,4; iOS 17_5_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 609775437) AppleWebKit/420+",
+      "datr_cookie": "xS9u********************",
+      "device": "iPhone 13 mini",
+      "location": "Chuo-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1717104544,
+      "ip_address": "126.114.113.27",
+      "user_agent": "Instagram 333.1.4.32.95 (iPhone14,4; iOS 17_4_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 604797909) AppleWebKit/420+",
+      "datr_cookie": "oO9Y********************",
+      "device": "iPhone 13 mini",
+      "location": "Musashimurayama-shi, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1676511897,
+      "updated_timestamp": 1715463571,
+      "ip_address": "126.227.129.200",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "datr_cookie": "1e78********************",
+      "device": "Mac",
+      "location": "Shibuya-ku, Tokyo, Japan",
+      "app": "Chrome",
+      "session_type": "web"
+    },
+    {
+      "created_timestamp": 1714818818,
+      "ip_address": "220.254.167.157",
+      "user_agent": "Instagram 329.0.6.27.88 (iPhone14,4; iOS 17_4_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 593314425) AppleWebKit/420+",
+      "datr_cookie": "Ag82********************",
+      "device": "iPhone 13 mini",
+      "location": "Nagano-shi, Nagano, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1714775183,
+      "updated_timestamp": 1714780490,
+      "ip_address": "220.254.167.157",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124.0.6367.88 Mobile/15E148 Safari/604.1",
+      "datr_cookie": "f2Q1********************",
+      "device": "iPhone",
+      "location": "Nagano-shi, Nagano, Japan",
+      "app": "Chrome for iOS",
+      "session_type": "mobile_web"
+    },
+    {
+      "created_timestamp": 1713604592,
+      "ip_address": "126.51.223.224",
+      "user_agent": "Instagram 327.1.6.30.88 (iPhone14,4; iOS 17_4_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 588348860) AppleWebKit/420+",
+      "datr_cookie": "8Icj********************",
+      "device": "iPhone 13 mini",
+      "location": "Bunkyo-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1712541344,
+      "ip_address": "126.51.111.118",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/123.0.6312.52 Mobile/15E148 Safari/604.1",
+      "datr_cookie": "-Tnu********************",
+      "device": "iPhone 13 mini",
+      "location": "Fuchu, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1710111242,
+      "updated_timestamp": 1712405858,
+      "ip_address": "126.99.230.207",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) [FBAN/LiteForWeb;FBBV/2458;FBAV/403.0.0.0.6;FBDV/unknown;FBLC/en_US;FBNG/UNKNOWN;FBMNT/METERED;FBDM/{density=3.0};FBIMP/06WOu2Zh8DFbFdj8B;FBWLSV/0]",
+      "datr_cookie": "-Tnu********************",
+      "device": "iPhone",
+      "location": "Adachi-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "mobile_web"
+    },
+    {
+      "created_timestamp": 1711526255,
+      "ip_address": "60.71.141.49",
+      "user_agent": "Instagram 324.0.4.26.52 (iPhone14,4; iOS 17_3_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 580117525) AppleWebKit/420+",
+      "datr_cookie": "b9ED********************",
+      "device": "iPhone 13 mini",
+      "location": "Sumida-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1711271922,
+      "ip_address": "60.71.141.49",
+      "user_agent": "Instagram 323.0.3.23.54 (iPhone14,4; iOS 17_3_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 577210397) AppleWebKit/420+",
+      "datr_cookie": "8u__********************",
+      "device": "iPhone 13 mini",
+      "location": "Sumida-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1711180645,
+      "ip_address": "114.163.199.115",
+      "user_agent": "Instagram 323.0.3.23.54 (iPhone14,4; iOS 17_3_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 577210397) AppleWebKit/420+",
+      "datr_cookie": "ZYv-********************",
+      "device": "iPhone 13 mini",
+      "location": "Nerima-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1710755109,
+      "ip_address": "126.126.109.142",
+      "user_agent": "Instagram 322.1.1.25.88 (iPhone14,4; iOS 17_3_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 575967800) AppleWebKit/420+",
+      "datr_cookie": "JQ34********************",
+      "device": "iPhone 13 mini",
+      "location": "Meguro-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1710150695,
+      "ip_address": "126.227.160.234",
+      "user_agent": "Instagram 321.0.2.24.105 (iPhone14,4; iOS 17_3_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 572181444) AppleWebKit/420+",
+      "datr_cookie": "JtTu********************",
+      "device": "iPhone 13 mini",
+      "location": "Ota-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1710108633,
+      "ip_address": "126.51.168.234",
+      "user_agent": "Instagram 321.0.2.24.105 (iPhone14,4; iOS 17_3_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 572181444) AppleWebKit/420+",
+      "datr_cookie": "2S_u********************",
+      "device": "iPhone 13 mini",
+      "location": "Tachikawa, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    },
+    {
+      "created_timestamp": 1708333217,
+      "ip_address": "60.71.171.117",
+      "user_agent": "Instagram 318.0.7.22.109 (iPhone14,4; iOS 17_2_1; en_US@rg=gbzzzz; en; scale=3.00; 1125x2436; 565151867) AppleWebKit/420+",
+      "datr_cookie": "oBjT********************",
+      "device": "iPhone 13 mini",
+      "location": "Shinjuku-ku, Tokyo, Japan",
+      "app": "",
+      "session_type": "instagram"
+    }
+  ]
+}

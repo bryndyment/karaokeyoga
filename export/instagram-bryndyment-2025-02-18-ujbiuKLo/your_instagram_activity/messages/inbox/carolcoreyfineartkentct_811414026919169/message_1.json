@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Carol Corey Fine Art | Kent CT"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carol Corey Fine Art | Kent CT",
+      "timestamp_ms": 1647887504439,
+      "content": "Just let me know which one and I will follow up on payment after they are all spoken for",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Corey Fine Art | Kent CT",
+      "timestamp_ms": 1647887234393,
+      "content": "Fool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Corey Fine Art | Kent CT",
+      "timestamp_ms": 1647887230658,
+      "content": "Chess and Fiol gone",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carol Corey Fine Art | Kent CT",
+      "timestamp_ms": 1647886925616,
+      "content": "Yes. So far all of them",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1647886825467,
+      "content": "hello \u00e2\u0080\u00a6 any eggs left?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carol Corey Fine Art | Kent CT",
+  "is_still_participant": true,
+  "thread_path": "inbox/carolcoreyfineartkentct_811414026919169",
+  "magic_words": [
+    
+  ]
+}

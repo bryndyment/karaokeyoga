@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "lydzza_"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "lydzza_",
+      "timestamp_ms": 1548374411516,
+      "content": "Oh okay, thanks for telling me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1548367732619,
+      "content": "sorry, mirei doesn\u00e2\u0080\u0099t have access to her phone until february 3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "lydzza_",
+      "timestamp_ms": 1547934124693,
+      "content": "Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1547892181866,
+      "content": "get well!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "lydzza_",
+      "timestamp_ms": 1547882596383,
+      "content": "Oh I see, and I hope you are all doing well because I\u00e2\u0080\u0099m sick and I have a fever so, yeah have a nice day!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1547866601613,
+      "content": "hi \u00e2\u0080\u00a6 sorry, mirei can\u00e2\u0080\u0099t use her phone for the next week",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "lydzza_",
+      "timestamp_ms": 1535764834516,
+      "content": "Hi, yeah I have a bunch of simple books so I can bring one of course\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1535764708438,
+      "content": "hey! mirei just left to meet you. if you have a simple french book for mirei to read, i would appreciate it!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "lydzza_",
+  "is_still_participant": true,
+  "thread_path": "inbox/lydzza__600599558006882",
+  "magic_words": [
+    
+  ]
+}

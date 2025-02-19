@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "LEZ Cycles"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LEZ Cycles",
+      "timestamp_ms": 1651222687255,
+      "content": "Yes I remember all you 3! I don't sell Hungarian bikes to British customers based in Japan too often =p Thanks for the likes. Hope all is fine with the family, the kids must be big now!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1644940844284,
+      "content": "i'm surprised you remember me!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1644940828743,
+      "content": "wow, expensive, eh?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1644940819247,
+      "content": "ah i see \u00e2\u0080\u00a6 yes, i noticed that posting, which is why i asked",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LEZ Cycles",
+      "timestamp_ms": 1644923106936,
+      "content": "One of my bikes is going to Tokyo but the customer is taking it with him in the plane as he is moving there.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LEZ Cycles",
+      "timestamp_ms": 1644923070298,
+      "content": "You can check bikeflights",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LEZ Cycles",
+      "timestamp_ms": 1644923057759,
+      "content": "Not sure about shipping to Tokyo, but probably around 500. Shipping prices have gone up a lot. Used to sent bikes to the usa for 150, but last one was 350.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LEZ Cycles",
+      "timestamp_ms": 1644922981528,
+      "content": "Hi Bryn. Long time! I hope you and the kids are well =)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1644639287771,
+      "content": "hey! how much (roughly) is shipping to tokyo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LEZ Cycles",
+  "is_still_participant": true,
+  "thread_path": "inbox/lezcycles_351241190144624",
+  "magic_words": [
+    
+  ]
+}

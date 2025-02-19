@@ -1,0 +1,232 @@
+{
+  "participants": [
+    {
+      "name": "Ajay Jindal"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ajay Jindal",
+      "timestamp_ms": 1729039582678,
+      "content": "Reacted \u00e2\u009d\u00a4 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729036530584,
+      "content": "kids these days! \u00f0\u009f\u0098\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ajay Jindal",
+          "timestamp": 1729039582
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729036518105,
+      "content": "\u00e2\u0086\u0091 Mirei with my dad this weekend \u00e2\u0080\u00a6 she can't name a single Def Leppard song, by the way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729036494048,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/ajayjindal_10153898260160763/photos/462549891_1228897738255108_4875566047650190218_n_1228897734921775.png",
+          "creation_timestamp": 1729036493
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729036394774,
+      "content": "1 hr 1 min!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729036385283,
+      "content": "The video call ended.",
+      "call_duration": 3713,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ajay Jindal",
+      "timestamp_ms": 1729032565166,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729032556868,
+      "content": "E.g. he cosigned her lease",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729032544317,
+      "content": "Susan's ex (again, not me) is living there now and he's been a big help..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729032522214,
+      "content": "I will get there eventually! That sounds great.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ajay Jindal",
+      "timestamp_ms": 1729032491504,
+      "content": "Awesome!  Feel free to pass on my contact info in case she needs older-adult assistance with anything.  425-505-0491.\n\nDo you think you come to visit ?  We\u00e2\u0080\u0099ll have you all over for dinner or something",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729032412040,
+      "content": "she has a pretty nice place in Chinatown",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729032364091,
+      "content": "smart kid, shit grades \u00e2\u0080\u00a6 but appears to be starting off well in her new city",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729032340880,
+      "content": "That's my daughter \u00e2\u0080\u00a6 18 now, going to Seattle Central College",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1729032279376,
+      "content": "Mirei!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ajay Jindal",
+      "timestamp_ms": 1729027619443,
+      "content": "Who?!?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1728892461594,
+      "content": "(no, not me)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1728892443062,
+      "content": "guess who lives in Seattle?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692755178531,
+      "content": "yeah, i have used it in the past \u00e2\u0080\u00a6 but i talk to too many people already \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ajay Jindal",
+      "timestamp_ms": 1692753114383,
+      "content": "A lot of the gang use Signal - end-to-end encryption, not owned by a for-profit corporation, open source",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ajay Jindal",
+      "timestamp_ms": 1692753023056,
+      "content": "Ajay Jindal\n1730 22nd Ave Apt 508\nSeattle WA 98122\n\nIt\u00e2\u0080\u0099s a rental and we expect to be here for the next 6 months at least.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692752922617,
+      "content": "however, can i get your mailing address? as in, physical mail",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1692752904845,
+      "content": "i am not, and i'm winding down on most of that stuff, i think",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ajay Jindal",
+      "timestamp_ms": 1692719252945,
+      "content": "Very nice.  BTW - I don\u00e2\u0080\u0099t really check Facebook or FB messenger much anymore.  Are you on Signal?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1690825543303,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/ajayjindal_10153898260160763/photos/364538159_975023960444166_7239582004945024027_n_975023957110833.png",
+          "creation_timestamp": 1690825541
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1690825474523,
+      "content": "\"Klarity\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ajay Jindal",
+      "timestamp_ms": 1690819893678,
+      "content": "Congrats!  What is your company name again?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1690817944878,
+      "content": "hey! we just signed your last employer as customer #68! (smartsheet)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ajay Jindal",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/ajayjindal_10153898260160763",
+  "magic_words": [
+    
+  ]
+}

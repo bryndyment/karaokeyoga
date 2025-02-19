@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Andrey Yegorov"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andrey Yegorov",
+      "timestamp_ms": 1642903733523,
+      "content": "I am sure you\u00e2\u0080\u0099ll do great, Bryn! Just brush up your interview coding skills. You\u00e2\u0080\u0099ll have to move fast during the coding interviews. No time to think really. Has to be almost automatic.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1642899809727,
+      "content": "i actually feel some up-to-date tech-wise",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1642899793578,
+      "content": "my confidence is much higher than the group on days",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrey Yegorov",
+      "timestamp_ms": 1642883211778,
+      "content": "You should, Bryn :) I like working here. Let me know if you need additional referral later on when you get an offer.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1642872309096,
+      "content": "just got a recruiting email and am wondering how seriously i should take it \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1642872258407,
+      "content": "how's facebook?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1641695877565,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrey Yegorov",
+  "is_still_participant": true,
+  "thread_path": "inbox/andreyyegorov_807043037359955",
+  "magic_words": [
+    
+  ]
+}

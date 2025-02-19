@@ -1,0 +1,874 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Is opted out from seeing ads off Meta",
+      "value": "True"
+    },
+    {
+      "label": "Is the Digital Advertising Alliance opt-out cookie present in any browser",
+      "value": "True"
+    },
+    {
+      "label": "Is opted out of using data about interactions between the user and third party sites",
+      "value": "True"
+    },
+    {
+      "label": "Is opted out of using relationship status to target ads",
+      "value": "False"
+    },
+    {
+      "label": "Is opted out of using religious views to target ads",
+      "value": "True"
+    },
+    {
+      "label": "Is opted out of using interests to target ads",
+      "value": "True"
+    },
+    {
+      "label": "Is opted out of using education information (school, college year, field of study, etc.) to target ads",
+      "value": "False"
+    },
+    {
+      "label": "Is opted out of using their employer to target ads",
+      "value": "False"
+    },
+    {
+      "label": "Is opted out of using their job title to target ads",
+      "value": "False"
+    },
+    {
+      "label": "Opted out of using engagement tracking data to target ads",
+      "value": "False"
+    },
+    {
+      "label": "Is opted out of using political views to target ads",
+      "value": "True"
+    },
+    {
+      "label": "Is opted out of third party data at the user level",
+      "value": "True"
+    },
+    {
+      "label": "Third party opted in topics",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Received Global Privacy Control (GPC) enable signal from browser settings",
+      "value": "False"
+    },
+    {
+      "label": "User ad topics preferences",
+      "dict": [
+        
+      ]
+    },
+    {
+      "label": "User ad interests preferences",
+      "dict": [
+        
+      ]
+    },
+    {
+      "label": "Added interests",
+      "vec": [
+        {
+          "value": "Coworking"
+        }
+      ]
+    },
+    {
+      "label": "Removed interests",
+      "vec": [
+        {
+          "value": "gay marriage"
+        },
+        {
+          "value": "Same-sex marriage"
+        },
+        {
+          "value": "Buddhism"
+        },
+        {
+          "value": "Mind\u00e2\u0080\u0093body interventions"
+        },
+        {
+          "value": "Ohio State University"
+        },
+        {
+          "value": "Virginia Tech"
+        },
+        {
+          "value": "Middle East"
+        }
+      ]
+    },
+    {
+      "label": "Sensitive topics opted out of",
+      "dict": [
+        
+      ]
+    },
+    {
+      "label": "Sensitive topics opted in to",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Reported interests",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Datafile custom audience opt-out",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Datafile Custom Audience inclusion opt-out",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Datafile Custom Audience exclusion opt-out",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Opted-in Ad Interests",
+      "vec": [
+        
+      ]
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Event"
+            },
+            {
+              "label": "Ad title",
+              "value": "carousel_CO-987_BrandTag-BarWHT_nup"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1739410954
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event"
+            },
+            {
+              "label": "Ad title",
+              "value": "hh_wb_ur_-.s-fb.CC-WW.l-12lang.g-m.A-2565.AU-techlovers.OPT-v_p7.cbo-t.CR-dungeonroof.cn-11i_s_120.lp-delayed.DT-nf.com-interests_techlovers.CSD-270125.-"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1738392430
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event"
+            },
+            {
+              "label": "Ad title",
+              "value": "Linkads_Destination_Logo_RedirectEveryMundo"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1736718542
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "paid_social-christmas-JP-10"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1735259411
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Your Personality Explained_Control"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1735242527
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event"
+            },
+            {
+              "label": "Ad title",
+              "value": "Ad2"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1734624260
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Hidden ads"
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Event"
+            },
+            {
+              "label": "Advertiser",
+              "value": "Uber Eats"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1739410954
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event"
+            },
+            {
+              "label": "Advertiser",
+              "value": "Hero Wars: Dominion Era"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1738392430
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Advertiser",
+              "value": "NordVPN"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1735259411
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Hidden advertisers"
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Tony Hawk"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Review"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "The Beatles"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cincinnati"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Birds"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Stussy"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Tennessee"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Gal\u00c3\u00a1pagos Islands"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Cultural history"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Exile (Japanese band)"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Top (clothing)"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Red Hot Chili Peppers"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Vancouver"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Mammal"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Kanye West"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "T-shirt"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Science"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Barnes & Noble"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Chevy Chase"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "United States"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Southern California"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Books"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Rock music"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Joshua Tree National Park"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Animal"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Clothing"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Music videos"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Astronomy"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Online shopping"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Canada"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Trousers"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Shopping"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Magazines"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Technology"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Radio broadcasting"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Nature (science)"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "South Africa"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Leonardo da Vinci"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Street fashion"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Supreme (clothing)"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Hip hop music"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Education"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Wildlife"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Nike, Inc."
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Information"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Music"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Bhutan"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Work of art"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Los Angeles"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "New York City"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Movies"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Classic rock"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Insect"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Streetwear"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "British Columbia"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Painting"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Unbelievable facts"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "West Vancouver"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Photography"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Social media"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Photograph"
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "History"
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Ads interests"
+    }
+  ],
+  "fbid": "10153144014420027"
+}

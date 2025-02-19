@@ -1,0 +1,72 @@
+{
+  "organic_insights_reach": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Date Range": {
+          "href": "",
+          "value": "Nov 19 - Feb 16",
+          "timestamp": 0
+        },
+        "Accounts Reached": {
+          "href": "",
+          "value": "402",
+          "timestamp": 0
+        },
+        "Accounts Reached Delta": {
+          "href": "",
+          "value": "+13,300% vs Aug 21 - Nov 18",
+          "timestamp": 0
+        },
+        "Followers": {
+          "href": "",
+          "value": "39.6%",
+          "timestamp": 0
+        },
+        "Non-Followers": {
+          "href": "",
+          "value": "60.4%",
+          "timestamp": 0
+        },
+        "Non-Followers Delta": {
+          "href": "",
+          "value": "You reached +24,500% more accounts that weren't following you compared to Aug 21 - Nov 18.",
+          "timestamp": 0
+        },
+        "Impressions": {
+          "href": "",
+          "value": "3,905",
+          "timestamp": 0
+        },
+        "Impressions Delta": {
+          "href": "",
+          "value": "+55,685%",
+          "timestamp": 0
+        },
+        "Profile visits": {
+          "href": "",
+          "value": "675",
+          "timestamp": 0
+        },
+        "Profile Visits Delta": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        },
+        "External link taps": {
+          "href": "",
+          "value": "2",
+          "timestamp": 0
+        },
+        "External link taps delta": {
+          "href": "",
+          "value": "--",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

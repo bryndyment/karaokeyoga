@@ -1,0 +1,26 @@
+{
+  "name": "Snapshots",
+  "photos": [
+    {
+      "uri": "your_facebook_activity/posts/media/Snapshots_-Z3pJ0d5XA/460938527_10161639046195027_630136913445622048_n_10149575026.jpg",
+      "creation_timestamp": 1198781998,
+      "title": "Snapshots",
+      "description": "Mirei and Riku coming home from the park on Boxing Day."
+    },
+    {
+      "uri": "your_facebook_activity/posts/media/Snapshots_-Z3pJ0d5XA/460726765_10161639046425027_3324505499445934630_n_10149580026.jpg",
+      "creation_timestamp": 1198781998,
+      "title": "Snapshots",
+      "description": "Riku's drawing from this morning (Dec. 27).  Riku plus four of his classmates singing."
+    }
+  ],
+  "cover_photo": {
+    "uri": "your_facebook_activity/posts/media/Snapshots_-Z3pJ0d5XA/460938527_10161639046195027_630136913445622048_n_10149575026.jpg",
+    "creation_timestamp": 1198781998,
+    "title": "Snapshots",
+    "description": "Mirei and Riku coming home from the park on Boxing Day.",
+    "backup_uri": "https://scontent-nrt1-2.xx.fbcdn.net/v/t39.30808-6/460938527_10161639046195027_630136913445622048_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=dacb43&_nc_ohc=8BpjTU4BE4cQ7kNvgFhZQ_N&_nc_oc=AdiX5w4bYPrkMIDYYVzbmwRDTjcx3W2Q0Vs-tn4-dtH0mPXgveFObZtRqPOtS-5iOA8&_nc_zt=23&_nc_ht=scontent-nrt1-2.xx&_nc_gid=ANYz0AzTbf8uEkq519jW-8z&oh=00_AYDbCS7aFrhh8_W44h5hGZtLpo3w2L0P7lkEcMg_EttKuw&oe=67BA0190"
+  },
+  "last_modified_timestamp": 1198781998,
+  "description": "Quick snaps to share."
+}

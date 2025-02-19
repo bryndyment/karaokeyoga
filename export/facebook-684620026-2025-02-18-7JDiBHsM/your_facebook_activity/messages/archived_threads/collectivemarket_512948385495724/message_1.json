@@ -1,0 +1,1212 @@
+{
+  "participants": [
+    {
+      "name": "Alessandro de Bellegarde"
+    },
+    {
+      "name": "Zach Aikman"
+    },
+    {
+      "name": "Ally Mobbs"
+    },
+    {
+      "name": "David Cummings"
+    },
+    {
+      "name": "Paul Speed"
+    },
+    {
+      "name": "Benjamin Falck"
+    },
+    {
+      "name": "Joshua Stefane"
+    },
+    {
+      "name": "Samuel Andr\u00c3\u00a9"
+    },
+    {
+      "name": "Elisa Tanaka"
+    },
+    {
+      "name": "Christopher Fryman"
+    },
+    {
+      "name": "Andy Couzens"
+    },
+    {
+      "name": "Chuck Kayser"
+    },
+    {
+      "name": "Lianca Van Der Merwe"
+    },
+    {
+      "name": "Sagar Patel"
+    },
+    {
+      "name": "Lucy Marriott"
+    },
+    {
+      "name": "Brett Peary"
+    },
+    {
+      "name": "Sabrina Sasaki"
+    },
+    {
+      "name": "Raj Joshi"
+    },
+    {
+      "name": "Atticus Sims"
+    },
+    {
+      "name": "Luke H Fujii"
+    },
+    {
+      "name": "Will Hall"
+    },
+    {
+      "name": "Daniel Auguste"
+    },
+    {
+      "name": "JS Mayrand"
+    },
+    {
+      "name": "Connor Kirk"
+    },
+    {
+      "name": "Masahiko Murakami"
+    },
+    {
+      "name": "Tomo Uyesugi"
+    },
+    {
+      "name": "Sam Mohr"
+    },
+    {
+      "name": "Yusuke Ono"
+    },
+    {
+      "name": "Tugi Guenes"
+    },
+    {
+      "name": "Cl\u00c3\u00a9o Verstrepen"
+    },
+    {
+      "name": "Th\u00c3\u00a9o Casciani"
+    },
+    {
+      "name": "Jonas Marczy"
+    },
+    {
+      "name": "Beno\u00c3\u00aet Jacquet"
+    },
+    {
+      "name": "Mark Monti"
+    },
+    {
+      "name": "Liam Conroy"
+    },
+    {
+      "name": "Tomo Vegeny"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1557740541518,
+      "content": "You left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sims Tonash",
+      "timestamp_ms": 1509435650625,
+      "content": "Sims Tonash left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sims Tonash",
+      "timestamp_ms": 1509435640130,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1509431943062,
+      "content": "This time: https://www.facebook.com/events/307297123081146",
+      "share": {
+        "link": "https://www.facebook.com/events/307297123081146/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1509030366161,
+      "content": "Beno\u00c3\u00aet Jacquet added Tomo Vegeny to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1509029960223,
+      "content": "Last time: https://www.facebook.com/events/1944996445737433",
+      "share": {
+        "link": "https://www.facebook.com/events/1944996445737433/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1509029933231,
+      "content": "Good evening you all!    Collective Market of November 25th: who is in?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maximilian Spiegelberg",
+      "timestamp_ms": 1507392773499,
+      "content": "Maximilian Spiegelberg left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chuck Kayser",
+      "timestamp_ms": 1505740216856,
+      "content": "Cool, then I'm good wherever \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505738807264,
+      "content": "@Chuck, it could be anywhere.  The 2 spots are almost side by side",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chuck Kayser",
+      "timestamp_ms": 1505731443856,
+      "content": "We've spoken about me selling curry, would it be at the new spot or at YS?   Also, I'll obviously close before the parade starts",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505702512391,
+      "content": "Beno\u00c3\u00aet Jacquet added Yusuke Ono to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kimi-Yoshi Aoki",
+      "timestamp_ms": 1505701994864,
+      "content": "Kimi-Yoshi Aoki left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tomo Uyesugi",
+      "timestamp_ms": 1505701932962,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505701920999,
+      "content": "sure, no worries, see you soon mate",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Kimi-Yoshi Aoki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505701899754,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kimi-Yoshi Aoki",
+      "timestamp_ms": 1505701883715,
+      "content": "I'm going to bail out of this group though duder, I'm on a quest to remove all the background noise \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Beno\u00c3\u00aet Jacquet"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kimi-Yoshi Aoki",
+      "timestamp_ms": 1505701853791,
+      "content": "Cheers for the info Benoit! I'll be down at the event on the day sharing a beer with you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505701472309,
+      "content": "Anyway, if you are interested, just comment of this thread or send me a PM. There is room for many of us (10 meters!)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505701415104,
+      "content": "Only one (big) deal among us: I sell alcohol, you sell whatever else. If you want to sell alcohol too, I take a commission.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505701273615,
+      "content": "I'll be already busy with the 650 already interested in the event, so I cannot take care of this but I can book the place for you. If you want to sell food (even do a BBQ) it's OK but you have to tell me soon and I'll register it to the firemen station, I will also lend you a fire extinguisher (required).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505701137815,
+      "content": "Actually, about 10 meters long",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505701104472,
+      "content": "It is in front of the ramen/gyoza restaurant",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505701080601,
+      "content": "This is where we can ass tables and sell",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505701063111,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/collectivemarket_512948385495724/photos/370305419_7312400685471097_558101283639276347_n_1711072532270635.jpg",
+          "creation_timestamp": 1505701062
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505701032798,
+      "content": "There will be 2 guards closing the street for non authorized cars (non resident).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505700977994,
+      "content": "YS (Yokai Soho) is at the East Entrance of the street",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505700948849,
+      "content": "Here is the street plan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505700937367,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/collectivemarket_512948385495724/photos/371481622_7312400305471135_3794624463418066024_n_1711071172270771.jpg",
+          "creation_timestamp": 1505700935
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505700895053,
+      "content": "October 14",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505700875094,
+      "content": "First of all, for the M... F... Yokai Parade, we'll of course have stands in front of Yokai Soho, but also 2 more places 10 meters West, in front of a bank.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505700781538,
+      "content": "Hello y'all, new market opportunities @yokaisoho in October!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505553410018,
+      "content": "Beno\u00c3\u00aet Jacquet added Mark Monti to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Connor Kirk",
+      "timestamp_ms": 1505383223488,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/18601789_139084409983537_1112176674583085056_n_139084406650204.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Beno\u00c3\u00aet Jacquet"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505186736201,
+      "content": "Beno\u00c3\u00aet Jacquet added Maximilian Spiegelberg and Jonas Marczy to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chuck Kayser",
+      "timestamp_ms": 1505050009991,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sagar Patel",
+      "timestamp_ms": 1505049943711,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/68970184_1459620617496010_4973266692168744960_n_514436202014461.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Beno\u00c3\u00aet Jacquet"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505044411226,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Masahiko Murakami",
+      "timestamp_ms": 1505043638590,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sims Tonash",
+      "timestamp_ms": 1505042935142,
+      "content": "working on surrealist backpacks",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Masahiko Murakami"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Atticus Sims",
+      "timestamp_ms": 1505042862097,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sims Tonash",
+      "timestamp_ms": 1505042637614,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1505040725976,
+      "content": "Hello y'all! Next collective market @yokaisoho will be on Saturday November 25th. I know that it's still a bit early to talk about it but if you have things to sell/show/talk about then tell us about it; the momiji leaves will be red at Kitano Tenmangu, we'll stay warm under Yokai roof.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Raj Joshi"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495631392357,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lianca Van Der Merwe",
+      "timestamp_ms": 1495631338839,
+      "content": "Hi benoit. Ima interested in something like this but my Japanese is terrible. Ill send u a separate msg about this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andy Couzens",
+      "timestamp_ms": 1495584859460,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/collectivemarket_512948385495724/photos/277152069_1026726881257008_6676579732262796812_n_10156326998972818.gif",
+          "creation_timestamp": 1495584858
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Beno\u00c3\u00aet Jacquet"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chuck Kayser"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495584453896,
+      "content": "May the twenty Force (24th) be with you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495584381509,
+      "content": "Strange sentence... I'll inform Last Fish of our discussions, and I'll keep you updated too :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495583368788,
+      "content": "I'll inform Last Fish of our discussion and I'll inform him too.  I think that we can adapt this concept too.  Anyway, I wish you a good day.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495583235353,
+      "content": "\u00e3\u0081\u0093\u00e3\u0082\u0093\u00e3\u0081\u00ab\u00e3\u0081\u00a1\u00e3\u0081\u00af\u00e3\u0083\u0096\u00e3\u0083\u008e\u00e3\u0083\u00af\u00e3\u0081\u0095\u00e3\u0082\u0093\nIDPW\u00e3\u0081\u00aeLast Fish\u00e3\u0081\u00a8\u00e7\u0094\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082\n\n\u00e3\u0083\u00a1\u00e3\u0083\u00bc\u00e3\u0083\u00ab\u00e9\u00a0\u0082\u00e3\u0081\u0084\u00e3\u0081\u00a6\u00e3\u0081\u0084\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0081\u00ab\u00e3\u0080\u0081\u00e8\u00bf\u0094\u00e4\u00bf\u00a1\u00e3\u0081\u00a7\u00e3\u0081\u008d\u00e3\u0081\u00a6\u00e3\u0081\u008a\u00e3\u0082\u0089\u00e3\u0081\u009a\u00e3\u0082\u00b9\u00e3\u0083\u009f\u00e3\u0083\u009e\u00e3\u0082\u00bb\u00e3\u0083\u00b3\u00e3\u0081\u00a7\u00e3\u0081\u0097\u00e3\u0081\u009f\u00ef\u00bc\u0081\n\n\u00e7\u008f\u00be\u00e5\u009c\u00a8\u00e3\u0083\u00a4\u00e3\u0083\u009f\u00e5\u00b8\u0082\u00e3\u0081\u00af\u00e3\u0082\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u0097\u00e3\u0083\u00b3\u00e3\u0083\u0097\u00e3\u0083\u00a9\u00e3\u0083\u0083\u00e3\u0083\u0088\u00e3\u0083\u0095\u00e3\u0082\u00a9\u00e3\u0083\u00bc\u00e3\u0083\u00a0\u00e5\u008c\u0096\u00e3\u0081\u0095\u00e3\u0082\u008c\u00e3\u0081\u00a6\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0080\u0081\u00e8\u00aa\u00b0\u00e3\u0081\u00a7\u00e3\u0082\u0082\u00e4\u00bb\u00a5\u00e4\u00b8\u008b\u00e3\u0081\u00ae\u00e3\u0082\u00ac\u00e3\u0082\u00a4\u00e3\u0083\u0089\u00e3\u0081\u00ab\n\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e3\u0081\u008c\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e7\u008b\u00ac\u00e8\u0087\u00aa\u00e3\u0081\u00ae\u00e3\u0083\u00a4\u00e3\u0083\u009f\u00e5\u00b8\u0082\u00e3\u0082\u0092\u00e9\u0096\u008b\u00e5\u0082\u00ac\u00e3\u0081\u00a7\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082\n\u00e6\u0097\u00a5\u00e6\u009c\u00ac\u00e8\u00aa\u009e: http://yami-ichi.biz/ja/organize/\nEnglish: http://yami-ichi.biz/organize/\n\n\u00e4\u00ba\u00ac\u00e9\u0083\u00bd\u00e3\u0081\u00a0\u00e3\u0081\u00a8\u00e3\u0080\u0081\u00e7\u008f\u00be\u00e5\u009c\u00a8IDPW\u00e3\u0083\u00a1\u00e3\u0083\u00b3\u00e3\u0083\u0090\u00e3\u0083\u00bc\u00e3\u0081\u00af\u00e4\u00bd\u008f\u00e3\u0082\u0093\u00e3\u0081\u00a7\u00e3\u0081\u0084\u00e3\u0081\u00aa\u00e3\u0081\u0084\u00e3\u0081\u009f\u00e3\u0082\u0081\u00e3\u0080\u0081\u00e3\u0081\u00a9\u00e3\u0081\u0086\u00e3\u0081\u0084\u00e3\u0081\u0086\u00e5\u00bd\u00a2\u00e3\u0081\u00a7\u00e9\u0096\u00a2\u00e3\u0082\u008f\u00e3\u0082\u008c\u00e3\u0082\u008b\u00e3\u0081\u008b\u00e3\u0081\u00af\u00e3\u0081\u00be\n\u00e3\u0081\u00a0\u00e5\u0088\u0086\u00e3\u0081\u008b\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u009b\u00e3\u0082\u0093\u00e3\u0081\u008c\u00e3\u0080\u0081\u00e3\u0082\u00bf\u00e3\u0082\u00a4\u00e3\u0083\u009f\u00e3\u0083\u00b3\u00e3\u0082\u00b0\u00e3\u0082\u0084\u00e6\u009d\u00a1\u00e4\u00bb\u00b6\u00e3\u0081\u00aa\u00e3\u0081\u00a9\u00e3\u0081\u008c\u00e3\u0081\u0082\u00e3\u0081\u0088\u00e3\u0081\u00b0\u00e3\u0080\u0081\u00e3\u0082\u00b3\u00e3\u0083\u00a9\u00e3\u0083\u009c\u00e3\u0083\u00ac\u00e3\u0083\u00bc\u00e3\u0082\u00b7\u00e3\u0083\u00a7\u00e3\u0083\u00b3\u00e3\u0081\u0099\u00e3\u0082\u008b\u00e3\u0081\u0093\u00e3\u0081\u00a8\n\u00e3\u0082\u0082\u00e3\u0081\u00a7\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0081\u0097\u00e3\u0080\u0081\u00e5\u00b0\u0091\u00e3\u0081\u00aa\u00e3\u0081\u008f\u00e3\u0081\u00a8\u00e3\u0082\u0082\u00e3\u0080\u0081\u00e9\u0081\u008e\u00e5\u008e\u00bb\u00e3\u0081\u00ae\u00e3\u0083\u008e\u00e3\u0082\u00a6\u00e3\u0083\u008f\u00e3\u0082\u00a6\u00e3\u0081\u00aa\u00e3\u0081\u00a9\u00e3\u0082\u0092\u00e5\u0085\u00b1\u00e6\u009c\u0089\u00e3\u0081\u0099\u00e3\u0082\u008b\u00e3\u0081\u00aa\u00e3\u0081\u00a9\u00e3\u0081\u00ae\u00e3\u0083\u0098\u00e3\u0083\u00ab\u00e3\u0083\u0097\u00e3\u0081\u00af\u00e3\u0081\u0095\u00e3\u0081\u009b\n\u00e3\u0081\u00a6\u00e3\u0081\u0084\u00e3\u0081\u009f\u00e3\u0081\u00a0\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082\n\n\u00e3\u0083\u00a4\u00e3\u0083\u009f\u00e5\u00b8\u0082\u00e3\u0081\u00a7\u00e3\u0081\u00af\u00e3\u0080\u008c\u00e9\u009d\u00a2\u00e7\u0099\u00bd\u00e3\u0081\u0084\u00e5\u0087\u00ba\u00e5\u00ba\u0097\u00e8\u0080\u0085\u00e3\u0080\u008d\u00e3\u0082\u0092\u00e3\u0081\u0084\u00e3\u0081\u008b\u00e3\u0081\u00ab\u00e9\u009b\u0086\u00e3\u0082\u0081\u00e3\u0082\u0089\u00e3\u0082\u008c\u00e3\u0082\u008b\u00e3\u0081\u008b\u00e3\u0081\u008c\u00e3\u0082\u00ad\u00e3\u0083\u00a2\u00e3\u0081\u00ab\u00e3\u0081\u00aa\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082\n\u00e9\u0080\u009a\u00e5\u00b8\u00b8\u00e3\u0081\u00af\u00e9\u0096\u008b\u00e5\u0082\u00ac\u00e3\u0081\u00ae2,3\u00e3\u0083\u00b6\u00e6\u009c\u0088\u00e3\u0082\u0088\u00e3\u0082\u008a\u00e5\u0089\u008d\u00e3\u0081\u008b\u00e3\u0082\u0089\u00e3\u0080\u0081\u00e9\u009d\u00a2\u00e7\u0099\u00bd\u00e3\u0081\u009d\u00e3\u0081\u0086\u00e3\u0081\u00aa\u00e4\u00ba\u00ba\u00e3\u0082\u0084\u00e3\u0082\u00b3\u00e3\u0083\u009f\u00e3\u0083\u00a5\u00e3\u0083\u008b\u00e3\u0083\u0086\u00e3\u0082\u00a3\u00e3\u0081\u00ab\u00e5\u00a3\u00b0\u00e6\u008e\u009b\u00e3\u0081\u0091\u00e3\u0082\u0092\u00e5\u00a7\u008b\u00e3\u0082\u0081\n\u00e3\u0081\u00a6\u00e3\u0081\u0084\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082\n\n\u00e3\u0081\u00a9\u00e3\u0081\u00ae\u00e3\u0082\u0088\u00e3\u0081\u0086\u00e3\u0081\u00aa\u00e3\u0082\u00b9\u00e3\u0082\u00b1\u00e3\u0082\u00b8\u00e3\u0083\u00a5\u00e3\u0083\u00bc\u00e3\u0083\u00ab\u00e3\u0081\u00a7\u00e3\u0081\u00ae\u00e9\u0096\u008b\u00e5\u0082\u00ac\u00e3\u0082\u0092\u00e8\u0080\u0083\u00e3\u0081\u0088\u00e3\u0081\u00a6\u00e3\u0081\u0084\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0081\u008b\u00ef\u00bc\u009f\n\n\u00e3\u0082\u0088\u00e3\u0082\u008d\u00e3\u0081\u0097\u00e3\u0081\u008f\u00e3\u0081\u008a\u00e9\u00a1\u0098\u00e3\u0081\u0084\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0099\u00ef\u00bc\u0081\n\nLast Fish",
+      "share": {
+        "link": "http://yami-ichi.biz/ja/organize/",
+        "share_text": "the REAL E-commerce market."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495583209852,
+      "content": "For you interest, and as there is no much secret in this, I follow up Last Fish's answer. It's in Japanese, but no super complicated.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495583145574,
+      "content": "Is it possible to organize this in Kyoto? Is there any interest in this kind of gathering? Do you know anyone who would like to do it?  These are some basic questions.  But basically, I just want to talk about it and see if there is any potential here.  Getting some IDPW members help is possible.  The main question is what is the potential for this in Kyoto.  In my opinion, it can also be a Micro Yami-Ichi.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Chuck Kayser"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tomo Uyesugi",
+      "timestamp_ms": 1495582974915,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495582819494,
+      "content": "https://www.youtube.com/watch?v=tHEw-Kky85A",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=tHEw-Kky85A",
+        "share_text": "@Knockdown Center Sep 12 2015Next Yami-ichi in NY is on Nov 6 2016 \u00e2\u0086\u0092 http://yami-ichi.biz/ny2/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495582782988,
+      "content": "Yami-Ichi is now an open platform and has been organized in 2, 3 places. Mainly in Tokyo and New York actually.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Hainge",
+      "timestamp_ms": 1495582633399,
+      "content": "Chris Hainge left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495582604881,
+      "content": "https://www.youtube.com/watch?v=mjWJsE7B1cs",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=mjWJsE7B1cs",
+        "share_text": "Produced by W+K \u00e6\u009d\u00b1\u00e4\u00ba\u00acLABThe film provides a glimpse of the type of creative culture that exists online behind the language barrier on the backstreets of the Int..."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raj Joshi",
+      "timestamp_ms": 1495582602699,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/69136493_2164189613872474_3036270810001047552_n_1578105075814267.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Beno\u00c3\u00aet Jacquet"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495582601429,
+      "content": "I have exchanged email with Last Fish, one member of IDPW in Tokyo, who are organizing the Yami-Ichi market.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1495582465491,
+      "content": "Collective hello to everyone!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1494889375649,
+      "content": "Beno\u00c3\u00aet Jacquet added Masahiko Murakami to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493871417299,
+      "content": "Beno\u00c3\u00aet Jacquet added Elisa Tanaka to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sims Tonash",
+      "timestamp_ms": 1493797918490,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lauren Kellie Hadler-Yokoyama",
+      "timestamp_ms": 1493794847103,
+      "content": "Lauren Kellie Hadler-Yokoyama left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493787559634,
+      "content": "If you have other ideas, you can also share them. This event is a work in progress.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493787504766,
+      "content": "If you want to do a live performance, it's \"funny\" to say, but it's free too (yes, I know, artists may even have to pay to do shows in some great places in Japan). And you can sell related things (tapes, CDs, books, ...).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493787265727,
+      "content": "If you want to exhibit something, that you may not want to sell, it's possible too, then you do not need to indicate a price.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493787192816,
+      "content": "It's free from any commission.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493787111602,
+      "content": "If you'd like to register your shop, just fill in this: \u00e3\u0080\u008c\u00e3\u0083\u008d\u00e3\u0083\u00bc\u00e3\u0083\u00a0\u00e3\u0080\u008d(Name)\u00e3\u0083\u00bb\u00e3\u0082\u00aa\u00e3\u0083\u00bc\u00e3\u0083\u008a\u00e3\u0083\u00bc(Owner)\u00e3\u0083\u00bb\u00e5\u0086\u0085\u00e5\u00ae\u00b9(Content)\u00e3\u0083\u00bb\u00e4\u00be\u00a1\u00e6\u00a0\u00bc(Price):",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493784353162,
+      "content": "Hi @Raj, what about video games?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raj Joshi",
+      "timestamp_ms": 1493784300431,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493783922921,
+      "content": "Be ready, apply, spread the word! Make it ours, make it collective :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493783855349,
+      "content": "Hello Collectives!",
+      "share": {
+        "link": "https://www.facebook.com/events/1944996445737433/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raj Joshi",
+      "timestamp_ms": 1493732750781,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/64848591_1211446745709570_6848216441691308032_n_150916021762653.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Beno\u00c3\u00aet Jacquet"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JS Mayrand",
+      "timestamp_ms": 1493732714540,
+      "content": "Bravo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christopher Fryman",
+      "timestamp_ms": 1493732692737,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cl\u00c3\u00a9o Verstrepen",
+      "timestamp_ms": 1493732686922,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ally Mobbs",
+      "timestamp_ms": 1493732669163,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chuck Kayser",
+      "timestamp_ms": 1493732662921,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493732649008,
+      "content": "I have a VERY GOOD news.  We'll have a Kyoto Brewing Co. pop-up tap over for the Collective Market!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493612220047,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucy Marriott",
+      "timestamp_ms": 1493612207490,
+      "content": "sounds good, i will be happy to have a stall again",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sims Tonash",
+      "timestamp_ms": 1493611241581,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493611161611,
+      "content": "Hello from the other side, and welcome for the new participants. I added your name because we've done things together in the last 2 years, or/and because you have shown interest our Y\u00c5\u008dkai.  Feel free to follow the thread, leave it if you do not feel concerned or add anyone who could feel concerned.  And I wish y'all a good Golden Week!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493610902311,
+      "content": "Beno\u00c3\u00aet Jacquet added JS Mayrand to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493608224978,
+      "content": "Beno\u00c3\u00aet Jacquet added Lauren Kellie Hadler-Yokoyama to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493608186757,
+      "content": "Beno\u00c3\u00aet Jacquet added Daniel Auguste to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493608136241,
+      "content": "Beno\u00c3\u00aet Jacquet added David Cummings to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493608059297,
+      "content": "Beno\u00c3\u00aet Jacquet added Sam Mohr to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493608004413,
+      "content": "Beno\u00c3\u00aet Jacquet added Kimi-Yoshi Aoki to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493607937755,
+      "content": "Beno\u00c3\u00aet Jacquet added Sims Tonash to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1493523142805,
+      "content": "Cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493523036961,
+      "content": "I just sent them an email",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1493522414088,
+      "content": "No,  but it looks cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493522119594,
+      "content": "Hi @Brett, have you heard about the Yama-Ichi?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493517465009,
+      "content": "Sure, selling is optional :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lianca Van Der Merwe",
+      "timestamp_ms": 1493515872538,
+      "content": "Hi Benoit. I have nothing to sell, but can show some of my stuff at the market? kinda like..watch this space.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brett Peary",
+      "timestamp_ms": 1493509165955,
+      "content": "On the page idpw.contact@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493508396323,
+      "content": "http://yami-ichi.biz/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493508394507,
+      "content": "Good morning, does everyone knows how to contact the person organizing the Internet Yama-ichi?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chuck Kayser",
+      "timestamp_ms": 1493504835986,
+      "content": "There is an interesting event today at Okazaki Koen, perhaps relatable to your collective market.  http://sakyo-wonder.com/",
+      "share": {
+        "link": "https://sakyo-wonder.com/?og=1",
+        "share_text": "\u00e3\u0080\u008c\u00e5\u00b7\u00a6\u00e4\u00ba\u00ac\u00e3\u0081\u008b\u00e3\u0082\u0089\u00e7\u00b9\u008b\u00e3\u0081\u008c\u00e3\u0082\u008b\u00e7\u00b5\u0082\u00e3\u0082\u0089\u00e3\u0081\u00aa\u00e3\u0081\u0084\u00e3\u0081\u008a\u00e7\u00a5\u00ad\u00e3\u0082\u008a\u00e3\u0080\u008d\u00e3\u0082\u00aa\u00e3\u0083\u00a2\u00e3\u0081\u0097\u00e3\u0082\u008d\u00e3\u0083\u00a4\u00e3\u0083\u0090\u00e7\u00b4\u00a0\u00e6\u0095\u00b5\u00e3\u0081\u00aa\u00e4\u00ba\u00ba,\u00e5\u00a0\u00b4,\u00e5\u00ba\u0097\u00e3\u0081\u00aa\u00e3\u0081\u00a9\u00e3\u0081\u008c\u00e6\u00ba\u00a2\u00e3\u0082\u008c\u00e3\u0082\u008b\u00e5\u00b7\u00a6\u00e4\u00ba\u00ac\u00e3\u0081\u008b\u00e3\u0082\u0089\u00e7\u00b9\u008b\u00e3\u0081\u008c\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e3\u0081\u0084\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082 2019. \u00e2\u0098\u0085\u00e6\u0098\u009f\u00e7\u00a9\u00ba\u00e3\u0082\u00b9\u00e3\u0082\u00bf\u00e3\u0083\u00b3\u00e3\u0083\u0097\u00e3\u0083\u00a9\u00e3\u0083\u00aa\u00e3\u0083\u00bc4/20\u00e3\u0080\u009c5/31 \u00e2\u0098\u0085\u00e5\u00b7\u00a6\u00e4\u00ba\u00ac\u00e3\u0083\u00af\u00e3\u0083\u00b3\u00e3\u0083\u0080\u00e3\u0083\u00bcMAP\u00e8\u00bf\u0091\u00e6\u0097\u00a5\u00e7\u0099\u00ba\u00e8\u00a1\u008c..."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christopher Fryman",
+      "timestamp_ms": 1493472001164,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493470591916,
+      "content": "Amazing name!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christopher Fryman",
+      "timestamp_ms": 1493470494520,
+      "content": "I would love to go but I am playing with the Shabon Dama Parade Band at Heian Jingu from noon.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493469976822,
+      "content": "FYI, last time we had this: https://www.facebook.com/events/280047289096447/?ti=icl",
+      "share": {
+        "link": "https://www.facebook.com/events/280047289096447/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493469820114,
+      "content": "It would be good to have the 3D printer running on these days. I'm sure that some people would even like to have their 3D models being materialized.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ally Mobbs",
+      "timestamp_ms": 1493469735578,
+      "content": "Yeah and also stuff made with Connor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493469712937,
+      "content": "Great, Gohan Tapes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ally Mobbs",
+      "timestamp_ms": 1493469582947,
+      "content": "Sounds good benoit I'm down for a shop and playing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493465886658,
+      "content": "Having \"happenings\", during this weekend, would also be great.  I'd like to add the \"party\" aspect being well present, and not be another \"flea Market\" in town.  Let's make it innovative.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sabrina Sasaki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493465719150,
+      "content": "There's also a micro art fair aspect.  What we did not have last time is the \"organic\" aspect, but @Chuck would most probably be present this time.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493465577744,
+      "content": "The Collective Market main idea is to gather people around common but also broad interests.  I don't take any commissions on sales.  Artists and creators do also have the possibility to do live performances (and eventually sell their things too).  It's interesting to have different types of shops so that we learn from each other, prepare future collaborations, but also do not see each other as competitors.  We may not have 2 shops selling the same things too.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493464985586,
+      "content": "Today, I have also posted on the \u00e3\u0082\u00b3\u00e3\u0083\u00ac\u00e3\u0082\u00af\u00e3\u0083\u0086\u00e3\u0082\u00a3\u00e3\u0083\u0096 Collective FB page, and I'll create an event when the purpose of the market will be a bit more well defined, so as the main collaborations.  I like to launch the FB many weeks in advance, because everyone is busy here.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493464744816,
+      "content": "Of course, we can also have parallel discussions if you have more personal questions and do not  want to bother the whole group with them.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Sabrina Sasaki"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493464583199,
+      "content": "We have almost 2 months to think about it and it will start as a work in progress, with a list of shops and participants growing until the last weeks.  So, if the last participants to the \"Pop-up Micro Market and Art Fair\" are ready to do it again, this would be a good base to start with.  @Sabrina, if you have any advice and ideas, that would be much appreciated too.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493464299263,
+      "content": "As last month, the Kitano Tenmangu market will be on a weekend, so it's a good opportunity to redo some pop-up shops like last time, and try to go one step further with the concept of Arts, Techs, Design, and, this time, sustainability, i.e., involving makers of all kind who work locally.  Having also local food would be great.  For instance, OK Fields locally grown vegetables. Last time we had about 8 shops, I think we have have twice more.  The main challenge is to remain coherent and have a certain \"esthetic\". Esthetics in their original sense: as a pleasure of senses.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sabrina Sasaki",
+      "timestamp_ms": 1493464282622,
+      "content": "Hi Ben, tnx for adding me to the conversation. What kind of things do you plan to host then?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sagar Patel",
+      "timestamp_ms": 1493464071700,
+      "content": "Sagar Patel added Liam Conroy to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493463548713,
+      "content": "Beno\u00c3\u00aet Jacquet added Alessandro de Bellegarde and Luke H Fujii to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493463514395,
+      "content": "Beno\u00c3\u00aet Jacquet added Sabrina Sasaki and Tugi Guenes to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493463487812,
+      "content": "Beno\u00c3\u00aet named the group Collective Market.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Beno\u00c3\u00aet Jacquet",
+      "timestamp_ms": 1493463421301,
+      "content": "Hello everyone, this is a collective message, feel free to leave the conversation if you do not feel concerned, or to add people who could feel concerned.  I wrote to you as you have taken part to some last events or to some discussion related to the Collective group coming out from Yokai Soho.  One next project that we would like to work on is the next \"Collective Market\" which could be organized during the last week-end of June, 24-25 (Saturday-Sunday).",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Collective Market",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/collectivemarket_512948385495724",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

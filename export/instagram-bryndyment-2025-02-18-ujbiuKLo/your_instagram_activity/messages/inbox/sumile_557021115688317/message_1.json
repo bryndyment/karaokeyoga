@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Sumile\u00cc\u0081"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sumile\u00cc\u0081",
+      "timestamp_ms": 1596964613178,
+      "content": "Yes!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bryn Dyment"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sumile\u00cc\u0081",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumile_557021115688317",
+  "magic_words": [
+    
+  ]
+}

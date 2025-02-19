@@ -1,0 +1,251 @@
+{
+  "settings_notification_preferences": [
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "CLIPS_RECENTLY_UPLOADED"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "CONNECTION_NOTIFICATION"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "META_PREFERENCE_FOR_MESSAGES_ONLY"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "NEW_FOLLOWER"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "VIEW_COUNT"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "COMMENTS"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "REPORT_UPDATED"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "LIKES"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "LIKE_AND_COMMENT_ON_PHOTO_USER_TAGGED"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "DIRECT_SHARE_ACTIVITY"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "FIRST_POST"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "PENDING_DIRECT_SHARE"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "LIVE_BROADCAST"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "CONTACT_JOINED"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "USER_TAGGED"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "NOTIFICATION_REMINDERS"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "ANNOUNCEMENTS"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "FOLLOW_REQUEST_ACCEPTED"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "COMMENT_LIKES"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    }
+  ]
+}

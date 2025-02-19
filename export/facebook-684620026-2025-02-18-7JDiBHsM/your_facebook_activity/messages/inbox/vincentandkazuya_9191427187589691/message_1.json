@@ -1,0 +1,153 @@
+{
+  "participants": [
+    {
+      "name": "Bryn Dyment"
+    },
+    {
+      "name": "Vincent Blondeau"
+    },
+    {
+      "name": "Kazuya Fujikawa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vincent Blondeau",
+      "timestamp_ms": 1738199567078,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1738199547234,
+      "content": "Thank you for your reply.\nI understand.\nIf you are interested, I would appreciate the next opportunity.\nThank you,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vincent Blondeau",
+      "timestamp_ms": 1738198451447,
+      "content": "I received your message last week, but I was on a business trip in Tokyo and completely forgot to reply. All wine purchases have already been decided for this year. But thank you for the proposal.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1737788855033,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/vincentandkazuya_9191427187589691/photos/473029591_1321043742236387_2287875503022133857_n_1321043738903054.jpg",
+          "creation_timestamp": 1737788854
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1737788850527,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/vincentandkazuya_9191427187589691/photos/473996563_1322432458949366_2243303612649220592_n_1322432455616033.jpg",
+          "creation_timestamp": 1737788849
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1737788846192,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/vincentandkazuya_9191427187589691/photos/473556385_577510245273109_740005427306288170_n_577510241939776.jpg",
+          "creation_timestamp": 1737788844
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1737788839681,
+      "files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/vincentandkazuya_9191427187589691/files/NoticeClosReilloncopie2_470946406074321.pdf",
+          "creation_timestamp": 1737788838
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1737788830995,
+      "content": "I'll send you the information on this wine!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1737764088249,
+      "content": "\u00e3\u0081\u00af\u00e3\u0081\u0098\u00e3\u0082\u0081\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0080\u0081\n\u00e7\u00a7\u0081\u00e3\u0081\u00afBryn\u00e3\u0081\u00ae\u00e5\u008f\u008b\u00e4\u00ba\u00ba\u00e3\u0081\u00ae\u00e8\u0097\u00a4\u00e5\u00b7\u009d\u00e5\u0092\u008c\u00e4\u00b9\u009f\u00e3\u0081\u00a8\u00e7\u0094\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082\n\n\u00e7\u00a7\u0081\u00e3\u0081\u00ae\u00e5\u00ae\u00b6\u00e6\u0097\u008f\u00e9\u0096\u00a2\u00e4\u00bf\u0082\u00e3\u0081\u00a7\u00e3\u0081\u008a\u00e4\u00b8\u0096\u00e8\u00a9\u00b1\u00e3\u0081\u00ab\u00e3\u0081\u00aa\u00e3\u0081\u00a3\u00e3\u0081\u009f\u00e6\u0096\u00b9\u00e3\u0081\u008c\u00e3\u0083\u009c\u00e3\u0083\u00ab\u00e3\u0083\u0089\u00e3\u0083\u00bc\u00e3\u0081\u00ae\u00e3\u0082\u00b5\u00e3\u0083\u00b3\u00e3\u0083\u0086\u00e3\u0083\u009f\u00e3\u0083\u00aa\u00e3\u0082\u00aa\u00e3\u0083\u00b3\u00e3\u0081\u00a7\u00e3\u0083\u00af\u00e3\u0082\u00a4\u00e3\u0083\u00b3\u00e7\u0095\u0091\u00e3\u0082\u0092\u00e6\u008c\u0081\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e3\u0081\u008a\u00e3\u0082\u008a\u00e3\u0080\u0081\u00e3\u0083\u00af\u00e3\u0082\u00a4\u00e3\u0083\u00b3\u00e3\u0082\u0092\u00e7\u0094\u009f\u00e7\u0094\u00a3\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0081\u008a\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082\n\u00e7\u00a7\u0081\u00e3\u0081\u00af\u00e3\u0082\u00b0\u00e3\u0083\u00a9\u00e3\u0083\u0095\u00e3\u0082\u00a3\u00e3\u0083\u0083\u00e3\u0082\u00af\u00e3\u0083\u0087\u00e3\u0082\u00b6\u00e3\u0082\u00a4\u00e3\u0083\u008a\u00e3\u0083\u00bc\u00e3\u0081\u00a8\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e6\u00b4\u00bb\u00e5\u008b\u0095\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0081\u008a\u00e3\u0082\u008a\u00e3\u0080\u0081\u00e3\u0081\u009d\u00e3\u0081\u00ae\u00e3\u0083\u00af\u00e3\u0082\u00a4\u00e3\u0083\u00b3\u00e3\u0081\u00ae\u00e3\u0082\u00a8\u00e3\u0083\u0081\u00e3\u0082\u00b1\u00e3\u0083\u0083\u00e3\u0083\u0088\u00e3\u0081\u00af\u00e7\u00a7\u0081\u00e3\u0081\u008c\u00e3\u0083\u0087\u00e3\u0082\u00b6\u00e3\u0082\u00a4\u00e3\u0083\u00b3\u00e3\u0081\u0097\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e3\u0080\u0082\n\u00e3\u0081\u009d\u00e3\u0081\u00ae\u00e3\u0082\u0088\u00e3\u0081\u0086\u00e3\u0081\u00aa\u00e3\u0081\u0094\u00e7\u00b8\u0081\u00e3\u0081\u00ae\u00e4\u00b8\u00ad\u00e3\u0081\u00a7\u00e3\u0080\u0081\u00e3\u0081\u009d\u00e3\u0081\u00ae\u00e4\u00bb\u00a3\u00e8\u00a1\u00a8\u00e3\u0081\u00ae\u00e6\u0096\u00b9\u00e3\u0081\u008b\u00e3\u0082\u0089\u00e3\u0080\u008c\u00e4\u00ba\u00ac\u00e9\u0083\u00bd\u00e3\u0081\u00a7\u00e3\u0081\u009d\u00e3\u0081\u00ae\u00e3\u0083\u00af\u00e3\u0082\u00a4\u00e3\u0083\u00b3\u00e3\u0082\u0092\u00e8\u00b2\u00a9\u00e5\u00a3\u00b2\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0081\u00bf\u00e3\u0081\u00aa\u00e3\u0081\u0084\u00e3\u0081\u008b\u00ef\u00bc\u009f\u00e3\u0080\u008d\u00e3\u0081\u00a8\u00e3\u0081\u00ae\u00e3\u0082\u00aa\u00e3\u0083\u0095\u00e3\u0082\u00a1\u00e3\u0083\u00bc\u00e3\u0082\u0092\u00e5\u008f\u0097\u00e3\u0081\u0091\u00e3\u0080\u0081\u00e6\u0098\u00af\u00e9\u009d\u009e\u00e8\u00b2\u00a9\u00e5\u00a3\u00b2\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e3\u0081\u0084\u00e3\u0081\u00a8\u00e8\u0080\u0083\u00e3\u0081\u0088\u00e3\u0081\u00a6\u00e3\u0081\u008a\u00e3\u0082\u008a\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082\n\u00e3\u0081\u009d\u00e3\u0081\u00ae\u00e3\u0081\u0093\u00e3\u0081\u00a8\u00e3\u0082\u0092\u00e5\u008f\u008b\u00e4\u00ba\u00ba\u00e3\u0081\u00aeBryn\u00e3\u0081\u00ab\u00e7\u009b\u00b8\u00e8\u00ab\u0087\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e3\u0081\u00a8\u00e3\u0081\u0093\u00e3\u0082\u008d\u00e3\u0080\u0081\u00e3\u0081\u0082\u00e3\u0081\u00aa\u00e3\u0081\u009f\u00e3\u0081\u00ae\u00e3\u0081\u0093\u00e3\u0081\u00a8\u00e3\u0082\u0092\u00e6\u0095\u0099\u00e3\u0081\u0088\u00e3\u0081\u00a6\u00e9\u00a0\u0082\u00e3\u0081\u008d\u00e3\u0080\u0081\u00e4\u00bb\u008a\u00e5\u009b\u009e\u00e3\u0081\u0094\u00e9\u0080\u00a3\u00e7\u00b5\u00a1\u00e3\u0081\u0095\u00e3\u0081\u009b\u00e3\u0081\u00a6\u00e3\u0081\u0084\u00e3\u0081\u009f\u00e3\u0081\u00a0\u00e3\u0081\u008d\u00e3\u0081\u00be\u00e3\u0081\u0097\u00e3\u0081\u009f\u00e3\u0080\u0082\n\n\u00e3\u0082\u0088\u00e3\u0082\u008d\u00e3\u0081\u0097\u00e3\u0081\u0091\u00e3\u0082\u008c\u00e3\u0081\u00b0\u00e7\u009b\u00b4\u00e6\u008e\u00a5\u00e3\u0081\u008a\u00e4\u00bc\u009a\u00e3\u0081\u0084\u00e3\u0081\u0097\u00e3\u0081\u00a6\u00e3\u0081\u0094\u00e7\u009b\u00b8\u00e8\u00ab\u0087\u00e3\u0081\u0095\u00e3\u0081\u009b\u00e3\u0081\u00a6\u00e9\u00a0\u0082\u00e3\u0081\u008d\u00e3\u0081\u009f\u00e3\u0081\u0084\u00e3\u0081\u00a8\u00e6\u0080\u009d\u00e3\u0081\u00a3\u00e3\u0081\u00a6\u00e3\u0081\u0084\u00e3\u0081\u00be\u00e3\u0081\u0099\u00e3\u0080\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1737764058947,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1737762521674,
+      "content": "Good morning,\n\nMy name is Kazuya Fujikawa, a friend of Bryn's.\n\nA member of my family's family owns a vineyard in Saint-Emilion, Bordeaux, and produces wine there.\nI work as a graphic designer, and I designed the label for the wine.\nThrough this connection, the representative of the vineyard approached me asking if I would like to sell the wine in Kyoto, and I would love to do so.\nWhen I spoke to Bryn about this, he told me about you, which is why I contacted you.\n\nI would be happy to meet you in person to discuss the matter.\n\nKazuya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kazuya Fujikawa",
+      "timestamp_ms": 1737762443785,
+      "is_unsent": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1737739996423,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/vincentandkazuya_9191427187589691/photos/473789775_1151302766379744_541030772979212934_n_1151302763046411.jpg",
+          "creation_timestamp": 1737739995
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bryn Dyment",
+      "timestamp_ms": 1737739716680,
+      "content": "Hello Vincent, please meet my good friend Kazuya!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vincent and Kazuya",
+  "is_still_participant": true,
+  "thread_path": "inbox/vincentandkazuya_9191427187589691",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

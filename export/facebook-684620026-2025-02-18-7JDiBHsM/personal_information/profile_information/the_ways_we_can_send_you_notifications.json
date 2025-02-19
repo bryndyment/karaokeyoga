@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Email",
+      "value": "No"
+    },
+    {
+      "label": "SMS",
+      "value": "No"
+    },
+    {
+      "label": "Push notifications",
+      "value": "No"
+    }
+  ],
+  "fbid": "684620026"
+}

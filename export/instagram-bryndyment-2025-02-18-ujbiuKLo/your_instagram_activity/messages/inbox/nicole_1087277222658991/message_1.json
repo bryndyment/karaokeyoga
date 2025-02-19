@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Nicole"
+    },
+    {
+      "name": "Bryn Dyment"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicole",
+      "timestamp_ms": 1690267382219,
+      "content": "Nicole sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CvG9YC3uloEMv5uYYSli1vB0Mtoi44RAPt_5ZM0/",
+        "share_text": "Good times with family & friends!! \n\n\u00f0\u009f\u00a9\u00b5\u00f0\u009f\u0092\u0099\u00f0\u009f\u0092\u009c\u00f0\u009f\u00a9\u00b7\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u00a7\u00a1\u00f0\u009f\u0092\u009b\u00f0\u009f\u0092\u009a",
+        "original_content_owner": "nloves2run"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicole",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicole_1087277222658991",
+  "magic_words": [
+    
+  ]
+}
